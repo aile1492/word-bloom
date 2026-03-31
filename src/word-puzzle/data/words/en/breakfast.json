@@ -1,0 +1,516 @@
+{
+  "theme": "breakfast",
+  "language": "en",
+  "words": [
+    {
+      "word": "EGG",
+      "category": "protein",
+      "difficulty": 1
+    },
+    {
+      "word": "JAM",
+      "category": "spread",
+      "difficulty": 1
+    },
+    {
+      "word": "TEA",
+      "category": "drink",
+      "difficulty": 1
+    },
+    {
+      "word": "HAM",
+      "category": "meat",
+      "difficulty": 1
+    },
+    {
+      "word": "OAT",
+      "category": "grain",
+      "difficulty": 1
+    },
+    {
+      "word": "RYE",
+      "category": "grain",
+      "difficulty": 1
+    },
+    {
+      "word": "BRAN",
+      "category": "grain",
+      "difficulty": 1
+    },
+    {
+      "word": "ROLL",
+      "category": "bread",
+      "difficulty": 1
+    },
+    {
+      "word": "MILK",
+      "category": "dairy",
+      "difficulty": 1
+    },
+    {
+      "word": "HONEY",
+      "category": "spread",
+      "difficulty": 1
+    },
+    {
+      "word": "TOAST",
+      "category": "bread",
+      "difficulty": 1
+    },
+    {
+      "word": "BACON",
+      "category": "meat",
+      "difficulty": 1
+    },
+    {
+      "word": "CREPE",
+      "category": "baked",
+      "difficulty": 1
+    },
+    {
+      "word": "FRUIT",
+      "category": "food",
+      "difficulty": 1
+    },
+    {
+      "word": "JUICE",
+      "category": "drink",
+      "difficulty": 1
+    },
+    {
+      "word": "MUESLI",
+      "category": "cereal",
+      "difficulty": 1
+    },
+    {
+      "word": "WAFFLE",
+      "category": "baked",
+      "difficulty": 1
+    },
+    {
+      "word": "YOGURT",
+      "category": "dairy",
+      "difficulty": 1
+    },
+    {
+      "word": "MUFFIN",
+      "category": "baked",
+      "difficulty": 1
+    },
+    {
+      "word": "BAGEL",
+      "category": "bread",
+      "difficulty": 1
+    },
+    {
+      "word": "BISCUIT",
+      "category": "bread",
+      "difficulty": 1
+    },
+    {
+      "word": "GRAVY",
+      "category": "sauce",
+      "difficulty": 1
+    },
+    {
+      "word": "MAPLE",
+      "category": "syrup",
+      "difficulty": 1
+    },
+    {
+      "word": "SYRUP",
+      "category": "syrup",
+      "difficulty": 1
+    },
+    {
+      "word": "BUTTER",
+      "category": "spread",
+      "difficulty": 1
+    },
+    {
+      "word": "OMELET",
+      "category": "egg",
+      "difficulty": 1
+    },
+    {
+      "word": "SCONE",
+      "category": "baked",
+      "difficulty": 1
+    },
+    {
+      "word": "CEREAL",
+      "category": "cereal",
+      "difficulty": 1
+    },
+    {
+      "word": "MARMALADE",
+      "category": "spread",
+      "difficulty": 1
+    },
+    {
+      "word": "COFFEE",
+      "category": "drink",
+      "difficulty": 1
+    },
+    {
+      "word": "CROISSANT",
+      "category": "bread",
+      "difficulty": 1
+    },
+    {
+      "word": "QUICHE",
+      "category": "egg",
+      "difficulty": 1
+    },
+    {
+      "word": "FRITTER",
+      "category": "fried",
+      "difficulty": 1
+    },
+    {
+      "word": "KEDGEREE",
+      "category": "rice",
+      "difficulty": 1
+    },
+    {
+      "word": "PORRIDGE",
+      "category": "cereal",
+      "difficulty": 1
+    },
+    {
+      "word": "SAUSAGE",
+      "category": "meat",
+      "difficulty": 1
+    },
+    {
+      "word": "FRITTATA",
+      "category": "egg",
+      "difficulty": 1
+    },
+    {
+      "word": "HASH",
+      "category": "potato",
+      "difficulty": 1
+    },
+    {
+      "word": "BENEDICT",
+      "category": "egg",
+      "difficulty": 1
+    },
+    {
+      "word": "BRIOCHE",
+      "category": "bread",
+      "difficulty": 1
+    },
+    {
+      "word": "GRANOLA",
+      "category": "cereal",
+      "difficulty": 2
+    },
+    {
+      "word": "PANCAKES",
+      "category": "baked",
+      "difficulty": 2
+    },
+    {
+      "word": "OATMEAL",
+      "category": "cereal",
+      "difficulty": 2
+    },
+    {
+      "word": "HASHBROWN",
+      "category": "potato",
+      "difficulty": 2
+    },
+    {
+      "word": "STRUDEL",
+      "category": "pastry",
+      "difficulty": 2
+    },
+    {
+      "word": "CRUMPET",
+      "category": "bread",
+      "difficulty": 2
+    },
+    {
+      "word": "CORNFLAKES",
+      "category": "cereal",
+      "difficulty": 2
+    },
+    {
+      "word": "OVERNIGHT",
+      "category": "concept",
+      "difficulty": 2
+    },
+    {
+      "word": "SHAKSHUKA",
+      "category": "egg",
+      "difficulty": 2
+    },
+    {
+      "word": "SMOOTHIE",
+      "category": "drink",
+      "difficulty": 2
+    },
+    {
+      "word": "CONGEE",
+      "category": "rice",
+      "difficulty": 2
+    },
+    {
+      "word": "HUEVOS",
+      "category": "egg",
+      "difficulty": 2
+    },
+    {
+      "word": "RANCHEROS",
+      "category": "egg",
+      "difficulty": 2
+    },
+    {
+      "word": "FRENCH",
+      "category": "toast",
+      "difficulty": 2
+    },
+    {
+      "word": "BIRCHER",
+      "category": "cereal",
+      "difficulty": 2
+    },
+    {
+      "word": "AVOCADO",
+      "category": "spread",
+      "difficulty": 2
+    },
+    {
+      "word": "ESPRESSO",
+      "category": "drink",
+      "difficulty": 2
+    },
+    {
+      "word": "CAPPUCCINO",
+      "category": "drink",
+      "difficulty": 2
+    },
+    {
+      "word": "FLATBREAD",
+      "category": "bread",
+      "difficulty": 2
+    },
+    {
+      "word": "CHURROS",
+      "category": "fried",
+      "difficulty": 2
+    },
+    {
+      "word": "POACHED",
+      "category": "egg",
+      "difficulty": 2
+    },
+    {
+      "word": "SCRAMBLED",
+      "category": "egg",
+      "difficulty": 2
+    },
+    {
+      "word": "SOFTBOILED",
+      "category": "egg",
+      "difficulty": 2
+    },
+    {
+      "word": "HARDBOILED",
+      "category": "egg",
+      "difficulty": 2
+    },
+    {
+      "word": "SUNNYSIDE",
+      "category": "egg",
+      "difficulty": 2
+    },
+    {
+      "word": "OVERHARD",
+      "category": "egg",
+      "difficulty": 2
+    },
+    {
+      "word": "SMOKED",
+      "category": "fish",
+      "difficulty": 2
+    },
+    {
+      "word": "SALMON",
+      "category": "fish",
+      "difficulty": 2
+    },
+    {
+      "word": "HERRING",
+      "category": "fish",
+      "difficulty": 2
+    },
+    {
+      "word": "BLOATER",
+      "category": "fish",
+      "difficulty": 2
+    },
+    {
+      "word": "LABNEH",
+      "category": "dairy",
+      "difficulty": 2
+    },
+    {
+      "word": "MANCHEGO",
+      "category": "dairy",
+      "difficulty": 2
+    },
+    {
+      "word": "BAGUETTE",
+      "category": "bread",
+      "difficulty": 2
+    },
+    {
+      "word": "CORNBREAD",
+      "category": "pastry",
+      "difficulty": 2
+    },
+    {
+      "word": "PROSCIUTTO",
+      "category": "meat",
+      "difficulty": 2
+    },
+    {
+      "word": "CROQUE",
+      "category": "sandwich",
+      "difficulty": 2
+    },
+    {
+      "word": "MONSIEUR",
+      "category": "sandwich",
+      "difficulty": 2
+    },
+    {
+      "word": "MADAME",
+      "category": "sandwich",
+      "difficulty": 2
+    },
+    {
+      "word": "BRIOCHE",
+      "category": "bread",
+      "difficulty": 2
+    },
+    {
+      "word": "CLAFOUTIS",
+      "category": "baked",
+      "difficulty": 2
+    },
+    {
+      "word": "FINANCIER",
+      "category": "baked",
+      "difficulty": 2
+    },
+    {
+      "word": "FULL",
+      "category": "concept",
+      "difficulty": 2
+    },
+    {
+      "word": "WHOLESOME",
+      "category": "concept",
+      "difficulty": 3
+    },
+    {
+      "word": "NUTRITIOUS",
+      "category": "concept",
+      "difficulty": 3
+    },
+    {
+      "word": "MULTIGRAIN",
+      "category": "cereal",
+      "difficulty": 3
+    },
+    {
+      "word": "FRUITBOWL",
+      "category": "drink",
+      "difficulty": 3
+    },
+    {
+      "word": "ACAIBOWL",
+      "category": "food",
+      "difficulty": 3
+    },
+    {
+      "word": "PAINPERDU",
+      "category": "toast",
+      "difficulty": 3
+    },
+    {
+      "word": "FLORENTINE",
+      "category": "egg",
+      "difficulty": 3
+    },
+    {
+      "word": "REMOULADE",
+      "category": "sauce",
+      "difficulty": 3
+    },
+    {
+      "word": "HOMECOOKED",
+      "category": "concept",
+      "difficulty": 3
+    },
+    {
+      "word": "BRUNCH",
+      "category": "concept",
+      "difficulty": 3
+    },
+    {
+      "word": "CHILAQUIL",
+      "category": "egg",
+      "difficulty": 3
+    },
+    {
+      "word": "SHAKSHUKA",
+      "category": "egg",
+      "difficulty": 3
+    },
+    {
+      "word": "OATFLAKES",
+      "category": "cereal",
+      "difficulty": 3
+    },
+    {
+      "word": "COLDCEREAL",
+      "category": "cereal",
+      "difficulty": 3
+    },
+    {
+      "word": "HOMEFRIES",
+      "category": "potato",
+      "difficulty": 3
+    },
+    {
+      "word": "BUCKWHEAT",
+      "category": "baked",
+      "difficulty": 3
+    },
+    {
+      "word": "FLAPJACKS",
+      "category": "baked",
+      "difficulty": 3
+    },
+    {
+      "word": "HEARTYFRY",
+      "category": "concept",
+      "difficulty": 3
+    },
+    {
+      "word": "ENGLISHTEA",
+      "category": "drink",
+      "difficulty": 3
+    },
+    {
+      "word": "LIGHTMEAL",
+      "category": "concept",
+      "difficulty": 3
+    }
+  ]
+}

@@ -1,0 +1,506 @@
+{
+  "theme": "sports",
+  "language": "en",
+  "words": [
+    {
+      "word": "GYM",
+      "category": "concept",
+      "difficulty": 1
+    },
+    {
+      "word": "WIN",
+      "category": "concept",
+      "difficulty": 1
+    },
+    {
+      "word": "RUN",
+      "category": "track",
+      "difficulty": 1
+    },
+    {
+      "word": "SKI",
+      "category": "winter",
+      "difficulty": 1
+    },
+    {
+      "word": "ACE",
+      "category": "racket",
+      "difficulty": 1
+    },
+    {
+      "word": "LAP",
+      "category": "track",
+      "difficulty": 1
+    },
+    {
+      "word": "SET",
+      "category": "racket",
+      "difficulty": 1
+    },
+    {
+      "word": "GOLF",
+      "category": "precision",
+      "difficulty": 1
+    },
+    {
+      "word": "SWIM",
+      "category": "aquatic",
+      "difficulty": 1
+    },
+    {
+      "word": "RACE",
+      "category": "track",
+      "difficulty": 1
+    },
+    {
+      "word": "JUDO",
+      "category": "combat",
+      "difficulty": 1
+    },
+    {
+      "word": "POLO",
+      "category": "equestrian",
+      "difficulty": 1
+    },
+    {
+      "word": "LUGE",
+      "category": "winter",
+      "difficulty": 1
+    },
+    {
+      "word": "YOGA",
+      "category": "fitness",
+      "difficulty": 1
+    },
+    {
+      "word": "VAULT",
+      "category": "gymnastics",
+      "difficulty": 1
+    },
+    {
+      "word": "RUGBY",
+      "category": "team",
+      "difficulty": 1
+    },
+    {
+      "word": "RELAY",
+      "category": "track",
+      "difficulty": 1
+    },
+    {
+      "word": "LUNGE",
+      "category": "gymnastics",
+      "difficulty": 1
+    },
+    {
+      "word": "PITCH",
+      "category": "team",
+      "difficulty": 1
+    },
+    {
+      "word": "SCORE",
+      "category": "concept",
+      "difficulty": 1
+    },
+    {
+      "word": "COACH",
+      "category": "concept",
+      "difficulty": 1
+    },
+    {
+      "word": "MEDAL",
+      "category": "concept",
+      "difficulty": 1
+    },
+    {
+      "word": "SERVE",
+      "category": "racket",
+      "difficulty": 1
+    },
+    {
+      "word": "COURT",
+      "category": "concept",
+      "difficulty": 1
+    },
+    {
+      "word": "GUARD",
+      "category": "team",
+      "difficulty": 1
+    },
+    {
+      "word": "BENCH",
+      "category": "concept",
+      "difficulty": 1
+    },
+    {
+      "word": "FIELD",
+      "category": "concept",
+      "difficulty": 1
+    },
+    {
+      "word": "SPURT",
+      "category": "track",
+      "difficulty": 1
+    },
+    {
+      "word": "THROW",
+      "category": "field",
+      "difficulty": 1
+    },
+    {
+      "word": "CATCH",
+      "category": "team",
+      "difficulty": 1
+    },
+    {
+      "word": "BLOCK",
+      "category": "combat",
+      "difficulty": 1
+    },
+    {
+      "word": "PUNCH",
+      "category": "combat",
+      "difficulty": 1
+    },
+    {
+      "word": "RUCK",
+      "category": "team",
+      "difficulty": 1
+    },
+    {
+      "word": "PACE",
+      "category": "track",
+      "difficulty": 1
+    },
+    {
+      "word": "BOUT",
+      "category": "combat",
+      "difficulty": 1
+    },
+    {
+      "word": "HEAT",
+      "category": "track",
+      "difficulty": 1
+    },
+    {
+      "word": "LEAP",
+      "category": "field",
+      "difficulty": 1
+    },
+    {
+      "word": "PASS",
+      "category": "team",
+      "difficulty": 1
+    },
+    {
+      "word": "KICK",
+      "category": "team",
+      "difficulty": 1
+    },
+    {
+      "word": "FOUL",
+      "category": "concept",
+      "difficulty": 1
+    },
+    {
+      "word": "SOCCER",
+      "category": "team",
+      "difficulty": 2
+    },
+    {
+      "word": "TENNIS",
+      "category": "racket",
+      "difficulty": 2
+    },
+    {
+      "word": "BOXING",
+      "category": "combat",
+      "difficulty": 2
+    },
+    {
+      "word": "ROWING",
+      "category": "aquatic",
+      "difficulty": 2
+    },
+    {
+      "word": "SPRINT",
+      "category": "track",
+      "difficulty": 2
+    },
+    {
+      "word": "HURDLE",
+      "category": "track",
+      "difficulty": 2
+    },
+    {
+      "word": "DISCUS",
+      "category": "field",
+      "difficulty": 2
+    },
+    {
+      "word": "HOCKEY",
+      "category": "team",
+      "difficulty": 2
+    },
+    {
+      "word": "DIVING",
+      "category": "aquatic",
+      "difficulty": 2
+    },
+    {
+      "word": "SKIING",
+      "category": "winter",
+      "difficulty": 2
+    },
+    {
+      "word": "KARATE",
+      "category": "combat",
+      "difficulty": 2
+    },
+    {
+      "word": "SQUASH",
+      "category": "racket",
+      "difficulty": 2
+    },
+    {
+      "word": "TACKLE",
+      "category": "team",
+      "difficulty": 2
+    },
+    {
+      "word": "DOPING",
+      "category": "concept",
+      "difficulty": 2
+    },
+    {
+      "word": "HELMET",
+      "category": "concept",
+      "difficulty": 2
+    },
+    {
+      "word": "TROPHY",
+      "category": "concept",
+      "difficulty": 2
+    },
+    {
+      "word": "REBOUND",
+      "category": "team",
+      "difficulty": 2
+    },
+    {
+      "word": "JAVELIN",
+      "category": "field",
+      "difficulty": 2
+    },
+    {
+      "word": "ARCHERY",
+      "category": "precision",
+      "difficulty": 2
+    },
+    {
+      "word": "CYCLING",
+      "category": "endurance",
+      "difficulty": 2
+    },
+    {
+      "word": "FENCING",
+      "category": "combat",
+      "difficulty": 2
+    },
+    {
+      "word": "SKATING",
+      "category": "winter",
+      "difficulty": 2
+    },
+    {
+      "word": "SURFING",
+      "category": "aquatic",
+      "difficulty": 2
+    },
+    {
+      "word": "STAMINA",
+      "category": "concept",
+      "difficulty": 2
+    },
+    {
+      "word": "QUARTER",
+      "category": "concept",
+      "difficulty": 2
+    },
+    {
+      "word": "PENALTY",
+      "category": "concept",
+      "difficulty": 2
+    },
+    {
+      "word": "CAPTAIN",
+      "category": "concept",
+      "difficulty": 2
+    },
+    {
+      "word": "TIMEOUT",
+      "category": "concept",
+      "difficulty": 2
+    },
+    {
+      "word": "DRIBBLE",
+      "category": "team",
+      "difficulty": 2
+    },
+    {
+      "word": "OFFSIDE",
+      "category": "team",
+      "difficulty": 2
+    },
+    {
+      "word": "RACECAR",
+      "category": "motor",
+      "difficulty": 2
+    },
+    {
+      "word": "BASEBALL",
+      "category": "team",
+      "difficulty": 2
+    },
+    {
+      "word": "FOOTBALL",
+      "category": "team",
+      "difficulty": 2
+    },
+    {
+      "word": "MARATHON",
+      "category": "endurance",
+      "difficulty": 2
+    },
+    {
+      "word": "HANDBALL",
+      "category": "team",
+      "difficulty": 2
+    },
+    {
+      "word": "SHOOTING",
+      "category": "precision",
+      "difficulty": 2
+    },
+    {
+      "word": "EQUESTRIAN",
+      "category": "equestrian",
+      "difficulty": 2
+    },
+    {
+      "word": "OBSTACLE",
+      "category": "concept",
+      "difficulty": 2
+    },
+    {
+      "word": "SLALOM",
+      "category": "winter",
+      "difficulty": 2
+    },
+    {
+      "word": "CROSSBAR",
+      "category": "concept",
+      "difficulty": 2
+    },
+    {
+      "word": "BASKETBALL",
+      "category": "team",
+      "difficulty": 3
+    },
+    {
+      "word": "VOLLEYBALL",
+      "category": "team",
+      "difficulty": 3
+    },
+    {
+      "word": "BADMINTON",
+      "category": "racket",
+      "difficulty": 3
+    },
+    {
+      "word": "TRIATHLON",
+      "category": "endurance",
+      "difficulty": 3
+    },
+    {
+      "word": "WRESTLING",
+      "category": "combat",
+      "difficulty": 3
+    },
+    {
+      "word": "GYMNASTICS",
+      "category": "gymnastics",
+      "difficulty": 3
+    },
+    {
+      "word": "SKATEBOARD",
+      "category": "extreme",
+      "difficulty": 3
+    },
+    {
+      "word": "POWERLIFTS",
+      "category": "strength",
+      "difficulty": 3
+    },
+    {
+      "word": "WATERPOLO",
+      "category": "aquatic",
+      "difficulty": 3
+    },
+    {
+      "word": "TAEKWONDO",
+      "category": "combat",
+      "difficulty": 3
+    },
+    {
+      "word": "DECATHLON",
+      "category": "track",
+      "difficulty": 3
+    },
+    {
+      "word": "LONGBOARD",
+      "category": "aquatic",
+      "difficulty": 3
+    },
+    {
+      "word": "MOTOCROSS",
+      "category": "motor",
+      "difficulty": 3
+    },
+    {
+      "word": "KICKBOXING",
+      "category": "combat",
+      "difficulty": 3
+    },
+    {
+      "word": "PENTATHLON",
+      "category": "endurance",
+      "difficulty": 3
+    },
+    {
+      "word": "PARAPLANE",
+      "category": "extreme",
+      "difficulty": 3
+    },
+    {
+      "word": "TRAILBIKE",
+      "category": "endurance",
+      "difficulty": 3
+    },
+    {
+      "word": "DEADLIFTS",
+      "category": "strength",
+      "difficulty": 3
+    },
+    {
+      "word": "BOBSLEIGH",
+      "category": "winter",
+      "difficulty": 3
+    },
+    {
+      "word": "KITEBOARD",
+      "category": "aquatic",
+      "difficulty": 3
+    }
+  ]
+}

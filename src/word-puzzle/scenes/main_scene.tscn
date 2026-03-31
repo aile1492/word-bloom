@@ -1,0 +1,77 @@
+[gd_scene load_steps=8 format=3 uid="uid://main_scene"]
+
+[ext_resource type="Script" path="res://scripts/ui/main_scene.gd" id="1_ms"]
+[ext_resource type="PackedScene" path="res://scenes/screens/daily_screen.tscn" id="2_daily"]
+[ext_resource type="PackedScene" path="res://scenes/screens/team_screen.tscn" id="3_team"]
+[ext_resource type="PackedScene" path="res://scenes/screens/home_screen.tscn" id="4_home"]
+[ext_resource type="PackedScene" path="res://scenes/screens/collection_screen.tscn" id="5_collection"]
+[ext_resource type="PackedScene" path="res://scenes/screens/shop_screen.tscn" id="6_shop"]
+[ext_resource type="PackedScene" path="res://scenes/components/bottom_tab_bar.tscn" id="7_btb"]
+
+[node name="MainScene" type="Control"]
+script = ExtResource("1_ms")
+layout_mode = 3
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+
+[node name="TabLayer" type="CanvasLayer" parent="."]
+layer = 0
+
+[node name="DailyScreen" parent="TabLayer" instance=ExtResource("2_daily")]
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+offset_bottom = -160.0
+grow_horizontal = 2
+grow_vertical = 2
+
+[node name="TeamScreen" parent="TabLayer" instance=ExtResource("3_team")]
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+offset_bottom = -160.0
+grow_horizontal = 2
+grow_vertical = 2
+
+[node name="HomeScreen" parent="TabLayer" instance=ExtResource("4_home")]
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+
+[node name="CollectionScreen" parent="TabLayer" instance=ExtResource("5_collection")]
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+offset_bottom = -160.0
+grow_horizontal = 2
+grow_vertical = 2
+
+[node name="ShopScreen" parent="TabLayer" instance=ExtResource("6_shop")]
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+offset_bottom = -160.0
+grow_horizontal = 2
+grow_vertical = 2
+
+[node name="BarLayer" type="CanvasLayer" parent="."]
+layer = 5
+
+[node name="BottomTabBar" parent="BarLayer" instance=ExtResource("7_btb")]
+layout_mode = 1
+
+[node name="PushLayer" type="CanvasLayer" parent="."]
+layer = 10
+
+[node name="PopupLayer" type="CanvasLayer" parent="."]
+layer = 20

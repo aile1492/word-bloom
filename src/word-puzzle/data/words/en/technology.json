@@ -1,0 +1,506 @@
+{
+  "theme": "technology",
+  "language": "en",
+  "words": [
+    {
+      "word": "APP",
+      "category": "software",
+      "difficulty": 1
+    },
+    {
+      "word": "CPU",
+      "category": "hardware",
+      "difficulty": 1
+    },
+    {
+      "word": "RAM",
+      "category": "hardware",
+      "difficulty": 1
+    },
+    {
+      "word": "USB",
+      "category": "hardware",
+      "difficulty": 1
+    },
+    {
+      "word": "LAN",
+      "category": "network",
+      "difficulty": 1
+    },
+    {
+      "word": "BIT",
+      "category": "data",
+      "difficulty": 1
+    },
+    {
+      "word": "BUS",
+      "category": "hardware",
+      "difficulty": 1
+    },
+    {
+      "word": "API",
+      "category": "software",
+      "difficulty": 1
+    },
+    {
+      "word": "GPU",
+      "category": "hardware",
+      "difficulty": 1
+    },
+    {
+      "word": "NET",
+      "category": "network",
+      "difficulty": 1
+    },
+    {
+      "word": "DATA",
+      "category": "information",
+      "difficulty": 1
+    },
+    {
+      "word": "WIFI",
+      "category": "network",
+      "difficulty": 1
+    },
+    {
+      "word": "FILE",
+      "category": "software",
+      "difficulty": 1
+    },
+    {
+      "word": "CODE",
+      "category": "software",
+      "difficulty": 1
+    },
+    {
+      "word": "BYTE",
+      "category": "data",
+      "difficulty": 1
+    },
+    {
+      "word": "CHIP",
+      "category": "hardware",
+      "difficulty": 1
+    },
+    {
+      "word": "DISK",
+      "category": "storage",
+      "difficulty": 1
+    },
+    {
+      "word": "ICON",
+      "category": "interface",
+      "difficulty": 1
+    },
+    {
+      "word": "LINK",
+      "category": "network",
+      "difficulty": 1
+    },
+    {
+      "word": "MENU",
+      "category": "interface",
+      "difficulty": 1
+    },
+    {
+      "word": "PORT",
+      "category": "hardware",
+      "difficulty": 1
+    },
+    {
+      "word": "SCAN",
+      "category": "process",
+      "difficulty": 1
+    },
+    {
+      "word": "GRID",
+      "category": "interface",
+      "difficulty": 1
+    },
+    {
+      "word": "LOG",
+      "category": "software",
+      "difficulty": 1
+    },
+    {
+      "word": "BOOT",
+      "category": "process",
+      "difficulty": 1
+    },
+    {
+      "word": "FONT",
+      "category": "interface",
+      "difficulty": 1
+    },
+    {
+      "word": "DRAG",
+      "category": "interface",
+      "difficulty": 1
+    },
+    {
+      "word": "LOOP",
+      "category": "software",
+      "difficulty": 1
+    },
+    {
+      "word": "PING",
+      "category": "network",
+      "difficulty": 1
+    },
+    {
+      "word": "NODE",
+      "category": "network",
+      "difficulty": 1
+    },
+    {
+      "word": "HASH",
+      "category": "security",
+      "difficulty": 1
+    },
+    {
+      "word": "TABS",
+      "category": "interface",
+      "difficulty": 1
+    },
+    {
+      "word": "FEED",
+      "category": "content",
+      "difficulty": 1
+    },
+    {
+      "word": "SYNC",
+      "category": "process",
+      "difficulty": 1
+    },
+    {
+      "word": "BLOB",
+      "category": "data",
+      "difficulty": 1
+    },
+    {
+      "word": "HEAP",
+      "category": "memory",
+      "difficulty": 1
+    },
+    {
+      "word": "FORK",
+      "category": "software",
+      "difficulty": 1
+    },
+    {
+      "word": "PUSH",
+      "category": "software",
+      "difficulty": 1
+    },
+    {
+      "word": "PULL",
+      "category": "software",
+      "difficulty": 1
+    },
+    {
+      "word": "VOID",
+      "category": "software",
+      "difficulty": 1
+    },
+    {
+      "word": "CLOUD",
+      "category": "storage",
+      "difficulty": 2
+    },
+    {
+      "word": "EMAIL",
+      "category": "communication",
+      "difficulty": 2
+    },
+    {
+      "word": "MOUSE",
+      "category": "hardware",
+      "difficulty": 2
+    },
+    {
+      "word": "PIXEL",
+      "category": "display",
+      "difficulty": 2
+    },
+    {
+      "word": "ROBOT",
+      "category": "hardware",
+      "difficulty": 2
+    },
+    {
+      "word": "TOKEN",
+      "category": "security",
+      "difficulty": 2
+    },
+    {
+      "word": "VIDEO",
+      "category": "media",
+      "difficulty": 2
+    },
+    {
+      "word": "VIRUS",
+      "category": "security",
+      "difficulty": 2
+    },
+    {
+      "word": "CURSOR",
+      "category": "interface",
+      "difficulty": 2
+    },
+    {
+      "word": "BACKUP",
+      "category": "storage",
+      "difficulty": 2
+    },
+    {
+      "word": "CAMERA",
+      "category": "hardware",
+      "difficulty": 2
+    },
+    {
+      "word": "COOKIE",
+      "category": "web",
+      "difficulty": 2
+    },
+    {
+      "word": "LAPTOP",
+      "category": "hardware",
+      "difficulty": 2
+    },
+    {
+      "word": "MOBILE",
+      "category": "hardware",
+      "difficulty": 2
+    },
+    {
+      "word": "ROUTER",
+      "category": "network",
+      "difficulty": 2
+    },
+    {
+      "word": "SCREEN",
+      "category": "display",
+      "difficulty": 2
+    },
+    {
+      "word": "SENSOR",
+      "category": "hardware",
+      "difficulty": 2
+    },
+    {
+      "word": "SERVER",
+      "category": "network",
+      "difficulty": 2
+    },
+    {
+      "word": "SIGNAL",
+      "category": "network",
+      "difficulty": 2
+    },
+    {
+      "word": "KERNEL",
+      "category": "software",
+      "difficulty": 2
+    },
+    {
+      "word": "PACKET",
+      "category": "network",
+      "difficulty": 2
+    },
+    {
+      "word": "SOCKET",
+      "category": "network",
+      "difficulty": 2
+    },
+    {
+      "word": "SPRITE",
+      "category": "graphics",
+      "difficulty": 2
+    },
+    {
+      "word": "THREAD",
+      "category": "software",
+      "difficulty": 2
+    },
+    {
+      "word": "BUFFER",
+      "category": "memory",
+      "difficulty": 2
+    },
+    {
+      "word": "CACHE",
+      "category": "memory",
+      "difficulty": 2
+    },
+    {
+      "word": "BROWSER",
+      "category": "software",
+      "difficulty": 2
+    },
+    {
+      "word": "CONSOLE",
+      "category": "interface",
+      "difficulty": 2
+    },
+    {
+      "word": "DESKTOP",
+      "category": "hardware",
+      "difficulty": 2
+    },
+    {
+      "word": "DISPLAY",
+      "category": "hardware",
+      "difficulty": 2
+    },
+    {
+      "word": "NETWORK",
+      "category": "network",
+      "difficulty": 2
+    },
+    {
+      "word": "PROGRAM",
+      "category": "software",
+      "difficulty": 2
+    },
+    {
+      "word": "STORAGE",
+      "category": "hardware",
+      "difficulty": 2
+    },
+    {
+      "word": "ANTENNA",
+      "category": "hardware",
+      "difficulty": 2
+    },
+    {
+      "word": "BATTERY",
+      "category": "hardware",
+      "difficulty": 2
+    },
+    {
+      "word": "FIREWALL",
+      "category": "security",
+      "difficulty": 2
+    },
+    {
+      "word": "COMPILER",
+      "category": "software",
+      "difficulty": 2
+    },
+    {
+      "word": "DATABASE",
+      "category": "software",
+      "difficulty": 2
+    },
+    {
+      "word": "DEBUGGER",
+      "category": "software",
+      "difficulty": 2
+    },
+    {
+      "word": "DOWNLOAD",
+      "category": "process",
+      "difficulty": 2
+    },
+    {
+      "word": "ALGORITHM",
+      "category": "software",
+      "difficulty": 3
+    },
+    {
+      "word": "BLUETOOTH",
+      "category": "network",
+      "difficulty": 3
+    },
+    {
+      "word": "INTERFACE",
+      "category": "software",
+      "difficulty": 3
+    },
+    {
+      "word": "PROCESSOR",
+      "category": "hardware",
+      "difficulty": 3
+    },
+    {
+      "word": "SOFTWARE",
+      "category": "software",
+      "difficulty": 3
+    },
+    {
+      "word": "BANDWIDTH",
+      "category": "network",
+      "difficulty": 3
+    },
+    {
+      "word": "SMARTPHONE",
+      "category": "hardware",
+      "difficulty": 3
+    },
+    {
+      "word": "CYBERSAFE",
+      "category": "security",
+      "difficulty": 3
+    },
+    {
+      "word": "SCRIPTING",
+      "category": "software",
+      "difficulty": 3
+    },
+    {
+      "word": "ENCRYPTION",
+      "category": "security",
+      "difficulty": 3
+    },
+    {
+      "word": "BLOCKCHAIN",
+      "category": "finance",
+      "difficulty": 3
+    },
+    {
+      "word": "CHIPMAKER",
+      "category": "hardware",
+      "difficulty": 3
+    },
+    {
+      "word": "CONTAINER",
+      "category": "software",
+      "difficulty": 3
+    },
+    {
+      "word": "THREADING",
+      "category": "software",
+      "difficulty": 3
+    },
+    {
+      "word": "HYPERVISOR",
+      "category": "software",
+      "difficulty": 3
+    },
+    {
+      "word": "TRANSISTOR",
+      "category": "hardware",
+      "difficulty": 3
+    },
+    {
+      "word": "FRAMEWORK",
+      "category": "network",
+      "difficulty": 3
+    },
+    {
+      "word": "BIOMETRIC",
+      "category": "security",
+      "difficulty": 3
+    },
+    {
+      "word": "NANOSCALE",
+      "category": "emerging",
+      "difficulty": 3
+    },
+    {
+      "word": "NETWORKING",
+      "category": "network",
+      "difficulty": 3
+    }
+  ]
+}

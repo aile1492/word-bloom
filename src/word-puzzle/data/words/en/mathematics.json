@@ -1,0 +1,506 @@
+{
+  "theme": "mathematics",
+  "language": "en",
+  "words": [
+    {
+      "word": "ADD",
+      "category": "operation",
+      "difficulty": 1
+    },
+    {
+      "word": "SUM",
+      "category": "operation",
+      "difficulty": 1
+    },
+    {
+      "word": "SET",
+      "category": "concept",
+      "difficulty": 1
+    },
+    {
+      "word": "LOG",
+      "category": "operation",
+      "difficulty": 1
+    },
+    {
+      "word": "NTH",
+      "category": "notation",
+      "difficulty": 1
+    },
+    {
+      "word": "ODD",
+      "category": "number",
+      "difficulty": 1
+    },
+    {
+      "word": "NET",
+      "category": "geometry",
+      "difficulty": 1
+    },
+    {
+      "word": "MAP",
+      "category": "function",
+      "difficulty": 1
+    },
+    {
+      "word": "ARC",
+      "category": "geometry",
+      "difficulty": 1
+    },
+    {
+      "word": "RAY",
+      "category": "geometry",
+      "difficulty": 1
+    },
+    {
+      "word": "ZERO",
+      "category": "number",
+      "difficulty": 1
+    },
+    {
+      "word": "PLUS",
+      "category": "operation",
+      "difficulty": 1
+    },
+    {
+      "word": "EVEN",
+      "category": "number",
+      "difficulty": 1
+    },
+    {
+      "word": "AREA",
+      "category": "measurement",
+      "difficulty": 1
+    },
+    {
+      "word": "CUBE",
+      "category": "geometry",
+      "difficulty": 1
+    },
+    {
+      "word": "EDGE",
+      "category": "geometry",
+      "difficulty": 1
+    },
+    {
+      "word": "LINE",
+      "category": "geometry",
+      "difficulty": 1
+    },
+    {
+      "word": "MEAN",
+      "category": "statistics",
+      "difficulty": 1
+    },
+    {
+      "word": "MODE",
+      "category": "statistics",
+      "difficulty": 1
+    },
+    {
+      "word": "NODE",
+      "category": "graph",
+      "difficulty": 1
+    },
+    {
+      "word": "ROOT",
+      "category": "operation",
+      "difficulty": 1
+    },
+    {
+      "word": "RULE",
+      "category": "concept",
+      "difficulty": 1
+    },
+    {
+      "word": "SINE",
+      "category": "trigonometry",
+      "difficulty": 1
+    },
+    {
+      "word": "UNIT",
+      "category": "measurement",
+      "difficulty": 1
+    },
+    {
+      "word": "HALF",
+      "category": "fraction",
+      "difficulty": 1
+    },
+    {
+      "word": "TENS",
+      "category": "number",
+      "difficulty": 1
+    },
+    {
+      "word": "TERM",
+      "category": "algebra",
+      "difficulty": 1
+    },
+    {
+      "word": "AXIS",
+      "category": "geometry",
+      "difficulty": 1
+    },
+    {
+      "word": "GRID",
+      "category": "geometry",
+      "difficulty": 1
+    },
+    {
+      "word": "SIGN",
+      "category": "notation",
+      "difficulty": 1
+    },
+    {
+      "word": "PAIR",
+      "category": "set",
+      "difficulty": 1
+    },
+    {
+      "word": "LESS",
+      "category": "comparison",
+      "difficulty": 1
+    },
+    {
+      "word": "MORE",
+      "category": "comparison",
+      "difficulty": 1
+    },
+    {
+      "word": "NULL",
+      "category": "set",
+      "difficulty": 1
+    },
+    {
+      "word": "BASE",
+      "category": "number",
+      "difficulty": 1
+    },
+    {
+      "word": "TALLY",
+      "category": "counting",
+      "difficulty": 1
+    },
+    {
+      "word": "RANGE",
+      "category": "statistics",
+      "difficulty": 1
+    },
+    {
+      "word": "VALUE",
+      "category": "concept",
+      "difficulty": 1
+    },
+    {
+      "word": "DIGIT",
+      "category": "number",
+      "difficulty": 1
+    },
+    {
+      "word": "PRIME",
+      "category": "number",
+      "difficulty": 1
+    },
+    {
+      "word": "ANGLE",
+      "category": "geometry",
+      "difficulty": 2
+    },
+    {
+      "word": "CURVE",
+      "category": "geometry",
+      "difficulty": 2
+    },
+    {
+      "word": "DELTA",
+      "category": "notation",
+      "difficulty": 2
+    },
+    {
+      "word": "GRAPH",
+      "category": "representation",
+      "difficulty": 2
+    },
+    {
+      "word": "LIMIT",
+      "category": "calculus",
+      "difficulty": 2
+    },
+    {
+      "word": "PROOF",
+      "category": "logic",
+      "difficulty": 2
+    },
+    {
+      "word": "RATIO",
+      "category": "concept",
+      "difficulty": 2
+    },
+    {
+      "word": "SLOPE",
+      "category": "calculus",
+      "difficulty": 2
+    },
+    {
+      "word": "SOLID",
+      "category": "geometry",
+      "difficulty": 2
+    },
+    {
+      "word": "FACTOR",
+      "category": "algebra",
+      "difficulty": 2
+    },
+    {
+      "word": "RADIUS",
+      "category": "geometry",
+      "difficulty": 2
+    },
+    {
+      "word": "VECTOR",
+      "category": "algebra",
+      "difficulty": 2
+    },
+    {
+      "word": "VERTEX",
+      "category": "geometry",
+      "difficulty": 2
+    },
+    {
+      "word": "CIRCLE",
+      "category": "geometry",
+      "difficulty": 2
+    },
+    {
+      "word": "DIVIDE",
+      "category": "operation",
+      "difficulty": 2
+    },
+    {
+      "word": "DOMAIN",
+      "category": "function",
+      "difficulty": 2
+    },
+    {
+      "word": "MATRIX",
+      "category": "algebra",
+      "difficulty": 2
+    },
+    {
+      "word": "MEDIAN",
+      "category": "statistics",
+      "difficulty": 2
+    },
+    {
+      "word": "MODULO",
+      "category": "operation",
+      "difficulty": 2
+    },
+    {
+      "word": "NUMBER",
+      "category": "concept",
+      "difficulty": 2
+    },
+    {
+      "word": "SQUARE",
+      "category": "geometry",
+      "difficulty": 2
+    },
+    {
+      "word": "SCALAR",
+      "category": "algebra",
+      "difficulty": 2
+    },
+    {
+      "word": "TENSOR",
+      "category": "algebra",
+      "difficulty": 2
+    },
+    {
+      "word": "SUBSET",
+      "category": "set",
+      "difficulty": 2
+    },
+    {
+      "word": "DEGREE",
+      "category": "measurement",
+      "difficulty": 2
+    },
+    {
+      "word": "COSINE",
+      "category": "trigonometry",
+      "difficulty": 2
+    },
+    {
+      "word": "ALGEBRA",
+      "category": "branch",
+      "difficulty": 2
+    },
+    {
+      "word": "DECIMAL",
+      "category": "number",
+      "difficulty": 2
+    },
+    {
+      "word": "FORMULA",
+      "category": "concept",
+      "difficulty": 2
+    },
+    {
+      "word": "POLYGON",
+      "category": "geometry",
+      "difficulty": 2
+    },
+    {
+      "word": "THEOREM",
+      "category": "logic",
+      "difficulty": 2
+    },
+    {
+      "word": "AVERAGE",
+      "category": "statistics",
+      "difficulty": 2
+    },
+    {
+      "word": "PROBLEM",
+      "category": "concept",
+      "difficulty": 2
+    },
+    {
+      "word": "FUNCTION",
+      "category": "concept",
+      "difficulty": 2
+    },
+    {
+      "word": "VARIABLE",
+      "category": "algebra",
+      "difficulty": 2
+    },
+    {
+      "word": "NEGATIVE",
+      "category": "number",
+      "difficulty": 2
+    },
+    {
+      "word": "POSITIVE",
+      "category": "number",
+      "difficulty": 2
+    },
+    {
+      "word": "CONSTANT",
+      "category": "algebra",
+      "difficulty": 2
+    },
+    {
+      "word": "QUOTIENT",
+      "category": "operation",
+      "difficulty": 2
+    },
+    {
+      "word": "MULTIPLE",
+      "category": "number",
+      "difficulty": 2
+    },
+    {
+      "word": "GEOMETRY",
+      "category": "branch",
+      "difficulty": 3
+    },
+    {
+      "word": "EQUATION",
+      "category": "algebra",
+      "difficulty": 3
+    },
+    {
+      "word": "FRACTION",
+      "category": "number",
+      "difficulty": 3
+    },
+    {
+      "word": "INTEGRAL",
+      "category": "calculus",
+      "difficulty": 3
+    },
+    {
+      "word": "EXPONENT",
+      "category": "algebra",
+      "difficulty": 3
+    },
+    {
+      "word": "PARABOLA",
+      "category": "geometry",
+      "difficulty": 3
+    },
+    {
+      "word": "SYMMETRY",
+      "category": "geometry",
+      "difficulty": 3
+    },
+    {
+      "word": "SEQUENCE",
+      "category": "concept",
+      "difficulty": 3
+    },
+    {
+      "word": "CALCULUS",
+      "category": "branch",
+      "difficulty": 3
+    },
+    {
+      "word": "ARITHMETIC",
+      "category": "branch",
+      "difficulty": 3
+    },
+    {
+      "word": "QUADRATIC",
+      "category": "algebra",
+      "difficulty": 3
+    },
+    {
+      "word": "STATISTIC",
+      "category": "statistics",
+      "difficulty": 3
+    },
+    {
+      "word": "TRANSPOSE",
+      "category": "combinatorics",
+      "difficulty": 3
+    },
+    {
+      "word": "FACTORIAL",
+      "category": "combinatorics",
+      "difficulty": 3
+    },
+    {
+      "word": "PERIMETER",
+      "category": "geometry",
+      "difficulty": 3
+    },
+    {
+      "word": "SINUSOIDAL",
+      "category": "branch",
+      "difficulty": 3
+    },
+    {
+      "word": "DERIVATIVE",
+      "category": "calculus",
+      "difficulty": 3
+    },
+    {
+      "word": "LOGARITHM",
+      "category": "operation",
+      "difficulty": 3
+    },
+    {
+      "word": "HYPERBOLA",
+      "category": "geometry",
+      "difficulty": 3
+    },
+    {
+      "word": "EIGENVALUE",
+      "category": "algebra",
+      "difficulty": 3
+    }
+  ]
+}

@@ -1,0 +1,496 @@
+{
+  "theme": "music",
+  "language": "en",
+  "words": [
+    {
+      "word": "JAM",
+      "category": "concept",
+      "difficulty": 1
+    },
+    {
+      "word": "HIT",
+      "category": "concept",
+      "difficulty": 1
+    },
+    {
+      "word": "RAP",
+      "category": "genre",
+      "difficulty": 1
+    },
+    {
+      "word": "POP",
+      "category": "genre",
+      "difficulty": 1
+    },
+    {
+      "word": "DUO",
+      "category": "concept",
+      "difficulty": 1
+    },
+    {
+      "word": "GIG",
+      "category": "concept",
+      "difficulty": 1
+    },
+    {
+      "word": "MIX",
+      "category": "concept",
+      "difficulty": 1
+    },
+    {
+      "word": "DRUM",
+      "category": "instrument",
+      "difficulty": 1
+    },
+    {
+      "word": "HARP",
+      "category": "instrument",
+      "difficulty": 1
+    },
+    {
+      "word": "BASS",
+      "category": "instrument",
+      "difficulty": 1
+    },
+    {
+      "word": "JAZZ",
+      "category": "genre",
+      "difficulty": 1
+    },
+    {
+      "word": "ROCK",
+      "category": "genre",
+      "difficulty": 1
+    },
+    {
+      "word": "SOUL",
+      "category": "genre",
+      "difficulty": 1
+    },
+    {
+      "word": "NOTE",
+      "category": "theory",
+      "difficulty": 1
+    },
+    {
+      "word": "BEAT",
+      "category": "theory",
+      "difficulty": 1
+    },
+    {
+      "word": "OBOE",
+      "category": "instrument",
+      "difficulty": 1
+    },
+    {
+      "word": "TUNE",
+      "category": "concept",
+      "difficulty": 1
+    },
+    {
+      "word": "FUNK",
+      "category": "genre",
+      "difficulty": 1
+    },
+    {
+      "word": "LUTE",
+      "category": "instrument",
+      "difficulty": 1
+    },
+    {
+      "word": "FIFE",
+      "category": "instrument",
+      "difficulty": 1
+    },
+    {
+      "word": "PIANO",
+      "category": "instrument",
+      "difficulty": 1
+    },
+    {
+      "word": "FLUTE",
+      "category": "instrument",
+      "difficulty": 1
+    },
+    {
+      "word": "CELLO",
+      "category": "instrument",
+      "difficulty": 1
+    },
+    {
+      "word": "TEMPO",
+      "category": "theory",
+      "difficulty": 1
+    },
+    {
+      "word": "CHORD",
+      "category": "theory",
+      "difficulty": 1
+    },
+    {
+      "word": "SCALE",
+      "category": "theory",
+      "difficulty": 1
+    },
+    {
+      "word": "OPERA",
+      "category": "genre",
+      "difficulty": 1
+    },
+    {
+      "word": "BLUES",
+      "category": "genre",
+      "difficulty": 1
+    },
+    {
+      "word": "SHARP",
+      "category": "theory",
+      "difficulty": 1
+    },
+    {
+      "word": "FORTE",
+      "category": "dynamics",
+      "difficulty": 1
+    },
+    {
+      "word": "TENOR",
+      "category": "vocal",
+      "difficulty": 1
+    },
+    {
+      "word": "LYRIC",
+      "category": "vocal",
+      "difficulty": 1
+    },
+    {
+      "word": "CHOIR",
+      "category": "concept",
+      "difficulty": 1
+    },
+    {
+      "word": "RONDO",
+      "category": "theory",
+      "difficulty": 1
+    },
+    {
+      "word": "DISCO",
+      "category": "genre",
+      "difficulty": 1
+    },
+    {
+      "word": "PITCH",
+      "category": "theory",
+      "difficulty": 1
+    },
+    {
+      "word": "VIOLA",
+      "category": "instrument",
+      "difficulty": 1
+    },
+    {
+      "word": "MOTIF",
+      "category": "theory",
+      "difficulty": 1
+    },
+    {
+      "word": "WALTZ",
+      "category": "genre",
+      "difficulty": 1
+    },
+    {
+      "word": "CANON",
+      "category": "theory",
+      "difficulty": 1
+    },
+    {
+      "word": "GUITAR",
+      "category": "instrument",
+      "difficulty": 2
+    },
+    {
+      "word": "VIOLIN",
+      "category": "instrument",
+      "difficulty": 2
+    },
+    {
+      "word": "MELODY",
+      "category": "theory",
+      "difficulty": 2
+    },
+    {
+      "word": "RHYTHM",
+      "category": "theory",
+      "difficulty": 2
+    },
+    {
+      "word": "TREBLE",
+      "category": "theory",
+      "difficulty": 2
+    },
+    {
+      "word": "OCTAVE",
+      "category": "theory",
+      "difficulty": 2
+    },
+    {
+      "word": "BALLAD",
+      "category": "genre",
+      "difficulty": 2
+    },
+    {
+      "word": "REGGAE",
+      "category": "genre",
+      "difficulty": 2
+    },
+    {
+      "word": "BRIDGE",
+      "category": "concept",
+      "difficulty": 2
+    },
+    {
+      "word": "CHORUS",
+      "category": "concept",
+      "difficulty": 2
+    },
+    {
+      "word": "TIMBRE",
+      "category": "theory",
+      "difficulty": 2
+    },
+    {
+      "word": "SONATA",
+      "category": "form",
+      "difficulty": 2
+    },
+    {
+      "word": "CHORAL",
+      "category": "concept",
+      "difficulty": 2
+    },
+    {
+      "word": "STANZA",
+      "category": "concept",
+      "difficulty": 2
+    },
+    {
+      "word": "RECITAL",
+      "category": "concept",
+      "difficulty": 2
+    },
+    {
+      "word": "TRUMPET",
+      "category": "instrument",
+      "difficulty": 2
+    },
+    {
+      "word": "HARMONY",
+      "category": "theory",
+      "difficulty": 2
+    },
+    {
+      "word": "SOPRANO",
+      "category": "vocal",
+      "difficulty": 2
+    },
+    {
+      "word": "VIBRATO",
+      "category": "technique",
+      "difficulty": 2
+    },
+    {
+      "word": "PRELUDE",
+      "category": "form",
+      "difficulty": 2
+    },
+    {
+      "word": "CADENCE",
+      "category": "theory",
+      "difficulty": 2
+    },
+    {
+      "word": "FANFARE",
+      "category": "concept",
+      "difficulty": 2
+    },
+    {
+      "word": "REFRAIN",
+      "category": "concept",
+      "difficulty": 2
+    },
+    {
+      "word": "TOCCATA",
+      "category": "form",
+      "difficulty": 2
+    },
+    {
+      "word": "FALSETTO",
+      "category": "vocal",
+      "difficulty": 2
+    },
+    {
+      "word": "BARITONE",
+      "category": "vocal",
+      "difficulty": 2
+    },
+    {
+      "word": "CLARINET",
+      "category": "instrument",
+      "difficulty": 2
+    },
+    {
+      "word": "TROMBONE",
+      "category": "instrument",
+      "difficulty": 2
+    },
+    {
+      "word": "CONCERTO",
+      "category": "form",
+      "difficulty": 2
+    },
+    {
+      "word": "MINUET",
+      "category": "form",
+      "difficulty": 2
+    },
+    {
+      "word": "DOWNBEAT",
+      "category": "theory",
+      "difficulty": 2
+    },
+    {
+      "word": "OVERTURE",
+      "category": "form",
+      "difficulty": 2
+    },
+    {
+      "word": "SERENADE",
+      "category": "form",
+      "difficulty": 2
+    },
+    {
+      "word": "KEYBOARD",
+      "category": "instrument",
+      "difficulty": 2
+    },
+    {
+      "word": "BASSLINE",
+      "category": "concept",
+      "difficulty": 2
+    },
+    {
+      "word": "MANDOLIN",
+      "category": "instrument",
+      "difficulty": 2
+    },
+    {
+      "word": "NOCTURNE",
+      "category": "form",
+      "difficulty": 2
+    },
+    {
+      "word": "INTERLUDE",
+      "category": "concept",
+      "difficulty": 2
+    },
+    {
+      "word": "XYLOPHONE",
+      "category": "instrument",
+      "difficulty": 3
+    },
+    {
+      "word": "SAXOPHONE",
+      "category": "instrument",
+      "difficulty": 3
+    },
+    {
+      "word": "ACCORDION",
+      "category": "instrument",
+      "difficulty": 3
+    },
+    {
+      "word": "SYMPHONY",
+      "category": "form",
+      "difficulty": 3
+    },
+    {
+      "word": "PENTATONIC",
+      "category": "theory",
+      "difficulty": 3
+    },
+    {
+      "word": "CONTRALTO",
+      "category": "vocal",
+      "difficulty": 3
+    },
+    {
+      "word": "STACCATO",
+      "category": "technique",
+      "difficulty": 3
+    },
+    {
+      "word": "CRESCENDO",
+      "category": "dynamics",
+      "difficulty": 3
+    },
+    {
+      "word": "DIMINUENDO",
+      "category": "dynamics",
+      "difficulty": 3
+    },
+    {
+      "word": "PIZZICATO",
+      "category": "technique",
+      "difficulty": 3
+    },
+    {
+      "word": "ARPEGGIO",
+      "category": "technique",
+      "difficulty": 3
+    },
+    {
+      "word": "GLISSANDO",
+      "category": "technique",
+      "difficulty": 3
+    },
+    {
+      "word": "MODULATION",
+      "category": "theory",
+      "difficulty": 3
+    },
+    {
+      "word": "IMPROVISE",
+      "category": "technique",
+      "difficulty": 3
+    },
+    {
+      "word": "ORCHESTRAL",
+      "category": "concept",
+      "difficulty": 3
+    },
+    {
+      "word": "PERCUSSION",
+      "category": "instrument",
+      "difficulty": 3
+    },
+    {
+      "word": "OVERTONE",
+      "category": "theory",
+      "difficulty": 3
+    },
+    {
+      "word": "POLYPHONY",
+      "category": "theory",
+      "difficulty": 3
+    },
+    {
+      "word": "HARMONICA",
+      "category": "instrument",
+      "difficulty": 3
+    },
+    {
+      "word": "CHROMATIC",
+      "category": "theory",
+      "difficulty": 3
+    }
+  ]
+}

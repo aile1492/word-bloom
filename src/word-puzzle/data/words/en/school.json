@@ -1,0 +1,506 @@
+{
+  "theme": "school",
+  "language": "en",
+  "words": [
+    {
+      "word": "PEN",
+      "category": "supplies",
+      "difficulty": 1
+    },
+    {
+      "word": "MAP",
+      "category": "classroom",
+      "difficulty": 1
+    },
+    {
+      "word": "INK",
+      "category": "supplies",
+      "difficulty": 1
+    },
+    {
+      "word": "GYM",
+      "category": "facility",
+      "difficulty": 1
+    },
+    {
+      "word": "BUS",
+      "category": "transport",
+      "difficulty": 1
+    },
+    {
+      "word": "ART",
+      "category": "subject",
+      "difficulty": 1
+    },
+    {
+      "word": "LAB",
+      "category": "facility",
+      "difficulty": 1
+    },
+    {
+      "word": "LOG",
+      "category": "record",
+      "difficulty": 1
+    },
+    {
+      "word": "CUP",
+      "category": "award",
+      "difficulty": 1
+    },
+    {
+      "word": "RUN",
+      "category": "activity",
+      "difficulty": 1
+    },
+    {
+      "word": "DESK",
+      "category": "furniture",
+      "difficulty": 1
+    },
+    {
+      "word": "BOOK",
+      "category": "supplies",
+      "difficulty": 1
+    },
+    {
+      "word": "BELL",
+      "category": "facility",
+      "difficulty": 1
+    },
+    {
+      "word": "EXAM",
+      "category": "assessment",
+      "difficulty": 1
+    },
+    {
+      "word": "TEST",
+      "category": "assessment",
+      "difficulty": 1
+    },
+    {
+      "word": "QUIZ",
+      "category": "assessment",
+      "difficulty": 1
+    },
+    {
+      "word": "CLUB",
+      "category": "activity",
+      "difficulty": 1
+    },
+    {
+      "word": "MATH",
+      "category": "subject",
+      "difficulty": 1
+    },
+    {
+      "word": "RULE",
+      "category": "policy",
+      "difficulty": 1
+    },
+    {
+      "word": "NOON",
+      "category": "schedule",
+      "difficulty": 1
+    },
+    {
+      "word": "POEM",
+      "category": "literature",
+      "difficulty": 1
+    },
+    {
+      "word": "PLAY",
+      "category": "activity",
+      "difficulty": 1
+    },
+    {
+      "word": "HALL",
+      "category": "facility",
+      "difficulty": 1
+    },
+    {
+      "word": "TEAM",
+      "category": "activity",
+      "difficulty": 1
+    },
+    {
+      "word": "VOTE",
+      "category": "activity",
+      "difficulty": 1
+    },
+    {
+      "word": "PASS",
+      "category": "assessment",
+      "difficulty": 1
+    },
+    {
+      "word": "DRAW",
+      "category": "activity",
+      "difficulty": 1
+    },
+    {
+      "word": "READ",
+      "category": "activity",
+      "difficulty": 1
+    },
+    {
+      "word": "SANG",
+      "category": "activity",
+      "difficulty": 1
+    },
+    {
+      "word": "TERM",
+      "category": "schedule",
+      "difficulty": 1
+    },
+    {
+      "word": "RANK",
+      "category": "assessment",
+      "difficulty": 1
+    },
+    {
+      "word": "NOTE",
+      "category": "supplies",
+      "difficulty": 1
+    },
+    {
+      "word": "FOND",
+      "category": "activity",
+      "difficulty": 1
+    },
+    {
+      "word": "BAND",
+      "category": "activity",
+      "difficulty": 1
+    },
+    {
+      "word": "ACED",
+      "category": "assessment",
+      "difficulty": 1
+    },
+    {
+      "word": "ROTE",
+      "category": "learning",
+      "difficulty": 1
+    },
+    {
+      "word": "ORAL",
+      "category": "assessment",
+      "difficulty": 1
+    },
+    {
+      "word": "GLEE",
+      "category": "activity",
+      "difficulty": 1
+    },
+    {
+      "word": "DEAN",
+      "category": "staff",
+      "difficulty": 1
+    },
+    {
+      "word": "DORM",
+      "category": "facility",
+      "difficulty": 1
+    },
+    {
+      "word": "RULER",
+      "category": "supplies",
+      "difficulty": 2
+    },
+    {
+      "word": "CHALK",
+      "category": "supplies",
+      "difficulty": 2
+    },
+    {
+      "word": "CLASS",
+      "category": "classroom",
+      "difficulty": 2
+    },
+    {
+      "word": "GRADE",
+      "category": "assessment",
+      "difficulty": 2
+    },
+    {
+      "word": "ESSAY",
+      "category": "assessment",
+      "difficulty": 2
+    },
+    {
+      "word": "TUTOR",
+      "category": "staff",
+      "difficulty": 2
+    },
+    {
+      "word": "PENCIL",
+      "category": "supplies",
+      "difficulty": 2
+    },
+    {
+      "word": "ERASER",
+      "category": "supplies",
+      "difficulty": 2
+    },
+    {
+      "word": "REPORT",
+      "category": "assessment",
+      "difficulty": 2
+    },
+    {
+      "word": "LESSON",
+      "category": "instruction",
+      "difficulty": 2
+    },
+    {
+      "word": "TROPHY",
+      "category": "award",
+      "difficulty": 2
+    },
+    {
+      "word": "SPORTS",
+      "category": "activity",
+      "difficulty": 2
+    },
+    {
+      "word": "DEBATE",
+      "category": "activity",
+      "difficulty": 2
+    },
+    {
+      "word": "LOCKER",
+      "category": "facility",
+      "difficulty": 2
+    },
+    {
+      "word": "CAMPUS",
+      "category": "facility",
+      "difficulty": 2
+    },
+    {
+      "word": "COURSE",
+      "category": "instruction",
+      "difficulty": 2
+    },
+    {
+      "word": "CHORUS",
+      "category": "activity",
+      "difficulty": 2
+    },
+    {
+      "word": "MENTOR",
+      "category": "staff",
+      "difficulty": 2
+    },
+    {
+      "word": "ABSENT",
+      "category": "attendance",
+      "difficulty": 2
+    },
+    {
+      "word": "CURFEW",
+      "category": "policy",
+      "difficulty": 2
+    },
+    {
+      "word": "HONORS",
+      "category": "assessment",
+      "difficulty": 2
+    },
+    {
+      "word": "RECESS",
+      "category": "schedule",
+      "difficulty": 2
+    },
+    {
+      "word": "PERIOD",
+      "category": "schedule",
+      "difficulty": 2
+    },
+    {
+      "word": "REVIEW",
+      "category": "instruction",
+      "difficulty": 2
+    },
+    {
+      "word": "ROSTER",
+      "category": "record",
+      "difficulty": 2
+    },
+    {
+      "word": "SENIOR",
+      "category": "student",
+      "difficulty": 2
+    },
+    {
+      "word": "JUNIOR",
+      "category": "student",
+      "difficulty": 2
+    },
+    {
+      "word": "THESIS",
+      "category": "assessment",
+      "difficulty": 2
+    },
+    {
+      "word": "PREFECT",
+      "category": "student",
+      "difficulty": 2
+    },
+    {
+      "word": "LECTURE",
+      "category": "instruction",
+      "difficulty": 2
+    },
+    {
+      "word": "LIBRARY",
+      "category": "facility",
+      "difficulty": 2
+    },
+    {
+      "word": "SCIENCE",
+      "category": "subject",
+      "difficulty": 2
+    },
+    {
+      "word": "HISTORY",
+      "category": "subject",
+      "difficulty": 2
+    },
+    {
+      "word": "ENGLISH",
+      "category": "subject",
+      "difficulty": 2
+    },
+    {
+      "word": "ALGEBRA",
+      "category": "subject",
+      "difficulty": 2
+    },
+    {
+      "word": "UNIFORM",
+      "category": "policy",
+      "difficulty": 2
+    },
+    {
+      "word": "PROJECT",
+      "category": "assessment",
+      "difficulty": 2
+    },
+    {
+      "word": "STUDENT",
+      "category": "student",
+      "difficulty": 2
+    },
+    {
+      "word": "TEACHER",
+      "category": "staff",
+      "difficulty": 2
+    },
+    {
+      "word": "SUBJECT",
+      "category": "instruction",
+      "difficulty": 2
+    },
+    {
+      "word": "NOTEBOOK",
+      "category": "supplies",
+      "difficulty": 3
+    },
+    {
+      "word": "TEXTBOOK",
+      "category": "supplies",
+      "difficulty": 3
+    },
+    {
+      "word": "HOMEWORK",
+      "category": "assessment",
+      "difficulty": 3
+    },
+    {
+      "word": "SEMESTER",
+      "category": "schedule",
+      "difficulty": 3
+    },
+    {
+      "word": "BACKPACK",
+      "category": "supplies",
+      "difficulty": 3
+    },
+    {
+      "word": "SCHEDULE",
+      "category": "schedule",
+      "difficulty": 3
+    },
+    {
+      "word": "GRADUATE",
+      "category": "student",
+      "difficulty": 3
+    },
+    {
+      "word": "DIPLOMA",
+      "category": "award",
+      "difficulty": 3
+    },
+    {
+      "word": "CALCULATOR",
+      "category": "supplies",
+      "difficulty": 3
+    },
+    {
+      "word": "DICTIONARY",
+      "category": "supplies",
+      "difficulty": 3
+    },
+    {
+      "word": "CLASSROOM",
+      "category": "facility",
+      "difficulty": 3
+    },
+    {
+      "word": "PRINCIPAL",
+      "category": "staff",
+      "difficulty": 3
+    },
+    {
+      "word": "GYMNASIUM",
+      "category": "facility",
+      "difficulty": 3
+    },
+    {
+      "word": "LABORATORY",
+      "category": "facility",
+      "difficulty": 3
+    },
+    {
+      "word": "EDUCATION",
+      "category": "award",
+      "difficulty": 3
+    },
+    {
+      "word": "CURRICULUM",
+      "category": "instruction",
+      "difficulty": 3
+    },
+    {
+      "word": "DETENTION",
+      "category": "assessment",
+      "difficulty": 3
+    },
+    {
+      "word": "GRADUATION",
+      "category": "event",
+      "difficulty": 3
+    },
+    {
+      "word": "CAFETERIA",
+      "category": "facility",
+      "difficulty": 3
+    },
+    {
+      "word": "ENROLLMENT",
+      "category": "record",
+      "difficulty": 3
+    }
+  ]
+}

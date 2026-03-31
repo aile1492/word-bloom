@@ -1,0 +1,511 @@
+{
+  "theme": "martialarts",
+  "language": "en",
+  "words": [
+    {
+      "word": "KI",
+      "category": "concept",
+      "difficulty": 1
+    },
+    {
+      "word": "GI",
+      "category": "equipment",
+      "difficulty": 1
+    },
+    {
+      "word": "BOW",
+      "category": "concept",
+      "difficulty": 1
+    },
+    {
+      "word": "KICK",
+      "category": "technique",
+      "difficulty": 1
+    },
+    {
+      "word": "JUDO",
+      "category": "style",
+      "difficulty": 1
+    },
+    {
+      "word": "KRAV",
+      "category": "style",
+      "difficulty": 1
+    },
+    {
+      "word": "FORM",
+      "category": "concept",
+      "difficulty": 1
+    },
+    {
+      "word": "DOJO",
+      "category": "facility",
+      "difficulty": 1
+    },
+    {
+      "word": "BELT",
+      "category": "rank",
+      "difficulty": 1
+    },
+    {
+      "word": "KATA",
+      "category": "concept",
+      "difficulty": 1
+    },
+    {
+      "word": "GUARD",
+      "category": "technique",
+      "difficulty": 1
+    },
+    {
+      "word": "BLOCK",
+      "category": "technique",
+      "difficulty": 1
+    },
+    {
+      "word": "PUNCH",
+      "category": "technique",
+      "difficulty": 1
+    },
+    {
+      "word": "THROW",
+      "category": "technique",
+      "difficulty": 1
+    },
+    {
+      "word": "HOLD",
+      "category": "technique",
+      "difficulty": 1
+    },
+    {
+      "word": "SWEEP",
+      "category": "technique",
+      "difficulty": 1
+    },
+    {
+      "word": "CHOKE",
+      "category": "technique",
+      "difficulty": 1
+    },
+    {
+      "word": "LOCK",
+      "category": "technique",
+      "difficulty": 1
+    },
+    {
+      "word": "STANCE",
+      "category": "technique",
+      "difficulty": 1
+    },
+    {
+      "word": "JUDGE",
+      "category": "concept",
+      "difficulty": 1
+    },
+    {
+      "word": "SPAR",
+      "category": "concept",
+      "difficulty": 1
+    },
+    {
+      "word": "DRILL",
+      "category": "training",
+      "difficulty": 1
+    },
+    {
+      "word": "ROUND",
+      "category": "concept",
+      "difficulty": 1
+    },
+    {
+      "word": "BOUT",
+      "category": "concept",
+      "difficulty": 1
+    },
+    {
+      "word": "MATCH",
+      "category": "concept",
+      "difficulty": 1
+    },
+    {
+      "word": "DOJO",
+      "category": "facility",
+      "difficulty": 1
+    },
+    {
+      "word": "SENSEI",
+      "category": "concept",
+      "difficulty": 1
+    },
+    {
+      "word": "MASTER",
+      "category": "rank",
+      "difficulty": 1
+    },
+    {
+      "word": "STUDENT",
+      "category": "rank",
+      "difficulty": 1
+    },
+    {
+      "word": "BEGINNER",
+      "category": "rank",
+      "difficulty": 1
+    },
+    {
+      "word": "FOCUS",
+      "category": "concept",
+      "difficulty": 1
+    },
+    {
+      "word": "POWER",
+      "category": "concept",
+      "difficulty": 1
+    },
+    {
+      "word": "SPEED",
+      "category": "concept",
+      "difficulty": 1
+    },
+    {
+      "word": "AGILITY",
+      "category": "concept",
+      "difficulty": 1
+    },
+    {
+      "word": "BALANCE",
+      "category": "concept",
+      "difficulty": 1
+    },
+    {
+      "word": "REACH",
+      "category": "concept",
+      "difficulty": 1
+    },
+    {
+      "word": "FEINT",
+      "category": "technique",
+      "difficulty": 1
+    },
+    {
+      "word": "DODGE",
+      "category": "technique",
+      "difficulty": 1
+    },
+    {
+      "word": "EVADE",
+      "category": "technique",
+      "difficulty": 1
+    },
+    {
+      "word": "ENGAGE",
+      "category": "technique",
+      "difficulty": 1
+    },
+    {
+      "word": "KARATE",
+      "category": "style",
+      "difficulty": 2
+    },
+    {
+      "word": "BOXING",
+      "category": "style",
+      "difficulty": 2
+    },
+    {
+      "word": "SUMO",
+      "category": "style",
+      "difficulty": 2
+    },
+    {
+      "word": "KENDO",
+      "category": "style",
+      "difficulty": 2
+    },
+    {
+      "word": "AIKIDO",
+      "category": "style",
+      "difficulty": 2
+    },
+    {
+      "word": "JUJITSU",
+      "category": "style",
+      "difficulty": 2
+    },
+    {
+      "word": "FENCING",
+      "category": "style",
+      "difficulty": 2
+    },
+    {
+      "word": "GRAPPLE",
+      "category": "technique",
+      "difficulty": 2
+    },
+    {
+      "word": "CLINCH",
+      "category": "technique",
+      "difficulty": 1
+    },
+    {
+      "word": "TAKEDOWN",
+      "category": "technique",
+      "difficulty": 2
+    },
+    {
+      "word": "SUBMISSION",
+      "category": "technique",
+      "difficulty": 2
+    },
+    {
+      "word": "SPARRING",
+      "category": "training",
+      "difficulty": 2
+    },
+    {
+      "word": "KUMITE",
+      "category": "concept",
+      "difficulty": 2
+    },
+    {
+      "word": "RANDORI",
+      "category": "concept",
+      "difficulty": 2
+    },
+    {
+      "word": "SHOTOKAN",
+      "category": "style",
+      "difficulty": 2
+    },
+    {
+      "word": "SAMURAI",
+      "category": "concept",
+      "difficulty": 2
+    },
+    {
+      "word": "NINJA",
+      "category": "concept",
+      "difficulty": 2
+    },
+    {
+      "word": "NINJUTSU",
+      "category": "style",
+      "difficulty": 2
+    },
+    {
+      "word": "BUJUTSU",
+      "category": "style",
+      "difficulty": 2
+    },
+    {
+      "word": "HAPKIDO",
+      "category": "style",
+      "difficulty": 2
+    },
+    {
+      "word": "CAPOEIRA",
+      "category": "style",
+      "difficulty": 2
+    },
+    {
+      "word": "NAGINATADO",
+      "category": "style",
+      "difficulty": 2
+    },
+    {
+      "word": "MUAY",
+      "category": "style",
+      "difficulty": 2
+    },
+    {
+      "word": "SILAT",
+      "category": "style",
+      "difficulty": 2
+    },
+    {
+      "word": "ESKRIMA",
+      "category": "style",
+      "difficulty": 2
+    },
+    {
+      "word": "SAVATE",
+      "category": "style",
+      "difficulty": 2
+    },
+    {
+      "word": "PANKRATION",
+      "category": "style",
+      "difficulty": 2
+    },
+    {
+      "word": "SYSTEMA",
+      "category": "style",
+      "difficulty": 2
+    },
+    {
+      "word": "WUSHU",
+      "category": "style",
+      "difficulty": 2
+    },
+    {
+      "word": "SANDA",
+      "category": "style",
+      "difficulty": 2
+    },
+    {
+      "word": "JEET",
+      "category": "style",
+      "difficulty": 2
+    },
+    {
+      "word": "COMBAT",
+      "category": "concept",
+      "difficulty": 2
+    },
+    {
+      "word": "TOURNAMENT",
+      "category": "concept",
+      "difficulty": 2
+    },
+    {
+      "word": "KNOCKDOWN",
+      "category": "technique",
+      "difficulty": 2
+    },
+    {
+      "word": "KNOCKOUT",
+      "category": "technique",
+      "difficulty": 2
+    },
+    {
+      "word": "ARMBAR",
+      "category": "technique",
+      "difficulty": 2
+    },
+    {
+      "word": "GUILLOTINE",
+      "category": "technique",
+      "difficulty": 2
+    },
+    {
+      "word": "MOUNTED",
+      "category": "technique",
+      "difficulty": 2
+    },
+    {
+      "word": "SPRAWL",
+      "category": "technique",
+      "difficulty": 2
+    },
+    {
+      "word": "UNDERHOOK",
+      "category": "technique",
+      "difficulty": 2
+    },
+    {
+      "word": "CLINCHED",
+      "category": "technique",
+      "difficulty": 2
+    },
+    {
+      "word": "TAEKWONDO",
+      "category": "style",
+      "difficulty": 3
+    },
+    {
+      "word": "WRESTLING",
+      "category": "style",
+      "difficulty": 3
+    },
+    {
+      "word": "KICKBOXING",
+      "category": "style",
+      "difficulty": 3
+    },
+    {
+      "word": "MUAYTHAI",
+      "category": "style",
+      "difficulty": 3
+    },
+    {
+      "word": "KUNGFU",
+      "category": "style",
+      "difficulty": 3
+    },
+    {
+      "word": "FREESTYLE",
+      "category": "style",
+      "difficulty": 3
+    },
+    {
+      "word": "PANCRATION",
+      "category": "style",
+      "difficulty": 3
+    },
+    {
+      "word": "WINGCHUN",
+      "category": "style",
+      "difficulty": 3
+    },
+    {
+      "word": "BAGUAZHANG",
+      "category": "style",
+      "difficulty": 3
+    },
+    {
+      "word": "XINGYIQUAN",
+      "category": "style",
+      "difficulty": 3
+    },
+    {
+      "word": "TAIJIQUAN",
+      "category": "style",
+      "difficulty": 3
+    },
+    {
+      "word": "BATTOJUTSU",
+      "category": "style",
+      "difficulty": 3
+    },
+    {
+      "word": "KALARIPAY",
+      "category": "style",
+      "difficulty": 3
+    },
+    {
+      "word": "BARTITSU",
+      "category": "style",
+      "difficulty": 3
+    },
+    {
+      "word": "CATCHCAN",
+      "category": "style",
+      "difficulty": 3
+    },
+    {
+      "word": "IPPONSEOI",
+      "category": "concept",
+      "difficulty": 3
+    },
+    {
+      "word": "SUBMISSION",
+      "category": "technique",
+      "difficulty": 3
+    },
+    {
+      "word": "CHOKE",
+      "category": "technique",
+      "difficulty": 3
+    },
+    {
+      "word": "TRIANGLE",
+      "category": "technique",
+      "difficulty": 3
+    },
+    {
+      "word": "ARMLOCK",
+      "category": "technique",
+      "difficulty": 3
+    }
+  ]
+}

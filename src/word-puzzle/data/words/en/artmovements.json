@@ -1,0 +1,506 @@
+{
+  "theme": "artmovements",
+  "language": "en",
+  "words": [
+    {
+      "word": "OIL",
+      "category": "medium",
+      "difficulty": 1
+    },
+    {
+      "word": "INK",
+      "category": "medium",
+      "difficulty": 1
+    },
+    {
+      "word": "WAX",
+      "category": "medium",
+      "difficulty": 1
+    },
+    {
+      "word": "HUE",
+      "category": "concept",
+      "difficulty": 1
+    },
+    {
+      "word": "TINT",
+      "category": "concept",
+      "difficulty": 1
+    },
+    {
+      "word": "TONE",
+      "category": "concept",
+      "difficulty": 1
+    },
+    {
+      "word": "LINE",
+      "category": "concept",
+      "difficulty": 1
+    },
+    {
+      "word": "FORM",
+      "category": "concept",
+      "difficulty": 1
+    },
+    {
+      "word": "SPACE",
+      "category": "concept",
+      "difficulty": 1
+    },
+    {
+      "word": "SHAPE",
+      "category": "concept",
+      "difficulty": 1
+    },
+    {
+      "word": "BRUSH",
+      "category": "equipment",
+      "difficulty": 1
+    },
+    {
+      "word": "EASEL",
+      "category": "equipment",
+      "difficulty": 1
+    },
+    {
+      "word": "PIGMENT",
+      "category": "medium",
+      "difficulty": 1
+    },
+    {
+      "word": "CANVAS",
+      "category": "equipment",
+      "difficulty": 1
+    },
+    {
+      "word": "CHISEL",
+      "category": "equipment",
+      "difficulty": 1
+    },
+    {
+      "word": "MURAL",
+      "category": "technique",
+      "difficulty": 1
+    },
+    {
+      "word": "SKETCH",
+      "category": "technique",
+      "difficulty": 1
+    },
+    {
+      "word": "PASTEL",
+      "category": "medium",
+      "difficulty": 1
+    },
+    {
+      "word": "FRESCO",
+      "category": "technique",
+      "difficulty": 1
+    },
+    {
+      "word": "MOSAIC",
+      "category": "technique",
+      "difficulty": 1
+    },
+    {
+      "word": "GLAZE",
+      "category": "technique",
+      "difficulty": 1
+    },
+    {
+      "word": "PRINT",
+      "category": "technique",
+      "difficulty": 1
+    },
+    {
+      "word": "ETCHING",
+      "category": "technique",
+      "difficulty": 1
+    },
+    {
+      "word": "LITHOGRAPH",
+      "category": "technique",
+      "difficulty": 1
+    },
+    {
+      "word": "WOODCUT",
+      "category": "technique",
+      "difficulty": 1
+    },
+    {
+      "word": "COLLAGE",
+      "category": "technique",
+      "difficulty": 1
+    },
+    {
+      "word": "MONTAGE",
+      "category": "technique",
+      "difficulty": 1
+    },
+    {
+      "word": "BRONZE",
+      "category": "medium",
+      "difficulty": 1
+    },
+    {
+      "word": "MARBLE",
+      "category": "medium",
+      "difficulty": 1
+    },
+    {
+      "word": "CLAY",
+      "category": "medium",
+      "difficulty": 1
+    },
+    {
+      "word": "PALETTE",
+      "category": "equipment",
+      "difficulty": 1
+    },
+    {
+      "word": "GALLERY",
+      "category": "facility",
+      "difficulty": 1
+    },
+    {
+      "word": "MUSEUM",
+      "category": "facility",
+      "difficulty": 1
+    },
+    {
+      "word": "EXHIBIT",
+      "category": "concept",
+      "difficulty": 1
+    },
+    {
+      "word": "PATRON",
+      "category": "concept",
+      "difficulty": 1
+    },
+    {
+      "word": "STUDIO",
+      "category": "facility",
+      "difficulty": 1
+    },
+    {
+      "word": "TEMPERA",
+      "category": "medium",
+      "difficulty": 1
+    },
+    {
+      "word": "GOUACHE",
+      "category": "medium",
+      "difficulty": 1
+    },
+    {
+      "word": "GESSO",
+      "category": "medium",
+      "difficulty": 1
+    },
+    {
+      "word": "VARNISH",
+      "category": "medium",
+      "difficulty": 1
+    },
+    {
+      "word": "CUBISM",
+      "category": "movement",
+      "difficulty": 2
+    },
+    {
+      "word": "REALISM",
+      "category": "movement",
+      "difficulty": 2
+    },
+    {
+      "word": "BAROQUE",
+      "category": "movement",
+      "difficulty": 2
+    },
+    {
+      "word": "ABSTRACT",
+      "category": "movement",
+      "difficulty": 2
+    },
+    {
+      "word": "FUTURISM",
+      "category": "movement",
+      "difficulty": 2
+    },
+    {
+      "word": "DADAISM",
+      "category": "movement",
+      "difficulty": 2
+    },
+    {
+      "word": "FAUVISM",
+      "category": "movement",
+      "difficulty": 2
+    },
+    {
+      "word": "SYMBOLISM",
+      "category": "movement",
+      "difficulty": 2
+    },
+    {
+      "word": "CLASSICISM",
+      "category": "movement",
+      "difficulty": 2
+    },
+    {
+      "word": "ROMANTIC",
+      "category": "movement",
+      "difficulty": 2
+    },
+    {
+      "word": "GOTHIC",
+      "category": "movement",
+      "difficulty": 2
+    },
+    {
+      "word": "BYZANTINE",
+      "category": "movement",
+      "difficulty": 2
+    },
+    {
+      "word": "NEOCLASSIC",
+      "category": "movement",
+      "difficulty": 2
+    },
+    {
+      "word": "MANNERISM",
+      "category": "movement",
+      "difficulty": 2
+    },
+    {
+      "word": "MINIMALISM",
+      "category": "movement",
+      "difficulty": 2
+    },
+    {
+      "word": "CONCEPTUAL",
+      "category": "movement",
+      "difficulty": 2
+    },
+    {
+      "word": "MODERNISM",
+      "category": "movement",
+      "difficulty": 2
+    },
+    {
+      "word": "NATURALISM",
+      "category": "movement",
+      "difficulty": 2
+    },
+    {
+      "word": "JAPONISME",
+      "category": "movement",
+      "difficulty": 2
+    },
+    {
+      "word": "SCULPTURE",
+      "category": "form",
+      "difficulty": 2
+    },
+    {
+      "word": "DRAWING",
+      "category": "form",
+      "difficulty": 2
+    },
+    {
+      "word": "PAINTING",
+      "category": "form",
+      "difficulty": 2
+    },
+    {
+      "word": "PORTRAIT",
+      "category": "form",
+      "difficulty": 2
+    },
+    {
+      "word": "LANDSCAPE",
+      "category": "form",
+      "difficulty": 2
+    },
+    {
+      "word": "STILL",
+      "category": "form",
+      "difficulty": 2
+    },
+    {
+      "word": "EARTHWORK",
+      "category": "form",
+      "difficulty": 2
+    },
+    {
+      "word": "HAPPENING",
+      "category": "form",
+      "difficulty": 2
+    },
+    {
+      "word": "DIGITAL",
+      "category": "medium",
+      "difficulty": 2
+    },
+    {
+      "word": "MIXED",
+      "category": "medium",
+      "difficulty": 2
+    },
+    {
+      "word": "CERAMICS",
+      "category": "medium",
+      "difficulty": 2
+    },
+    {
+      "word": "WATERCOLOR",
+      "category": "medium",
+      "difficulty": 2
+    },
+    {
+      "word": "CHARCOAL",
+      "category": "medium",
+      "difficulty": 2
+    },
+    {
+      "word": "CROSSHATCH",
+      "category": "technique",
+      "difficulty": 2
+    },
+    {
+      "word": "PENTIMENTO",
+      "category": "technique",
+      "difficulty": 2
+    },
+    {
+      "word": "SFUMATO",
+      "category": "technique",
+      "difficulty": 2
+    },
+    {
+      "word": "TROMPE",
+      "category": "technique",
+      "difficulty": 2
+    },
+    {
+      "word": "TENEBRISM",
+      "category": "technique",
+      "difficulty": 2
+    },
+    {
+      "word": "IMPASTO",
+      "category": "technique",
+      "difficulty": 2
+    },
+    {
+      "word": "SCUMBLING",
+      "category": "technique",
+      "difficulty": 2
+    },
+    {
+      "word": "GLAZING",
+      "category": "technique",
+      "difficulty": 2
+    },
+    {
+      "word": "SURREALISM",
+      "category": "movement",
+      "difficulty": 3
+    },
+    {
+      "word": "NEOREALISM",
+      "category": "movement",
+      "difficulty": 3
+    },
+    {
+      "word": "POSTMODERN",
+      "category": "movement",
+      "difficulty": 3
+    },
+    {
+      "word": "CONCRETISM",
+      "category": "movement",
+      "difficulty": 3
+    },
+    {
+      "word": "NEODADAISM",
+      "category": "movement",
+      "difficulty": 3
+    },
+    {
+      "word": "SUPERFLAT",
+      "category": "movement",
+      "difficulty": 3
+    },
+    {
+      "word": "PAINTERLY",
+      "category": "movement",
+      "difficulty": 3
+    },
+    {
+      "word": "ROMANESQUE",
+      "category": "movement",
+      "difficulty": 3
+    },
+    {
+      "word": "EARTHWORKS",
+      "category": "form",
+      "difficulty": 3
+    },
+    {
+      "word": "SERIGRAPHY",
+      "category": "movement",
+      "difficulty": 3
+    },
+    {
+      "word": "PLATONISM",
+      "category": "movement",
+      "difficulty": 3
+    },
+    {
+      "word": "BRUTALISM",
+      "category": "movement",
+      "difficulty": 3
+    },
+    {
+      "word": "METABOLISM",
+      "category": "movement",
+      "difficulty": 3
+    },
+    {
+      "word": "ELEMENTISM",
+      "category": "movement",
+      "difficulty": 3
+    },
+    {
+      "word": "VORTICISM",
+      "category": "movement",
+      "difficulty": 3
+    },
+    {
+      "word": "RAYONISM",
+      "category": "movement",
+      "difficulty": 3
+    },
+    {
+      "word": "ORPHISM",
+      "category": "movement",
+      "difficulty": 3
+    },
+    {
+      "word": "MACHINISM",
+      "category": "movement",
+      "difficulty": 3
+    },
+    {
+      "word": "LUMINISM",
+      "category": "movement",
+      "difficulty": 3
+    },
+    {
+      "word": "COLORFIELD",
+      "category": "movement",
+      "difficulty": 3
+    }
+  ]
+}

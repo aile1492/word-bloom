@@ -1,0 +1,496 @@
+{
+  "theme": "vegetables",
+  "language": "en",
+  "words": [
+    {
+      "word": "PEA",
+      "category": "legume",
+      "difficulty": 1
+    },
+    {
+      "word": "YAM",
+      "category": "root",
+      "difficulty": 1
+    },
+    {
+      "word": "KALE",
+      "category": "leafy",
+      "difficulty": 1
+    },
+    {
+      "word": "BEET",
+      "category": "root",
+      "difficulty": 1
+    },
+    {
+      "word": "CORN",
+      "category": "grain",
+      "difficulty": 1
+    },
+    {
+      "word": "LEEK",
+      "category": "allium",
+      "difficulty": 1
+    },
+    {
+      "word": "OKRA",
+      "category": "fruiting",
+      "difficulty": 1
+    },
+    {
+      "word": "CHARD",
+      "category": "leafy",
+      "difficulty": 1
+    },
+    {
+      "word": "ONION",
+      "category": "allium",
+      "difficulty": 1
+    },
+    {
+      "word": "CHIVE",
+      "category": "allium",
+      "difficulty": 1
+    },
+    {
+      "word": "CRESS",
+      "category": "leafy",
+      "difficulty": 1
+    },
+    {
+      "word": "ENDIVE",
+      "category": "leafy",
+      "difficulty": 1
+    },
+    {
+      "word": "PARSLEY",
+      "category": "herb",
+      "difficulty": 1
+    },
+    {
+      "word": "RADISH",
+      "category": "root",
+      "difficulty": 1
+    },
+    {
+      "word": "CARROT",
+      "category": "root",
+      "difficulty": 1
+    },
+    {
+      "word": "POTATO",
+      "category": "tuber",
+      "difficulty": 1
+    },
+    {
+      "word": "TOMATO",
+      "category": "fruiting",
+      "difficulty": 1
+    },
+    {
+      "word": "GARLIC",
+      "category": "allium",
+      "difficulty": 1
+    },
+    {
+      "word": "TURNIP",
+      "category": "root",
+      "difficulty": 1
+    },
+    {
+      "word": "CELERY",
+      "category": "stalk",
+      "difficulty": 1
+    },
+    {
+      "word": "PEPPER",
+      "category": "fruiting",
+      "difficulty": 1
+    },
+    {
+      "word": "FENNEL",
+      "category": "stalk",
+      "difficulty": 1
+    },
+    {
+      "word": "SQUASH",
+      "category": "gourd",
+      "difficulty": 1
+    },
+    {
+      "word": "SORREL",
+      "category": "leafy",
+      "difficulty": 1
+    },
+    {
+      "word": "DAIKON",
+      "category": "root",
+      "difficulty": 1
+    },
+    {
+      "word": "SWEET",
+      "category": "root",
+      "difficulty": 1
+    },
+    {
+      "word": "WATERCRESS",
+      "category": "leafy",
+      "difficulty": 1
+    },
+    {
+      "word": "PARSNIP",
+      "category": "root",
+      "difficulty": 1
+    },
+    {
+      "word": "CASSAVA",
+      "category": "tuber",
+      "difficulty": 1
+    },
+    {
+      "word": "SWEDE",
+      "category": "root",
+      "difficulty": 1
+    },
+    {
+      "word": "KOHLRABI",
+      "category": "stem",
+      "difficulty": 1
+    },
+    {
+      "word": "ROMAINE",
+      "category": "leafy",
+      "difficulty": 1
+    },
+    {
+      "word": "RADICCHIO",
+      "category": "leafy",
+      "difficulty": 1
+    },
+    {
+      "word": "ESCAROLE",
+      "category": "leafy",
+      "difficulty": 1
+    },
+    {
+      "word": "SAMPHIRE",
+      "category": "leafy",
+      "difficulty": 1
+    },
+    {
+      "word": "PURSLANE",
+      "category": "leafy",
+      "difficulty": 1
+    },
+    {
+      "word": "MUSTARD",
+      "category": "leafy",
+      "difficulty": 1
+    },
+    {
+      "word": "ARUGULA",
+      "category": "leafy",
+      "difficulty": 1
+    },
+    {
+      "word": "CHICORY",
+      "category": "leafy",
+      "difficulty": 1
+    },
+    {
+      "word": "ADZUKI",
+      "category": "legume",
+      "difficulty": 1
+    },
+    {
+      "word": "SPINACH",
+      "category": "leafy",
+      "difficulty": 2
+    },
+    {
+      "word": "CABBAGE",
+      "category": "leafy",
+      "difficulty": 2
+    },
+    {
+      "word": "LETTUCE",
+      "category": "leafy",
+      "difficulty": 2
+    },
+    {
+      "word": "PUMPKIN",
+      "category": "gourd",
+      "difficulty": 2
+    },
+    {
+      "word": "BROCCOLI",
+      "category": "brassica",
+      "difficulty": 2
+    },
+    {
+      "word": "ZUCCHINI",
+      "category": "gourd",
+      "difficulty": 2
+    },
+    {
+      "word": "EGGPLANT",
+      "category": "fruiting",
+      "difficulty": 2
+    },
+    {
+      "word": "CUCUMBER",
+      "category": "gourd",
+      "difficulty": 2
+    },
+    {
+      "word": "SHALLOT",
+      "category": "allium",
+      "difficulty": 2
+    },
+    {
+      "word": "KOHLRABI",
+      "category": "stem",
+      "difficulty": 2
+    },
+    {
+      "word": "ASPARAGUS",
+      "category": "stalk",
+      "difficulty": 2
+    },
+    {
+      "word": "BEETROOT",
+      "category": "root",
+      "difficulty": 2
+    },
+    {
+      "word": "TOMATILLO",
+      "category": "fruiting",
+      "difficulty": 2
+    },
+    {
+      "word": "RUTABAGA",
+      "category": "root",
+      "difficulty": 2
+    },
+    {
+      "word": "SOYBEAN",
+      "category": "legume",
+      "difficulty": 2
+    },
+    {
+      "word": "SNOWPEA",
+      "category": "legume",
+      "difficulty": 2
+    },
+    {
+      "word": "JICAMA",
+      "category": "root",
+      "difficulty": 2
+    },
+    {
+      "word": "EDAMAME",
+      "category": "legume",
+      "difficulty": 2
+    },
+    {
+      "word": "BROCCOLINI",
+      "category": "brassica",
+      "difficulty": 2
+    },
+    {
+      "word": "AUBERGINE",
+      "category": "fruiting",
+      "difficulty": 2
+    },
+    {
+      "word": "COURGETTE",
+      "category": "gourd",
+      "difficulty": 2
+    },
+    {
+      "word": "MANGETOUT",
+      "category": "legume",
+      "difficulty": 2
+    },
+    {
+      "word": "CHICKPEA",
+      "category": "legume",
+      "difficulty": 2
+    },
+    {
+      "word": "LENTIL",
+      "category": "legume",
+      "difficulty": 2
+    },
+    {
+      "word": "MUSHROOM",
+      "category": "fungus",
+      "difficulty": 2
+    },
+    {
+      "word": "CALABASH",
+      "category": "gourd",
+      "difficulty": 2
+    },
+    {
+      "word": "WATERCRESS",
+      "category": "leafy",
+      "difficulty": 2
+    },
+    {
+      "word": "RHUBARB",
+      "category": "stalk",
+      "difficulty": 2
+    },
+    {
+      "word": "PLANTAIN",
+      "category": "tropical",
+      "difficulty": 2
+    },
+    {
+      "word": "GOURDS",
+      "category": "gourd",
+      "difficulty": 2
+    },
+    {
+      "word": "SCALLION",
+      "category": "allium",
+      "difficulty": 2
+    },
+    {
+      "word": "SWEETCORN",
+      "category": "grain",
+      "difficulty": 2
+    },
+    {
+      "word": "CELERYROOT",
+      "category": "root",
+      "difficulty": 2
+    },
+    {
+      "word": "KOHLRABIS",
+      "category": "stem",
+      "difficulty": 2
+    },
+    {
+      "word": "CHICKWEED",
+      "category": "leafy",
+      "difficulty": 2
+    },
+    {
+      "word": "GALANGAL",
+      "category": "root",
+      "difficulty": 2
+    },
+    {
+      "word": "TURMERIC",
+      "category": "root",
+      "difficulty": 2
+    },
+    {
+      "word": "BEANSPROUT",
+      "category": "root",
+      "difficulty": 2
+    },
+    {
+      "word": "ARTICHOKE",
+      "category": "flower",
+      "difficulty": 3
+    },
+    {
+      "word": "MARROWFAT",
+      "category": "brassica",
+      "difficulty": 3
+    },
+    {
+      "word": "WATERCRESS",
+      "category": "leafy",
+      "difficulty": 3
+    },
+    {
+      "word": "CALABRESE",
+      "category": "brassica",
+      "difficulty": 3
+    },
+    {
+      "word": "ROMANESCO",
+      "category": "brassica",
+      "difficulty": 3
+    },
+    {
+      "word": "CARDOON",
+      "category": "stalk",
+      "difficulty": 3
+    },
+    {
+      "word": "FIDDLEHEAD",
+      "category": "fern",
+      "difficulty": 3
+    },
+    {
+      "word": "SUNCHOKE",
+      "category": "tuber",
+      "difficulty": 3
+    },
+    {
+      "word": "CELERIAC",
+      "category": "root",
+      "difficulty": 3
+    },
+    {
+      "word": "CHAYOTE",
+      "category": "gourd",
+      "difficulty": 3
+    },
+    {
+      "word": "NIGHTSHADE",
+      "category": "grass",
+      "difficulty": 3
+    },
+    {
+      "word": "BORAGE",
+      "category": "herb",
+      "difficulty": 3
+    },
+    {
+      "word": "BREADFRUIT",
+      "category": "tropical",
+      "difficulty": 3
+    },
+    {
+      "word": "KOHLRABIS",
+      "category": "stem",
+      "difficulty": 3
+    },
+    {
+      "word": "GLASSWORT",
+      "category": "leafy",
+      "difficulty": 3
+    },
+    {
+      "word": "SALSIFY",
+      "category": "root",
+      "difficulty": 3
+    },
+    {
+      "word": "SCORZONERA",
+      "category": "root",
+      "difficulty": 3
+    },
+    {
+      "word": "LEMONGRASS",
+      "category": "grass",
+      "difficulty": 3
+    },
+    {
+      "word": "STINGING",
+      "category": "leafy",
+      "difficulty": 3
+    },
+    {
+      "word": "MALABAR",
+      "category": "leafy",
+      "difficulty": 3
+    }
+  ]
+}

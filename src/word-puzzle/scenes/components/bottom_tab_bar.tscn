@@ -1,0 +1,16 @@
+[gd_scene format=3 uid="uid://m4783upi4pm3"]
+
+[ext_resource type="Script" uid="uid://c1isyx0jd1sgd" path="res://scripts/ui/components/bottom_tab_bar.gd" id="1_btb"]
+
+[node name="BottomTabBar" type="Control" unique_id=1074425305]
+layout_mode = 3
+anchors_preset = 12
+anchor_top = 1.0
+anchor_right = 1.0
+anchor_bottom = 1.0
+offset_top = -380.0
+grow_horizontal = 2
+grow_vertical = 0
+mouse_filter = 2
+clip_contents = false
+script = ExtResource("1_btb")

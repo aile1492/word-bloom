@@ -1,0 +1,506 @@
+{
+  "theme": "videogames",
+  "language": "en",
+  "words": [
+    {
+      "word": "HP",
+      "category": "concept",
+      "difficulty": 1
+    },
+    {
+      "word": "XP",
+      "category": "concept",
+      "difficulty": 1
+    },
+    {
+      "word": "MAP",
+      "category": "concept",
+      "difficulty": 1
+    },
+    {
+      "word": "MOB",
+      "category": "concept",
+      "difficulty": 1
+    },
+    {
+      "word": "NPC",
+      "category": "concept",
+      "difficulty": 1
+    },
+    {
+      "word": "RPG",
+      "category": "genre",
+      "difficulty": 1
+    },
+    {
+      "word": "FPS",
+      "category": "genre",
+      "difficulty": 1
+    },
+    {
+      "word": "BOSS",
+      "category": "concept",
+      "difficulty": 1
+    },
+    {
+      "word": "LOOT",
+      "category": "concept",
+      "difficulty": 1
+    },
+    {
+      "word": "SAVE",
+      "category": "concept",
+      "difficulty": 1
+    },
+    {
+      "word": "LOAD",
+      "category": "concept",
+      "difficulty": 1
+    },
+    {
+      "word": "JUMP",
+      "category": "action",
+      "difficulty": 1
+    },
+    {
+      "word": "SHOOT",
+      "category": "action",
+      "difficulty": 1
+    },
+    {
+      "word": "DODGE",
+      "category": "action",
+      "difficulty": 1
+    },
+    {
+      "word": "CRAFT",
+      "category": "action",
+      "difficulty": 1
+    },
+    {
+      "word": "GRIND",
+      "category": "action",
+      "difficulty": 1
+    },
+    {
+      "word": "LEVEL",
+      "category": "concept",
+      "difficulty": 1
+    },
+    {
+      "word": "POWER",
+      "category": "concept",
+      "difficulty": 1
+    },
+    {
+      "word": "SKILL",
+      "category": "concept",
+      "difficulty": 1
+    },
+    {
+      "word": "SPAWN",
+      "category": "concept",
+      "difficulty": 1
+    },
+    {
+      "word": "LORE",
+      "category": "concept",
+      "difficulty": 1
+    },
+    {
+      "word": "FARM",
+      "category": "action",
+      "difficulty": 1
+    },
+    {
+      "word": "TANK",
+      "category": "concept",
+      "difficulty": 1
+    },
+    {
+      "word": "GUILD",
+      "category": "concept",
+      "difficulty": 1
+    },
+    {
+      "word": "PIXEL",
+      "category": "concept",
+      "difficulty": 1
+    },
+    {
+      "word": "QUEST",
+      "category": "concept",
+      "difficulty": 1
+    },
+    {
+      "word": "AVATAR",
+      "category": "concept",
+      "difficulty": 1
+    },
+    {
+      "word": "GAME",
+      "category": "concept",
+      "difficulty": 1
+    },
+    {
+      "word": "CHEAT",
+      "category": "concept",
+      "difficulty": 1
+    },
+    {
+      "word": "PATCH",
+      "category": "concept",
+      "difficulty": 1
+    },
+    {
+      "word": "BUG",
+      "category": "concept",
+      "difficulty": 1
+    },
+    {
+      "word": "GLITCH",
+      "category": "concept",
+      "difficulty": 1
+    },
+    {
+      "word": "RESPAWN",
+      "category": "concept",
+      "difficulty": 1
+    },
+    {
+      "word": "STEALTH",
+      "category": "concept",
+      "difficulty": 1
+    },
+    {
+      "word": "ROSTER",
+      "category": "concept",
+      "difficulty": 1
+    },
+    {
+      "word": "COMBO",
+      "category": "action",
+      "difficulty": 1
+    },
+    {
+      "word": "SCORE",
+      "category": "concept",
+      "difficulty": 1
+    },
+    {
+      "word": "SHIELD",
+      "category": "equipment",
+      "difficulty": 1
+    },
+    {
+      "word": "SWORD",
+      "category": "equipment",
+      "difficulty": 1
+    },
+    {
+      "word": "MANA",
+      "category": "concept",
+      "difficulty": 1
+    },
+    {
+      "word": "ARCADE",
+      "category": "genre",
+      "difficulty": 2
+    },
+    {
+      "word": "CONSOLE",
+      "category": "hardware",
+      "difficulty": 2
+    },
+    {
+      "word": "DUNGEON",
+      "category": "concept",
+      "difficulty": 2
+    },
+    {
+      "word": "RESPAWN",
+      "category": "concept",
+      "difficulty": 2
+    },
+    {
+      "word": "CUTSCENE",
+      "category": "concept",
+      "difficulty": 2
+    },
+    {
+      "word": "TUTORIAL",
+      "category": "concept",
+      "difficulty": 2
+    },
+    {
+      "word": "SPEEDRUN",
+      "category": "concept",
+      "difficulty": 2
+    },
+    {
+      "word": "SANDBOX",
+      "category": "genre",
+      "difficulty": 2
+    },
+    {
+      "word": "SURVIVAL",
+      "category": "genre",
+      "difficulty": 2
+    },
+    {
+      "word": "SHOOTER",
+      "category": "genre",
+      "difficulty": 2
+    },
+    {
+      "word": "STRATEGY",
+      "category": "genre",
+      "difficulty": 2
+    },
+    {
+      "word": "PLATFORM",
+      "category": "genre",
+      "difficulty": 2
+    },
+    {
+      "word": "HORROR",
+      "category": "genre",
+      "difficulty": 2
+    },
+    {
+      "word": "ROGUELIKE",
+      "category": "genre",
+      "difficulty": 2
+    },
+    {
+      "word": "LABYRINTH",
+      "category": "genre",
+      "difficulty": 2
+    },
+    {
+      "word": "OPENWORLD",
+      "category": "genre",
+      "difficulty": 2
+    },
+    {
+      "word": "MMORPG",
+      "category": "genre",
+      "difficulty": 2
+    },
+    {
+      "word": "ESPORTS",
+      "category": "concept",
+      "difficulty": 2
+    },
+    {
+      "word": "STREAMER",
+      "category": "concept",
+      "difficulty": 2
+    },
+    {
+      "word": "CONTROLLER",
+      "category": "hardware",
+      "difficulty": 2
+    },
+    {
+      "word": "CHECKPOINT",
+      "category": "concept",
+      "difficulty": 2
+    },
+    {
+      "word": "CHARACTER",
+      "category": "concept",
+      "difficulty": 2
+    },
+    {
+      "word": "INVENTORY",
+      "category": "concept",
+      "difficulty": 2
+    },
+    {
+      "word": "MINIMAP",
+      "category": "concept",
+      "difficulty": 2
+    },
+    {
+      "word": "LOADOUT",
+      "category": "concept",
+      "difficulty": 2
+    },
+    {
+      "word": "ENDGAME",
+      "category": "concept",
+      "difficulty": 2
+    },
+    {
+      "word": "NETWORKED",
+      "category": "concept",
+      "difficulty": 2
+    },
+    {
+      "word": "NARRATIVE",
+      "category": "concept",
+      "difficulty": 2
+    },
+    {
+      "word": "COOP",
+      "category": "concept",
+      "difficulty": 2
+    },
+    {
+      "word": "VERSUS",
+      "category": "concept",
+      "difficulty": 2
+    },
+    {
+      "word": "DEATHMATCH",
+      "category": "concept",
+      "difficulty": 2
+    },
+    {
+      "word": "POWERUP",
+      "category": "concept",
+      "difficulty": 2
+    },
+    {
+      "word": "COOLDOWN",
+      "category": "concept",
+      "difficulty": 2
+    },
+    {
+      "word": "BUFFED",
+      "category": "concept",
+      "difficulty": 2
+    },
+    {
+      "word": "NERFED",
+      "category": "concept",
+      "difficulty": 2
+    },
+    {
+      "word": "FARMING",
+      "category": "action",
+      "difficulty": 2
+    },
+    {
+      "word": "GRINDING",
+      "category": "action",
+      "difficulty": 2
+    },
+    {
+      "word": "CAMPING",
+      "category": "action",
+      "difficulty": 2
+    },
+    {
+      "word": "SNIPING",
+      "category": "action",
+      "difficulty": 2
+    },
+    {
+      "word": "NOOB",
+      "category": "concept",
+      "difficulty": 2
+    },
+    {
+      "word": "MILESTONE",
+      "category": "concept",
+      "difficulty": 3
+    },
+    {
+      "word": "HIGHSCORE",
+      "category": "concept",
+      "difficulty": 3
+    },
+    {
+      "word": "GUIDEBOOK",
+      "category": "concept",
+      "difficulty": 3
+    },
+    {
+      "word": "CONTROLLER",
+      "category": "hardware",
+      "difficulty": 3
+    },
+    {
+      "word": "EXPANSION",
+      "category": "concept",
+      "difficulty": 3
+    },
+    {
+      "word": "STREAMING",
+      "category": "concept",
+      "difficulty": 3
+    },
+    {
+      "word": "MICROCOST",
+      "category": "concept",
+      "difficulty": 3
+    },
+    {
+      "word": "LOOTBOX",
+      "category": "concept",
+      "difficulty": 3
+    },
+    {
+      "word": "PROCEDURAL",
+      "category": "concept",
+      "difficulty": 3
+    },
+    {
+      "word": "PERMADEATH",
+      "category": "concept",
+      "difficulty": 3
+    },
+    {
+      "word": "HITBOX",
+      "category": "concept",
+      "difficulty": 3
+    },
+    {
+      "word": "HITSCAN",
+      "category": "concept",
+      "difficulty": 3
+    },
+    {
+      "word": "PROJECTILE",
+      "category": "concept",
+      "difficulty": 3
+    },
+    {
+      "word": "FRAMERATE",
+      "category": "concept",
+      "difficulty": 3
+    },
+    {
+      "word": "RESOLUTION",
+      "category": "concept",
+      "difficulty": 3
+    },
+    {
+      "word": "RENDERING",
+      "category": "concept",
+      "difficulty": 3
+    },
+    {
+      "word": "RAYTRACING",
+      "category": "concept",
+      "difficulty": 3
+    },
+    {
+      "word": "OPEN",
+      "category": "genre",
+      "difficulty": 3
+    },
+    {
+      "word": "PLATFORMER",
+      "category": "genre",
+      "difficulty": 3
+    },
+    {
+      "word": "GACHA",
+      "category": "concept",
+      "difficulty": 3
+    }
+  ]
+}

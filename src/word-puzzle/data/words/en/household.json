@@ -1,0 +1,506 @@
+{
+  "theme": "household",
+  "language": "en",
+  "words": [
+    {
+      "word": "MOP",
+      "category": "cleaning",
+      "difficulty": 1
+    },
+    {
+      "word": "JUG",
+      "category": "kitchenware",
+      "difficulty": 1
+    },
+    {
+      "word": "POT",
+      "category": "kitchenware",
+      "difficulty": 1
+    },
+    {
+      "word": "RUG",
+      "category": "flooring",
+      "difficulty": 1
+    },
+    {
+      "word": "BED",
+      "category": "furniture",
+      "difficulty": 1
+    },
+    {
+      "word": "FAN",
+      "category": "appliance",
+      "difficulty": 1
+    },
+    {
+      "word": "MUG",
+      "category": "kitchenware",
+      "difficulty": 1
+    },
+    {
+      "word": "PAN",
+      "category": "kitchenware",
+      "difficulty": 1
+    },
+    {
+      "word": "JAR",
+      "category": "storage",
+      "difficulty": 1
+    },
+    {
+      "word": "TUB",
+      "category": "bathroom",
+      "difficulty": 1
+    },
+    {
+      "word": "LAMP",
+      "category": "lighting",
+      "difficulty": 1
+    },
+    {
+      "word": "SOFA",
+      "category": "furniture",
+      "difficulty": 1
+    },
+    {
+      "word": "DESK",
+      "category": "furniture",
+      "difficulty": 1
+    },
+    {
+      "word": "RAKE",
+      "category": "garden",
+      "difficulty": 1
+    },
+    {
+      "word": "COMB",
+      "category": "grooming",
+      "difficulty": 1
+    },
+    {
+      "word": "FORK",
+      "category": "cutlery",
+      "difficulty": 1
+    },
+    {
+      "word": "BOWL",
+      "category": "kitchenware",
+      "difficulty": 1
+    },
+    {
+      "word": "IRON",
+      "category": "appliance",
+      "difficulty": 1
+    },
+    {
+      "word": "LOCK",
+      "category": "security",
+      "difficulty": 1
+    },
+    {
+      "word": "TRAY",
+      "category": "kitchenware",
+      "difficulty": 1
+    },
+    {
+      "word": "HOOK",
+      "category": "hardware",
+      "difficulty": 1
+    },
+    {
+      "word": "ROPE",
+      "category": "utility",
+      "difficulty": 1
+    },
+    {
+      "word": "HOSE",
+      "category": "garden",
+      "difficulty": 1
+    },
+    {
+      "word": "PAIL",
+      "category": "cleaning",
+      "difficulty": 1
+    },
+    {
+      "word": "VASE",
+      "category": "decor",
+      "difficulty": 1
+    },
+    {
+      "word": "WISK",
+      "category": "kitchenware",
+      "difficulty": 1
+    },
+    {
+      "word": "CLIP",
+      "category": "utility",
+      "difficulty": 1
+    },
+    {
+      "word": "MATS",
+      "category": "flooring",
+      "difficulty": 1
+    },
+    {
+      "word": "TONG",
+      "category": "kitchenware",
+      "difficulty": 1
+    },
+    {
+      "word": "PUMP",
+      "category": "utility",
+      "difficulty": 1
+    },
+    {
+      "word": "BULB",
+      "category": "lighting",
+      "difficulty": 1
+    },
+    {
+      "word": "BOLT",
+      "category": "hardware",
+      "difficulty": 1
+    },
+    {
+      "word": "NAIL",
+      "category": "hardware",
+      "difficulty": 1
+    },
+    {
+      "word": "CORD",
+      "category": "utility",
+      "difficulty": 1
+    },
+    {
+      "word": "KNOB",
+      "category": "hardware",
+      "difficulty": 1
+    },
+    {
+      "word": "FUSE",
+      "category": "electrical",
+      "difficulty": 1
+    },
+    {
+      "word": "WICK",
+      "category": "lighting",
+      "difficulty": 1
+    },
+    {
+      "word": "DRUM",
+      "category": "storage",
+      "difficulty": 1
+    },
+    {
+      "word": "RACK",
+      "category": "storage",
+      "difficulty": 1
+    },
+    {
+      "word": "SINK",
+      "category": "bathroom",
+      "difficulty": 1
+    },
+    {
+      "word": "TOWEL",
+      "category": "bathroom",
+      "difficulty": 2
+    },
+    {
+      "word": "SHELF",
+      "category": "storage",
+      "difficulty": 2
+    },
+    {
+      "word": "CLOCK",
+      "category": "decor",
+      "difficulty": 2
+    },
+    {
+      "word": "STOOL",
+      "category": "furniture",
+      "difficulty": 2
+    },
+    {
+      "word": "BROOM",
+      "category": "cleaning",
+      "difficulty": 2
+    },
+    {
+      "word": "KNIFE",
+      "category": "cutlery",
+      "difficulty": 2
+    },
+    {
+      "word": "SPOON",
+      "category": "cutlery",
+      "difficulty": 2
+    },
+    {
+      "word": "PILLOW",
+      "category": "bedroom",
+      "difficulty": 2
+    },
+    {
+      "word": "MIRROR",
+      "category": "bathroom",
+      "difficulty": 2
+    },
+    {
+      "word": "BUCKET",
+      "category": "cleaning",
+      "difficulty": 2
+    },
+    {
+      "word": "HAMMER",
+      "category": "tools",
+      "difficulty": 2
+    },
+    {
+      "word": "LADDER",
+      "category": "utility",
+      "difficulty": 2
+    },
+    {
+      "word": "FAUCET",
+      "category": "plumbing",
+      "difficulty": 2
+    },
+    {
+      "word": "DRAWER",
+      "category": "furniture",
+      "difficulty": 2
+    },
+    {
+      "word": "CANDLE",
+      "category": "lighting",
+      "difficulty": 2
+    },
+    {
+      "word": "KETTLE",
+      "category": "appliance",
+      "difficulty": 2
+    },
+    {
+      "word": "BOTTLE",
+      "category": "storage",
+      "difficulty": 2
+    },
+    {
+      "word": "SPONGE",
+      "category": "cleaning",
+      "difficulty": 2
+    },
+    {
+      "word": "BASKET",
+      "category": "storage",
+      "difficulty": 2
+    },
+    {
+      "word": "CLOSET",
+      "category": "storage",
+      "difficulty": 2
+    },
+    {
+      "word": "DRAPES",
+      "category": "decor",
+      "difficulty": 2
+    },
+    {
+      "word": "GRATER",
+      "category": "kitchenware",
+      "difficulty": 2
+    },
+    {
+      "word": "PLIERS",
+      "category": "tools",
+      "difficulty": 2
+    },
+    {
+      "word": "SHEARS",
+      "category": "tools",
+      "difficulty": 2
+    },
+    {
+      "word": "WASHER",
+      "category": "appliance",
+      "difficulty": 2
+    },
+    {
+      "word": "HEATER",
+      "category": "appliance",
+      "difficulty": 2
+    },
+    {
+      "word": "LADLE",
+      "category": "kitchenware",
+      "difficulty": 2
+    },
+    {
+      "word": "HAMPER",
+      "category": "storage",
+      "difficulty": 2
+    },
+    {
+      "word": "WRENCH",
+      "category": "tools",
+      "difficulty": 2
+    },
+    {
+      "word": "FUNNEL",
+      "category": "kitchenware",
+      "difficulty": 2
+    },
+    {
+      "word": "DIMMER",
+      "category": "electrical",
+      "difficulty": 2
+    },
+    {
+      "word": "COASTER",
+      "category": "kitchenware",
+      "difficulty": 2
+    },
+    {
+      "word": "CURTAIN",
+      "category": "decor",
+      "difficulty": 2
+    },
+    {
+      "word": "CABINET",
+      "category": "storage",
+      "difficulty": 2
+    },
+    {
+      "word": "BLANKET",
+      "category": "bedroom",
+      "difficulty": 2
+    },
+    {
+      "word": "SPATULA",
+      "category": "kitchenware",
+      "difficulty": 2
+    },
+    {
+      "word": "PLUNGER",
+      "category": "plumbing",
+      "difficulty": 2
+    },
+    {
+      "word": "DOORMAT",
+      "category": "flooring",
+      "difficulty": 2
+    },
+    {
+      "word": "LANTERN",
+      "category": "lighting",
+      "difficulty": 2
+    },
+    {
+      "word": "DUSTPAN",
+      "category": "cleaning",
+      "difficulty": 2
+    },
+    {
+      "word": "BLENDER",
+      "category": "appliance",
+      "difficulty": 3
+    },
+    {
+      "word": "TOASTER",
+      "category": "appliance",
+      "difficulty": 3
+    },
+    {
+      "word": "VACUUM",
+      "category": "cleaning",
+      "difficulty": 3
+    },
+    {
+      "word": "DISHWASHER",
+      "category": "appliance",
+      "difficulty": 3
+    },
+    {
+      "word": "MICROWAVE",
+      "category": "appliance",
+      "difficulty": 3
+    },
+    {
+      "word": "APPLIANCES",
+      "category": "appliance",
+      "difficulty": 3
+    },
+    {
+      "word": "LAWNMOWER",
+      "category": "garden",
+      "difficulty": 3
+    },
+    {
+      "word": "BREADBOARD",
+      "category": "kitchenware",
+      "difficulty": 3
+    },
+    {
+      "word": "BAROMETER",
+      "category": "utility",
+      "difficulty": 3
+    },
+    {
+      "word": "CLOTHESPEG",
+      "category": "laundry",
+      "difficulty": 3
+    },
+    {
+      "word": "PILLOWCASE",
+      "category": "bedroom",
+      "difficulty": 3
+    },
+    {
+      "word": "HUMIDIFIER",
+      "category": "appliance",
+      "difficulty": 3
+    },
+    {
+      "word": "CHANDELIER",
+      "category": "garden",
+      "difficulty": 3
+    },
+    {
+      "word": "WINDOWSILL",
+      "category": "structure",
+      "difficulty": 3
+    },
+    {
+      "word": "FLOORBOARD",
+      "category": "flooring",
+      "difficulty": 3
+    },
+    {
+      "word": "CANDELABRA",
+      "category": "lighting",
+      "difficulty": 3
+    },
+    {
+      "word": "TOOLBOXES",
+      "category": "tools",
+      "difficulty": 3
+    },
+    {
+      "word": "BOOKSHELF",
+      "category": "storage",
+      "difficulty": 3
+    },
+    {
+      "word": "DOORKNOB",
+      "category": "hardware",
+      "difficulty": 3
+    },
+    {
+      "word": "COFFEEPOT",
+      "category": "kitchenware",
+      "difficulty": 3
+    }
+  ]
+}

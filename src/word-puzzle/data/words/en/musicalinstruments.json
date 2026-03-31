@@ -1,0 +1,506 @@
+{
+  "theme": "musicalinstruments",
+  "language": "en",
+  "words": [
+    {
+      "word": "DRUM",
+      "category": "percussion",
+      "difficulty": 1
+    },
+    {
+      "word": "HARP",
+      "category": "strings",
+      "difficulty": 1
+    },
+    {
+      "word": "FIFE",
+      "category": "woodwind",
+      "difficulty": 1
+    },
+    {
+      "word": "LUTE",
+      "category": "strings",
+      "difficulty": 1
+    },
+    {
+      "word": "OBOE",
+      "category": "woodwind",
+      "difficulty": 1
+    },
+    {
+      "word": "TUBA",
+      "category": "brass",
+      "difficulty": 1
+    },
+    {
+      "word": "HORN",
+      "category": "brass",
+      "difficulty": 1
+    },
+    {
+      "word": "GONG",
+      "category": "percussion",
+      "difficulty": 1
+    },
+    {
+      "word": "BELL",
+      "category": "percussion",
+      "difficulty": 1
+    },
+    {
+      "word": "BASS",
+      "category": "strings",
+      "difficulty": 1
+    },
+    {
+      "word": "LYRE",
+      "category": "strings",
+      "difficulty": 1
+    },
+    {
+      "word": "FIFE",
+      "category": "woodwind",
+      "difficulty": 1
+    },
+    {
+      "word": "BONGO",
+      "category": "percussion",
+      "difficulty": 1
+    },
+    {
+      "word": "CELLO",
+      "category": "strings",
+      "difficulty": 1
+    },
+    {
+      "word": "FLUTE",
+      "category": "woodwind",
+      "difficulty": 1
+    },
+    {
+      "word": "PIANO",
+      "category": "keyboard",
+      "difficulty": 1
+    },
+    {
+      "word": "VIOLA",
+      "category": "strings",
+      "difficulty": 1
+    },
+    {
+      "word": "BANJO",
+      "category": "strings",
+      "difficulty": 1
+    },
+    {
+      "word": "SITAR",
+      "category": "strings",
+      "difficulty": 1
+    },
+    {
+      "word": "KAZOO",
+      "category": "wind",
+      "difficulty": 1
+    },
+    {
+      "word": "ZITHER",
+      "category": "strings",
+      "difficulty": 1
+    },
+    {
+      "word": "UKELELE",
+      "category": "strings",
+      "difficulty": 1
+    },
+    {
+      "word": "GUITAR",
+      "category": "strings",
+      "difficulty": 1
+    },
+    {
+      "word": "VIOLIN",
+      "category": "strings",
+      "difficulty": 1
+    },
+    {
+      "word": "DULCIMER",
+      "category": "strings",
+      "difficulty": 1
+    },
+    {
+      "word": "OCARINA",
+      "category": "woodwind",
+      "difficulty": 1
+    },
+    {
+      "word": "FIDDLE",
+      "category": "strings",
+      "difficulty": 1
+    },
+    {
+      "word": "BASSOON",
+      "category": "woodwind",
+      "difficulty": 1
+    },
+    {
+      "word": "CONGA",
+      "category": "percussion",
+      "difficulty": 1
+    },
+    {
+      "word": "DJEMBE",
+      "category": "percussion",
+      "difficulty": 1
+    },
+    {
+      "word": "MARIMBA",
+      "category": "percussion",
+      "difficulty": 1
+    },
+    {
+      "word": "MBIRA",
+      "category": "percussion",
+      "difficulty": 1
+    },
+    {
+      "word": "THEREMIN",
+      "category": "electronic",
+      "difficulty": 1
+    },
+    {
+      "word": "WHISTLE",
+      "category": "wind",
+      "difficulty": 1
+    },
+    {
+      "word": "BAGPIPE",
+      "category": "wind",
+      "difficulty": 1
+    },
+    {
+      "word": "REBAB",
+      "category": "strings",
+      "difficulty": 1
+    },
+    {
+      "word": "ERHU",
+      "category": "strings",
+      "difficulty": 1
+    },
+    {
+      "word": "SHENG",
+      "category": "wind",
+      "difficulty": 1
+    },
+    {
+      "word": "PIPA",
+      "category": "strings",
+      "difficulty": 1
+    },
+    {
+      "word": "GUZHENG",
+      "category": "strings",
+      "difficulty": 1
+    },
+    {
+      "word": "TRUMPET",
+      "category": "brass",
+      "difficulty": 2
+    },
+    {
+      "word": "CLARINET",
+      "category": "woodwind",
+      "difficulty": 2
+    },
+    {
+      "word": "TROMBONE",
+      "category": "brass",
+      "difficulty": 2
+    },
+    {
+      "word": "MANDOLIN",
+      "category": "strings",
+      "difficulty": 2
+    },
+    {
+      "word": "BARITONE",
+      "category": "brass",
+      "difficulty": 2
+    },
+    {
+      "word": "KEYBOARD",
+      "category": "keyboard",
+      "difficulty": 2
+    },
+    {
+      "word": "HARMONICA",
+      "category": "wind",
+      "difficulty": 2
+    },
+    {
+      "word": "TRIANGLE",
+      "category": "percussion",
+      "difficulty": 2
+    },
+    {
+      "word": "TAMBOURINE",
+      "category": "percussion",
+      "difficulty": 2
+    },
+    {
+      "word": "AUTOHARP",
+      "category": "strings",
+      "difficulty": 2
+    },
+    {
+      "word": "SNARE",
+      "category": "percussion",
+      "difficulty": 2
+    },
+    {
+      "word": "CYMBAL",
+      "category": "percussion",
+      "difficulty": 2
+    },
+    {
+      "word": "CELESTA",
+      "category": "keyboard",
+      "difficulty": 2
+    },
+    {
+      "word": "BALALAIKA",
+      "category": "keyboard",
+      "difficulty": 2
+    },
+    {
+      "word": "CLAVICHORD",
+      "category": "keyboard",
+      "difficulty": 2
+    },
+    {
+      "word": "SPINET",
+      "category": "keyboard",
+      "difficulty": 2
+    },
+    {
+      "word": "VIRGINAL",
+      "category": "keyboard",
+      "difficulty": 2
+    },
+    {
+      "word": "ORGAN",
+      "category": "keyboard",
+      "difficulty": 2
+    },
+    {
+      "word": "SYNTH",
+      "category": "electronic",
+      "difficulty": 2
+    },
+    {
+      "word": "SHAKUHACHI",
+      "category": "electronic",
+      "difficulty": 2
+    },
+    {
+      "word": "SEQUENCER",
+      "category": "electronic",
+      "difficulty": 2
+    },
+    {
+      "word": "SAMPLER",
+      "category": "electronic",
+      "difficulty": 2
+    },
+    {
+      "word": "UPRIGHT",
+      "category": "strings",
+      "difficulty": 2
+    },
+    {
+      "word": "CONTRABASS",
+      "category": "strings",
+      "difficulty": 2
+    },
+    {
+      "word": "PICCOLO",
+      "category": "woodwind",
+      "difficulty": 2
+    },
+    {
+      "word": "ENGLISH",
+      "category": "woodwind",
+      "difficulty": 2
+    },
+    {
+      "word": "SOPRANINO",
+      "category": "woodwind",
+      "difficulty": 2
+    },
+    {
+      "word": "FLUGELHORN",
+      "category": "brass",
+      "difficulty": 2
+    },
+    {
+      "word": "EUPHONIUM",
+      "category": "brass",
+      "difficulty": 2
+    },
+    {
+      "word": "CORNET",
+      "category": "brass",
+      "difficulty": 2
+    },
+    {
+      "word": "BUGLE",
+      "category": "brass",
+      "difficulty": 2
+    },
+    {
+      "word": "MELLOPHONE",
+      "category": "brass",
+      "difficulty": 2
+    },
+    {
+      "word": "MELLOTRON",
+      "category": "keyboard",
+      "difficulty": 2
+    },
+    {
+      "word": "WURLITZER",
+      "category": "keyboard",
+      "difficulty": 2
+    },
+    {
+      "word": "VIBRAPHONE",
+      "category": "percussion",
+      "difficulty": 2
+    },
+    {
+      "word": "XYLOPHONE",
+      "category": "percussion",
+      "difficulty": 2
+    },
+    {
+      "word": "KALIMBA",
+      "category": "percussion",
+      "difficulty": 2
+    },
+    {
+      "word": "GUITALELE",
+      "category": "strings",
+      "difficulty": 2
+    },
+    {
+      "word": "RESONATOR",
+      "category": "strings",
+      "difficulty": 2
+    },
+    {
+      "word": "LAPSTEEL",
+      "category": "strings",
+      "difficulty": 2
+    },
+    {
+      "word": "ACCORDION",
+      "category": "wind",
+      "difficulty": 3
+    },
+    {
+      "word": "SAXOPHONE",
+      "category": "woodwind",
+      "difficulty": 3
+    },
+    {
+      "word": "CONCERTINA",
+      "category": "wind",
+      "difficulty": 3
+    },
+    {
+      "word": "BANDONEON",
+      "category": "wind",
+      "difficulty": 3
+    },
+    {
+      "word": "HURDY",
+      "category": "strings",
+      "difficulty": 3
+    },
+    {
+      "word": "SACKBUT",
+      "category": "brass",
+      "difficulty": 3
+    },
+    {
+      "word": "SERPENT",
+      "category": "brass",
+      "difficulty": 3
+    },
+    {
+      "word": "OPHICLEIDE",
+      "category": "brass",
+      "difficulty": 3
+    },
+    {
+      "word": "BASSCELLO",
+      "category": "woodwind",
+      "difficulty": 3
+    },
+    {
+      "word": "THEREMIN",
+      "category": "electronic",
+      "difficulty": 3
+    },
+    {
+      "word": "MADRIGAL",
+      "category": "concept",
+      "difficulty": 3
+    },
+    {
+      "word": "SYMPHONIC",
+      "category": "concept",
+      "difficulty": 3
+    },
+    {
+      "word": "STRADIVARI",
+      "category": "strings",
+      "difficulty": 3
+    },
+    {
+      "word": "WOODWINDS",
+      "category": "brass",
+      "difficulty": 3
+    },
+    {
+      "word": "ORCHESTRA",
+      "category": "strings",
+      "difficulty": 3
+    },
+    {
+      "word": "WOODWIND",
+      "category": "woodwind",
+      "difficulty": 3
+    },
+    {
+      "word": "BANDURRIA",
+      "category": "woodwind",
+      "difficulty": 3
+    },
+    {
+      "word": "DIDGERIDOO",
+      "category": "wind",
+      "difficulty": 3
+    },
+    {
+      "word": "ERHUGUQIN",
+      "category": "strings",
+      "difficulty": 3
+    },
+    {
+      "word": "SOUSAPHONE",
+      "category": "brass",
+      "difficulty": 3
+    }
+  ]
+}

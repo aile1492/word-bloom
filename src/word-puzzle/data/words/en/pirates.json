@@ -1,0 +1,501 @@
+{
+  "theme": "pirates",
+  "language": "en",
+  "words": [
+    {
+      "word": "MAP",
+      "category": "navigation",
+      "difficulty": 1
+    },
+    {
+      "word": "RUM",
+      "category": "drink",
+      "difficulty": 1
+    },
+    {
+      "word": "OAR",
+      "category": "vessel",
+      "difficulty": 1
+    },
+    {
+      "word": "SEA",
+      "category": "location",
+      "difficulty": 1
+    },
+    {
+      "word": "SIP",
+      "category": "action",
+      "difficulty": 1
+    },
+    {
+      "word": "AXE",
+      "category": "weapon",
+      "difficulty": 1
+    },
+    {
+      "word": "BOW",
+      "category": "vessel",
+      "difficulty": 1
+    },
+    {
+      "word": "FOG",
+      "category": "weather",
+      "difficulty": 1
+    },
+    {
+      "word": "GUN",
+      "category": "weapon",
+      "difficulty": 1
+    },
+    {
+      "word": "NET",
+      "category": "equipment",
+      "difficulty": 1
+    },
+    {
+      "word": "SHIP",
+      "category": "vessel",
+      "difficulty": 1
+    },
+    {
+      "word": "CREW",
+      "category": "people",
+      "difficulty": 1
+    },
+    {
+      "word": "FLAG",
+      "category": "symbol",
+      "difficulty": 1
+    },
+    {
+      "word": "GOLD",
+      "category": "treasure",
+      "difficulty": 1
+    },
+    {
+      "word": "LOOT",
+      "category": "treasure",
+      "difficulty": 1
+    },
+    {
+      "word": "MAST",
+      "category": "vessel",
+      "difficulty": 1
+    },
+    {
+      "word": "PORT",
+      "category": "location",
+      "difficulty": 1
+    },
+    {
+      "word": "SAIL",
+      "category": "vessel",
+      "difficulty": 1
+    },
+    {
+      "word": "REEF",
+      "category": "geography",
+      "difficulty": 1
+    },
+    {
+      "word": "PLANK",
+      "category": "punishment",
+      "difficulty": 1
+    },
+    {
+      "word": "TIDE",
+      "category": "sea",
+      "difficulty": 1
+    },
+    {
+      "word": "WAVE",
+      "category": "sea",
+      "difficulty": 1
+    },
+    {
+      "word": "COVE",
+      "category": "geography",
+      "difficulty": 1
+    },
+    {
+      "word": "ISLE",
+      "category": "geography",
+      "difficulty": 1
+    },
+    {
+      "word": "PIER",
+      "category": "location",
+      "difficulty": 1
+    },
+    {
+      "word": "HELM",
+      "category": "vessel",
+      "difficulty": 1
+    },
+    {
+      "word": "HULL",
+      "category": "vessel",
+      "difficulty": 1
+    },
+    {
+      "word": "DECK",
+      "category": "vessel",
+      "difficulty": 1
+    },
+    {
+      "word": "BRIG",
+      "category": "vessel",
+      "difficulty": 1
+    },
+    {
+      "word": "ROPE",
+      "category": "equipment",
+      "difficulty": 1
+    },
+    {
+      "word": "HOOK",
+      "category": "weapon",
+      "difficulty": 1
+    },
+    {
+      "word": "DUNE",
+      "category": "geography",
+      "difficulty": 1
+    },
+    {
+      "word": "MIST",
+      "category": "weather",
+      "difficulty": 1
+    },
+    {
+      "word": "KNOT",
+      "category": "navigation",
+      "difficulty": 1
+    },
+    {
+      "word": "GALE",
+      "category": "weather",
+      "difficulty": 1
+    },
+    {
+      "word": "BOOTY",
+      "category": "treasure",
+      "difficulty": 1
+    },
+    {
+      "word": "JOLLY",
+      "category": "symbol",
+      "difficulty": 1
+    },
+    {
+      "word": "SWORD",
+      "category": "weapon",
+      "difficulty": 1
+    },
+    {
+      "word": "BLADE",
+      "category": "weapon",
+      "difficulty": 1
+    },
+    {
+      "word": "CHEST",
+      "category": "treasure",
+      "difficulty": 1
+    },
+    {
+      "word": "ANCHOR",
+      "category": "vessel",
+      "difficulty": 2
+    },
+    {
+      "word": "BARREL",
+      "category": "storage",
+      "difficulty": 2
+    },
+    {
+      "word": "CANNON",
+      "category": "weapon",
+      "difficulty": 2
+    },
+    {
+      "word": "CARGO",
+      "category": "goods",
+      "difficulty": 2
+    },
+    {
+      "word": "HARBOR",
+      "category": "location",
+      "difficulty": 2
+    },
+    {
+      "word": "ISLAND",
+      "category": "geography",
+      "difficulty": 2
+    },
+    {
+      "word": "MUTINY",
+      "category": "event",
+      "difficulty": 2
+    },
+    {
+      "word": "PARROT",
+      "category": "animal",
+      "difficulty": 2
+    },
+    {
+      "word": "RICHES",
+      "category": "treasure",
+      "difficulty": 2
+    },
+    {
+      "word": "PLUNDER",
+      "category": "action",
+      "difficulty": 2
+    },
+    {
+      "word": "CAPTAIN",
+      "category": "rank",
+      "difficulty": 2
+    },
+    {
+      "word": "COMPASS",
+      "category": "navigation",
+      "difficulty": 2
+    },
+    {
+      "word": "CORSAIR",
+      "category": "character",
+      "difficulty": 2
+    },
+    {
+      "word": "CUTLASS",
+      "category": "weapon",
+      "difficulty": 2
+    },
+    {
+      "word": "GALLEON",
+      "category": "vessel",
+      "difficulty": 2
+    },
+    {
+      "word": "LANTERN",
+      "category": "equipment",
+      "difficulty": 2
+    },
+    {
+      "word": "LOOKOUT",
+      "category": "role",
+      "difficulty": 2
+    },
+    {
+      "word": "SEAPORT",
+      "category": "location",
+      "difficulty": 2
+    },
+    {
+      "word": "RIGGING",
+      "category": "vessel",
+      "difficulty": 2
+    },
+    {
+      "word": "POWDER",
+      "category": "weapon",
+      "difficulty": 2
+    },
+    {
+      "word": "SCURVY",
+      "category": "disease",
+      "difficulty": 2
+    },
+    {
+      "word": "DOUBLOON",
+      "category": "currency",
+      "difficulty": 2
+    },
+    {
+      "word": "SMUGGLE",
+      "category": "action",
+      "difficulty": 2
+    },
+    {
+      "word": "BRIGAND",
+      "category": "character",
+      "difficulty": 2
+    },
+    {
+      "word": "PRISONER",
+      "category": "character",
+      "difficulty": 2
+    },
+    {
+      "word": "TREASURE",
+      "category": "wealth",
+      "difficulty": 2
+    },
+    {
+      "word": "MOORING",
+      "category": "vessel",
+      "difficulty": 2
+    },
+    {
+      "word": "VOYAGE",
+      "category": "journey",
+      "difficulty": 2
+    },
+    {
+      "word": "SEXTANT",
+      "category": "navigation",
+      "difficulty": 2
+    },
+    {
+      "word": "HELMSMAN",
+      "category": "role",
+      "difficulty": 2
+    },
+    {
+      "word": "FLAGSHIP",
+      "category": "vessel",
+      "difficulty": 2
+    },
+    {
+      "word": "BROADSIDE",
+      "category": "combat",
+      "difficulty": 2
+    },
+    {
+      "word": "PRIVATEERS",
+      "category": "character",
+      "difficulty": 2
+    },
+    {
+      "word": "FILIBUSTER",
+      "category": "character",
+      "difficulty": 2
+    },
+    {
+      "word": "MARAUDER",
+      "category": "character",
+      "difficulty": 2
+    },
+    {
+      "word": "RENEGADE",
+      "category": "character",
+      "difficulty": 2
+    },
+    {
+      "word": "GALLOWS",
+      "category": "punishment",
+      "difficulty": 2
+    },
+    {
+      "word": "CORSAIRE",
+      "category": "vessel",
+      "difficulty": 2
+    },
+    {
+      "word": "ANCHORAGE",
+      "category": "location",
+      "difficulty": 2
+    },
+    {
+      "word": "SHIPWRECK",
+      "category": "event",
+      "difficulty": 3
+    },
+    {
+      "word": "BUCCANEER",
+      "category": "character",
+      "difficulty": 3
+    },
+    {
+      "word": "PLUNDERING",
+      "category": "action",
+      "difficulty": 3
+    },
+    {
+      "word": "PRIVATEER",
+      "category": "character",
+      "difficulty": 3
+    },
+    {
+      "word": "NAVIGATING",
+      "category": "action",
+      "difficulty": 3
+    },
+    {
+      "word": "BOATSWAIN",
+      "category": "rank",
+      "difficulty": 3
+    },
+    {
+      "word": "DAVY_JONES",
+      "category": "legend",
+      "difficulty": 3
+    },
+    {
+      "word": "PLUNDERER",
+      "category": "trait",
+      "difficulty": 3
+    },
+    {
+      "word": "MARAUDING",
+      "category": "action",
+      "difficulty": 3
+    },
+    {
+      "word": "CONTRABAND",
+      "category": "goods",
+      "difficulty": 3
+    },
+    {
+      "word": "SWORDFIGHT",
+      "category": "combat",
+      "difficulty": 3
+    },
+    {
+      "word": "LOADSTOONE",
+      "category": "navigation",
+      "difficulty": 3
+    },
+    {
+      "word": "BROADSIDE",
+      "category": "combat",
+      "difficulty": 3
+    },
+    {
+      "word": "KEEL_HAUL",
+      "category": "punishment",
+      "difficulty": 3
+    },
+    {
+      "word": "SEAWORTHY",
+      "category": "vessel",
+      "difficulty": 3
+    },
+    {
+      "word": "MAINSAIL",
+      "category": "vessel",
+      "difficulty": 3
+    },
+    {
+      "word": "BUCCANEERS",
+      "category": "character",
+      "difficulty": 3
+    },
+    {
+      "word": "PLUNDERERS",
+      "category": "character",
+      "difficulty": 3
+    },
+    {
+      "word": "NEFARIOUS",
+      "category": "trait",
+      "difficulty": 3
+    },
+    {
+      "word": "CAPTAINCY",
+      "category": "rank",
+      "difficulty": 3
+    }
+  ]
+}

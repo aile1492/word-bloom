@@ -1,0 +1,506 @@
+{
+  "theme": "superheroes",
+  "language": "en",
+  "words": [
+    {
+      "word": "FLY",
+      "category": "power",
+      "difficulty": 1
+    },
+    {
+      "word": "ARC",
+      "category": "combat",
+      "difficulty": 1
+    },
+    {
+      "word": "WEB",
+      "category": "power",
+      "difficulty": 1
+    },
+    {
+      "word": "RAY",
+      "category": "power",
+      "difficulty": 1
+    },
+    {
+      "word": "ZAP",
+      "category": "power",
+      "difficulty": 1
+    },
+    {
+      "word": "HIT",
+      "category": "combat",
+      "difficulty": 1
+    },
+    {
+      "word": "RUN",
+      "category": "power",
+      "difficulty": 1
+    },
+    {
+      "word": "JAB",
+      "category": "combat",
+      "difficulty": 1
+    },
+    {
+      "word": "ICE",
+      "category": "power",
+      "difficulty": 1
+    },
+    {
+      "word": "ORB",
+      "category": "power",
+      "difficulty": 1
+    },
+    {
+      "word": "CAPE",
+      "category": "costume",
+      "difficulty": 1
+    },
+    {
+      "word": "HERO",
+      "category": "character",
+      "difficulty": 1
+    },
+    {
+      "word": "MASK",
+      "category": "costume",
+      "difficulty": 1
+    },
+    {
+      "word": "FIST",
+      "category": "combat",
+      "difficulty": 1
+    },
+    {
+      "word": "EVIL",
+      "category": "villain",
+      "difficulty": 1
+    },
+    {
+      "word": "LAIR",
+      "category": "location",
+      "difficulty": 1
+    },
+    {
+      "word": "LEAP",
+      "category": "power",
+      "difficulty": 1
+    },
+    {
+      "word": "LURE",
+      "category": "tactic",
+      "difficulty": 1
+    },
+    {
+      "word": "SUIT",
+      "category": "costume",
+      "difficulty": 1
+    },
+    {
+      "word": "BOLT",
+      "category": "power",
+      "difficulty": 1
+    },
+    {
+      "word": "ACID",
+      "category": "power",
+      "difficulty": 1
+    },
+    {
+      "word": "FOES",
+      "category": "character",
+      "difficulty": 1
+    },
+    {
+      "word": "GLOW",
+      "category": "power",
+      "difficulty": 1
+    },
+    {
+      "word": "DOOM",
+      "category": "villain",
+      "difficulty": 1
+    },
+    {
+      "word": "DUEL",
+      "category": "combat",
+      "difficulty": 1
+    },
+    {
+      "word": "EPIC",
+      "category": "narrative",
+      "difficulty": 1
+    },
+    {
+      "word": "FURY",
+      "category": "emotion",
+      "difficulty": 1
+    },
+    {
+      "word": "GRIT",
+      "category": "trait",
+      "difficulty": 1
+    },
+    {
+      "word": "ICON",
+      "category": "character",
+      "difficulty": 1
+    },
+    {
+      "word": "WARY",
+      "category": "trait",
+      "difficulty": 1
+    },
+    {
+      "word": "DARK",
+      "category": "theme",
+      "difficulty": 1
+    },
+    {
+      "word": "BANE",
+      "category": "villain",
+      "difficulty": 1
+    },
+    {
+      "word": "RIOT",
+      "category": "event",
+      "difficulty": 1
+    },
+    {
+      "word": "WARD",
+      "category": "character",
+      "difficulty": 1
+    },
+    {
+      "word": "MACH",
+      "category": "power",
+      "difficulty": 1
+    },
+    {
+      "word": "VOLT",
+      "category": "power",
+      "difficulty": 1
+    },
+    {
+      "word": "WARP",
+      "category": "power",
+      "difficulty": 1
+    },
+    {
+      "word": "NOVA",
+      "category": "power",
+      "difficulty": 1
+    },
+    {
+      "word": "ALLY",
+      "category": "character",
+      "difficulty": 1
+    },
+    {
+      "word": "DAWN",
+      "category": "theme",
+      "difficulty": 1
+    },
+    {
+      "word": "POWER",
+      "category": "ability",
+      "difficulty": 2
+    },
+    {
+      "word": "ROGUE",
+      "category": "character",
+      "difficulty": 2
+    },
+    {
+      "word": "SQUAD",
+      "category": "team",
+      "difficulty": 2
+    },
+    {
+      "word": "TITAN",
+      "category": "character",
+      "difficulty": 2
+    },
+    {
+      "word": "VENOM",
+      "category": "power",
+      "difficulty": 2
+    },
+    {
+      "word": "WRATH",
+      "category": "emotion",
+      "difficulty": 2
+    },
+    {
+      "word": "SHIELD",
+      "category": "defense",
+      "difficulty": 2
+    },
+    {
+      "word": "BATTLE",
+      "category": "combat",
+      "difficulty": 2
+    },
+    {
+      "word": "COMBAT",
+      "category": "action",
+      "difficulty": 2
+    },
+    {
+      "word": "FREEZE",
+      "category": "power",
+      "difficulty": 2
+    },
+    {
+      "word": "GADGET",
+      "category": "equipment",
+      "difficulty": 2
+    },
+    {
+      "word": "GOTHAM",
+      "category": "location",
+      "difficulty": 2
+    },
+    {
+      "word": "MUTANT",
+      "category": "character",
+      "difficulty": 2
+    },
+    {
+      "word": "RESCUE",
+      "category": "action",
+      "difficulty": 2
+    },
+    {
+      "word": "GLIDER",
+      "category": "equipment",
+      "difficulty": 2
+    },
+    {
+      "word": "COWL",
+      "category": "costume",
+      "difficulty": 2
+    },
+    {
+      "word": "ABILITY",
+      "category": "power",
+      "difficulty": 2
+    },
+    {
+      "word": "COSTUME",
+      "category": "costume",
+      "difficulty": 2
+    },
+    {
+      "word": "DEFENSE",
+      "category": "tactic",
+      "difficulty": 2
+    },
+    {
+      "word": "NEMESIS",
+      "category": "villain",
+      "difficulty": 2
+    },
+    {
+      "word": "PROTECT",
+      "category": "action",
+      "difficulty": 2
+    },
+    {
+      "word": "SIDEKICK",
+      "category": "character",
+      "difficulty": 2
+    },
+    {
+      "word": "VILLAIN",
+      "category": "character",
+      "difficulty": 2
+    },
+    {
+      "word": "CRUSADE",
+      "category": "mission",
+      "difficulty": 2
+    },
+    {
+      "word": "ARSENAL",
+      "category": "equipment",
+      "difficulty": 2
+    },
+    {
+      "word": "GOTCHA",
+      "category": "tactic",
+      "difficulty": 2
+    },
+    {
+      "word": "STEALTH",
+      "category": "ability",
+      "difficulty": 2
+    },
+    {
+      "word": "SORCERY",
+      "category": "power",
+      "difficulty": 2
+    },
+    {
+      "word": "SANCTUM",
+      "category": "location",
+      "difficulty": 2
+    },
+    {
+      "word": "FEARLESS",
+      "category": "trait",
+      "difficulty": 2
+    },
+    {
+      "word": "UNIVERSE",
+      "category": "setting",
+      "difficulty": 2
+    },
+    {
+      "word": "FORTRESS",
+      "category": "location",
+      "difficulty": 2
+    },
+    {
+      "word": "DISGUISE",
+      "category": "tactic",
+      "difficulty": 2
+    },
+    {
+      "word": "VIGILANT",
+      "category": "trait",
+      "difficulty": 2
+    },
+    {
+      "word": "WINGSUIT",
+      "category": "equipment",
+      "difficulty": 2
+    },
+    {
+      "word": "MECHSUIT",
+      "category": "equipment",
+      "difficulty": 2
+    },
+    {
+      "word": "MUTATION",
+      "category": "power",
+      "difficulty": 2
+    },
+    {
+      "word": "TEAMWORK",
+      "category": "strategy",
+      "difficulty": 2
+    },
+    {
+      "word": "IDENTITY",
+      "category": "narrative",
+      "difficulty": 2
+    },
+    {
+      "word": "GUARDIAN",
+      "category": "character",
+      "difficulty": 2
+    },
+    {
+      "word": "SUPERHERO",
+      "category": "character",
+      "difficulty": 3
+    },
+    {
+      "word": "VIGILANTE",
+      "category": "character",
+      "difficulty": 3
+    },
+    {
+      "word": "SACRIFICE",
+      "category": "narrative",
+      "difficulty": 3
+    },
+    {
+      "word": "KRYPTONITE",
+      "category": "weakness",
+      "difficulty": 3
+    },
+    {
+      "word": "TELEPATHY",
+      "category": "power",
+      "difficulty": 3
+    },
+    {
+      "word": "INVINCIBLE",
+      "category": "ability",
+      "difficulty": 3
+    },
+    {
+      "word": "SUPERSONIC",
+      "category": "power",
+      "difficulty": 3
+    },
+    {
+      "word": "RADIATION",
+      "category": "power",
+      "difficulty": 3
+    },
+    {
+      "word": "LONGEVITY",
+      "category": "ability",
+      "difficulty": 3
+    },
+    {
+      "word": "REJUVENATE",
+      "category": "ability",
+      "difficulty": 3
+    },
+    {
+      "word": "MINDPOWER",
+      "category": "power",
+      "difficulty": 3
+    },
+    {
+      "word": "INTANGIBLE",
+      "category": "power",
+      "difficulty": 3
+    },
+    {
+      "word": "OMNIPOTENT",
+      "category": "ability",
+      "difficulty": 3
+    },
+    {
+      "word": "ALTERNATE",
+      "category": "power",
+      "difficulty": 3
+    },
+    {
+      "word": "PERCEPTIVE",
+      "category": "power",
+      "difficulty": 3
+    },
+    {
+      "word": "TRANSFORM",
+      "category": "power",
+      "difficulty": 3
+    },
+    {
+      "word": "FORESIGHT",
+      "category": "power",
+      "difficulty": 3
+    },
+    {
+      "word": "SUPERHUMAN",
+      "category": "power",
+      "difficulty": 3
+    },
+    {
+      "word": "RESILIENT",
+      "category": "ability",
+      "difficulty": 3
+    },
+    {
+      "word": "MENTALISM",
+      "category": "power",
+      "difficulty": 3
+    }
+  ]
+}

@@ -1,0 +1,501 @@
+{
+  "theme": "space",
+  "language": "en",
+  "words": [
+    {
+      "word": "SUN",
+      "category": "body",
+      "difficulty": 1
+    },
+    {
+      "word": "SKY",
+      "category": "concept",
+      "difficulty": 1
+    },
+    {
+      "word": "ION",
+      "category": "concept",
+      "difficulty": 1
+    },
+    {
+      "word": "NOVA",
+      "category": "event",
+      "difficulty": 1
+    },
+    {
+      "word": "MARS",
+      "category": "planet",
+      "difficulty": 1
+    },
+    {
+      "word": "MOON",
+      "category": "body",
+      "difficulty": 1
+    },
+    {
+      "word": "STAR",
+      "category": "body",
+      "difficulty": 1
+    },
+    {
+      "word": "COMET",
+      "category": "body",
+      "difficulty": 1
+    },
+    {
+      "word": "ORBIT",
+      "category": "concept",
+      "difficulty": 1
+    },
+    {
+      "word": "LUNAR",
+      "category": "concept",
+      "difficulty": 1
+    },
+    {
+      "word": "SOLAR",
+      "category": "concept",
+      "difficulty": 1
+    },
+    {
+      "word": "PROBE",
+      "category": "craft",
+      "difficulty": 1
+    },
+    {
+      "word": "VENUS",
+      "category": "planet",
+      "difficulty": 1
+    },
+    {
+      "word": "TITAN",
+      "category": "moon",
+      "difficulty": 1
+    },
+    {
+      "word": "PLUTO",
+      "category": "planet",
+      "difficulty": 1
+    },
+    {
+      "word": "RINGS",
+      "category": "concept",
+      "difficulty": 1
+    },
+    {
+      "word": "DWARF",
+      "category": "body",
+      "difficulty": 1
+    },
+    {
+      "word": "FLARE",
+      "category": "event",
+      "difficulty": 1
+    },
+    {
+      "word": "ZENITH",
+      "category": "concept",
+      "difficulty": 1
+    },
+    {
+      "word": "PHASE",
+      "category": "concept",
+      "difficulty": 1
+    },
+    {
+      "word": "VORTEX",
+      "category": "concept",
+      "difficulty": 1
+    },
+    {
+      "word": "LANDER",
+      "category": "craft",
+      "difficulty": 1
+    },
+    {
+      "word": "VOID",
+      "category": "concept",
+      "difficulty": 1
+    },
+    {
+      "word": "BELT",
+      "category": "concept",
+      "difficulty": 1
+    },
+    {
+      "word": "HALO",
+      "category": "concept",
+      "difficulty": 1
+    },
+    {
+      "word": "AXIS",
+      "category": "concept",
+      "difficulty": 1
+    },
+    {
+      "word": "DUST",
+      "category": "concept",
+      "difficulty": 1
+    },
+    {
+      "word": "BEAM",
+      "category": "concept",
+      "difficulty": 1
+    },
+    {
+      "word": "MASS",
+      "category": "concept",
+      "difficulty": 1
+    },
+    {
+      "word": "WARP",
+      "category": "concept",
+      "difficulty": 1
+    },
+    {
+      "word": "FLUX",
+      "category": "concept",
+      "difficulty": 1
+    },
+    {
+      "word": "PULSAR",
+      "category": "body",
+      "difficulty": 1
+    },
+    {
+      "word": "QUASAR",
+      "category": "body",
+      "difficulty": 1
+    },
+    {
+      "word": "CORONA",
+      "category": "concept",
+      "difficulty": 1
+    },
+    {
+      "word": "AURORA",
+      "category": "event",
+      "difficulty": 1
+    },
+    {
+      "word": "CRATER",
+      "category": "geography",
+      "difficulty": 1
+    },
+    {
+      "word": "EPOCH",
+      "category": "concept",
+      "difficulty": 1
+    },
+    {
+      "word": "LIGHT",
+      "category": "concept",
+      "difficulty": 1
+    },
+    {
+      "word": "SPACE",
+      "category": "concept",
+      "difficulty": 1
+    },
+    {
+      "word": "NIGHT",
+      "category": "concept",
+      "difficulty": 1
+    },
+    {
+      "word": "METEOR",
+      "category": "body",
+      "difficulty": 2
+    },
+    {
+      "word": "PLANET",
+      "category": "body",
+      "difficulty": 2
+    },
+    {
+      "word": "NEBULA",
+      "category": "body",
+      "difficulty": 2
+    },
+    {
+      "word": "GALAXY",
+      "category": "body",
+      "difficulty": 2
+    },
+    {
+      "word": "ROCKET",
+      "category": "craft",
+      "difficulty": 2
+    },
+    {
+      "word": "SATURN",
+      "category": "planet",
+      "difficulty": 2
+    },
+    {
+      "word": "COSMOS",
+      "category": "concept",
+      "difficulty": 2
+    },
+    {
+      "word": "ZENITH",
+      "category": "concept",
+      "difficulty": 2
+    },
+    {
+      "word": "PHOTON",
+      "category": "concept",
+      "difficulty": 2
+    },
+    {
+      "word": "URANUS",
+      "category": "planet",
+      "difficulty": 2
+    },
+    {
+      "word": "ECLIPSE",
+      "category": "event",
+      "difficulty": 2
+    },
+    {
+      "word": "JUPITER",
+      "category": "planet",
+      "difficulty": 2
+    },
+    {
+      "word": "MERCURY",
+      "category": "planet",
+      "difficulty": 2
+    },
+    {
+      "word": "NEPTUNE",
+      "category": "planet",
+      "difficulty": 2
+    },
+    {
+      "word": "GRAVITY",
+      "category": "concept",
+      "difficulty": 2
+    },
+    {
+      "word": "HORIZON",
+      "category": "concept",
+      "difficulty": 2
+    },
+    {
+      "word": "CAPSULE",
+      "category": "craft",
+      "difficulty": 2
+    },
+    {
+      "word": "SHUTTLE",
+      "category": "craft",
+      "difficulty": 2
+    },
+    {
+      "word": "SUNSPOT",
+      "category": "event",
+      "difficulty": 2
+    },
+    {
+      "word": "AERONOMY",
+      "category": "concept",
+      "difficulty": 2
+    },
+    {
+      "word": "SOLSTICE",
+      "category": "event",
+      "difficulty": 2
+    },
+    {
+      "word": "EQUINOX",
+      "category": "event",
+      "difficulty": 2
+    },
+    {
+      "word": "COSMONAUT",
+      "category": "concept",
+      "difficulty": 2
+    },
+    {
+      "word": "ASTEROID",
+      "category": "body",
+      "difficulty": 2
+    },
+    {
+      "word": "STARGATE",
+      "category": "concept",
+      "difficulty": 2
+    },
+    {
+      "word": "BOOSTER",
+      "category": "craft",
+      "difficulty": 2
+    },
+    {
+      "word": "EXOPLANET",
+      "category": "body",
+      "difficulty": 2
+    },
+    {
+      "word": "PERIHELION",
+      "category": "concept",
+      "difficulty": 2
+    },
+    {
+      "word": "MOONRISE",
+      "category": "event",
+      "difficulty": 2
+    },
+    {
+      "word": "STARSHIP",
+      "category": "craft",
+      "difficulty": 2
+    },
+    {
+      "word": "SUNLIGHT",
+      "category": "concept",
+      "difficulty": 2
+    },
+    {
+      "word": "MAGNETIC",
+      "category": "concept",
+      "difficulty": 2
+    },
+    {
+      "word": "RADIATOR",
+      "category": "craft",
+      "difficulty": 2
+    },
+    {
+      "word": "TRAVERSE",
+      "category": "concept",
+      "difficulty": 2
+    },
+    {
+      "word": "SATELLITE",
+      "category": "craft",
+      "difficulty": 2
+    },
+    {
+      "word": "TELESCOPE",
+      "category": "concept",
+      "difficulty": 2
+    },
+    {
+      "word": "SPACESHIP",
+      "category": "craft",
+      "difficulty": 2
+    },
+    {
+      "word": "RADIATION",
+      "category": "concept",
+      "difficulty": 2
+    },
+    {
+      "word": "MOONQUAKE",
+      "category": "event",
+      "difficulty": 2
+    },
+    {
+      "word": "SUPERNOVA",
+      "category": "event",
+      "difficulty": 3
+    },
+    {
+      "word": "BLACKHOLE",
+      "category": "body",
+      "difficulty": 3
+    },
+    {
+      "word": "COSMOLOGY",
+      "category": "concept",
+      "difficulty": 3
+    },
+    {
+      "word": "ASTRONAUT",
+      "category": "concept",
+      "difficulty": 3
+    },
+    {
+      "word": "LIGHTYEAR",
+      "category": "concept",
+      "difficulty": 3
+    },
+    {
+      "word": "IONOSPHERE",
+      "category": "concept",
+      "difficulty": 3
+    },
+    {
+      "word": "ASTRONOMY",
+      "category": "concept",
+      "difficulty": 3
+    },
+    {
+      "word": "STARFIELD",
+      "category": "concept",
+      "difficulty": 3
+    },
+    {
+      "word": "NEBULOSITY",
+      "category": "concept",
+      "difficulty": 3
+    },
+    {
+      "word": "STARGAZER",
+      "category": "concept",
+      "difficulty": 3
+    },
+    {
+      "word": "ACCRETION",
+      "category": "concept",
+      "difficulty": 3
+    },
+    {
+      "word": "VORTICAL",
+      "category": "concept",
+      "difficulty": 3
+    },
+    {
+      "word": "EXOSPHERE",
+      "category": "concept",
+      "difficulty": 3
+    },
+    {
+      "word": "MESOSPHERE",
+      "category": "concept",
+      "difficulty": 3
+    },
+    {
+      "word": "PERIAPSIS",
+      "category": "concept",
+      "difficulty": 3
+    },
+    {
+      "word": "OPPOSITION",
+      "category": "event",
+      "difficulty": 3
+    },
+    {
+      "word": "COSMOGONY",
+      "category": "concept",
+      "difficulty": 3
+    },
+    {
+      "word": "ATMOSPHERE",
+      "category": "concept",
+      "difficulty": 3
+    },
+    {
+      "word": "SPACETIME",
+      "category": "concept",
+      "difficulty": 3
+    },
+    {
+      "word": "TRAJECTORY",
+      "category": "concept",
+      "difficulty": 3
+    }
+  ]
+}

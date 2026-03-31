@@ -1,0 +1,506 @@
+{
+  "theme": "spices",
+  "language": "en",
+  "words": [
+    {
+      "word": "SALT",
+      "category": "seasoning",
+      "difficulty": 1
+    },
+    {
+      "word": "SAGE",
+      "category": "herb",
+      "difficulty": 1
+    },
+    {
+      "word": "MINT",
+      "category": "herb",
+      "difficulty": 1
+    },
+    {
+      "word": "DILL",
+      "category": "herb",
+      "difficulty": 1
+    },
+    {
+      "word": "MACE",
+      "category": "spice",
+      "difficulty": 1
+    },
+    {
+      "word": "ANISE",
+      "category": "spice",
+      "difficulty": 1
+    },
+    {
+      "word": "BASIL",
+      "category": "herb",
+      "difficulty": 1
+    },
+    {
+      "word": "THYME",
+      "category": "herb",
+      "difficulty": 1
+    },
+    {
+      "word": "CLOVE",
+      "category": "spice",
+      "difficulty": 1
+    },
+    {
+      "word": "CUMIN",
+      "category": "spice",
+      "difficulty": 1
+    },
+    {
+      "word": "SUMAC",
+      "category": "spice",
+      "difficulty": 1
+    },
+    {
+      "word": "CHILI",
+      "category": "spice",
+      "difficulty": 1
+    },
+    {
+      "word": "POPPY",
+      "category": "seed",
+      "difficulty": 1
+    },
+    {
+      "word": "SESAME",
+      "category": "seed",
+      "difficulty": 1
+    },
+    {
+      "word": "FENNEL",
+      "category": "herb",
+      "difficulty": 1
+    },
+    {
+      "word": "CHIVE",
+      "category": "herb",
+      "difficulty": 1
+    },
+    {
+      "word": "PARSLEY",
+      "category": "herb",
+      "difficulty": 1
+    },
+    {
+      "word": "GARLIC",
+      "category": "herb",
+      "difficulty": 1
+    },
+    {
+      "word": "GINGER",
+      "category": "spice",
+      "difficulty": 1
+    },
+    {
+      "word": "PEPPER",
+      "category": "spice",
+      "difficulty": 1
+    },
+    {
+      "word": "NUTMEG",
+      "category": "spice",
+      "difficulty": 1
+    },
+    {
+      "word": "LAUREL",
+      "category": "herb",
+      "difficulty": 1
+    },
+    {
+      "word": "SORREL",
+      "category": "herb",
+      "difficulty": 1
+    },
+    {
+      "word": "CHERVIL",
+      "category": "herb",
+      "difficulty": 1
+    },
+    {
+      "word": "LOVAGE",
+      "category": "herb",
+      "difficulty": 1
+    },
+    {
+      "word": "SAVORY",
+      "category": "herb",
+      "difficulty": 1
+    },
+    {
+      "word": "BORAGE",
+      "category": "herb",
+      "difficulty": 1
+    },
+    {
+      "word": "ARROWROOT",
+      "category": "spice",
+      "difficulty": 1
+    },
+    {
+      "word": "GALANGAL",
+      "category": "spice",
+      "difficulty": 1
+    },
+    {
+      "word": "STAR",
+      "category": "spice",
+      "difficulty": 1
+    },
+    {
+      "word": "BAYLEAF",
+      "category": "herb",
+      "difficulty": 1
+    },
+    {
+      "word": "ROSEMARY",
+      "category": "herb",
+      "difficulty": 1
+    },
+    {
+      "word": "CARDAMOM",
+      "category": "spice",
+      "difficulty": 1
+    },
+    {
+      "word": "TARRAGON",
+      "category": "herb",
+      "difficulty": 1
+    },
+    {
+      "word": "TURMERIC",
+      "category": "spice",
+      "difficulty": 1
+    },
+    {
+      "word": "MARJORAM",
+      "category": "herb",
+      "difficulty": 1
+    },
+    {
+      "word": "OREGANO",
+      "category": "herb",
+      "difficulty": 1
+    },
+    {
+      "word": "MUSTARD",
+      "category": "spice",
+      "difficulty": 1
+    },
+    {
+      "word": "SAFFRON",
+      "category": "spice",
+      "difficulty": 1
+    },
+    {
+      "word": "VANILLA",
+      "category": "flavoring",
+      "difficulty": 1
+    },
+    {
+      "word": "PAPRIKA",
+      "category": "spice",
+      "difficulty": 2
+    },
+    {
+      "word": "CAYENNE",
+      "category": "spice",
+      "difficulty": 2
+    },
+    {
+      "word": "ALLSPICE",
+      "category": "spice",
+      "difficulty": 2
+    },
+    {
+      "word": "CARAWAY",
+      "category": "seed",
+      "difficulty": 2
+    },
+    {
+      "word": "CORIANDER",
+      "category": "herb",
+      "difficulty": 2
+    },
+    {
+      "word": "SPEARMINT",
+      "category": "herb",
+      "difficulty": 2
+    },
+    {
+      "word": "PEPPERCORN",
+      "category": "spice",
+      "difficulty": 2
+    },
+    {
+      "word": "CARDAMOM",
+      "category": "spice",
+      "difficulty": 2
+    },
+    {
+      "word": "FENUGREEK",
+      "category": "spice",
+      "difficulty": 2
+    },
+    {
+      "word": "ANNATTO",
+      "category": "coloring",
+      "difficulty": 2
+    },
+    {
+      "word": "LEMONGRASS",
+      "category": "herb",
+      "difficulty": 2
+    },
+    {
+      "word": "PIMPINELLA",
+      "category": "spice",
+      "difficulty": 2
+    },
+    {
+      "word": "ASAFOETIDA",
+      "category": "spice",
+      "difficulty": 2
+    },
+    {
+      "word": "JUNIPER",
+      "category": "spice",
+      "difficulty": 2
+    },
+    {
+      "word": "TAMARIND",
+      "category": "flavoring",
+      "difficulty": 2
+    },
+    {
+      "word": "LAVENDER",
+      "category": "herb",
+      "difficulty": 2
+    },
+    {
+      "word": "BERGAMOT",
+      "category": "herb",
+      "difficulty": 2
+    },
+    {
+      "word": "SZECHUAN",
+      "category": "spice",
+      "difficulty": 2
+    },
+    {
+      "word": "CINNAMON",
+      "category": "spice",
+      "difficulty": 2
+    },
+    {
+      "word": "HIBISCUS",
+      "category": "herb",
+      "difficulty": 2
+    },
+    {
+      "word": "MAKRUT",
+      "category": "herb",
+      "difficulty": 2
+    },
+    {
+      "word": "NASTURTIUM",
+      "category": "herb",
+      "difficulty": 2
+    },
+    {
+      "word": "SAFFLOWER",
+      "category": "coloring",
+      "difficulty": 2
+    },
+    {
+      "word": "BURDOCK",
+      "category": "herb",
+      "difficulty": 2
+    },
+    {
+      "word": "EPAZOTE",
+      "category": "herb",
+      "difficulty": 2
+    },
+    {
+      "word": "CULANTRO",
+      "category": "herb",
+      "difficulty": 2
+    },
+    {
+      "word": "LEMON",
+      "category": "herb",
+      "difficulty": 2
+    },
+    {
+      "word": "VERVAIN",
+      "category": "herb",
+      "difficulty": 2
+    },
+    {
+      "word": "YARROW",
+      "category": "herb",
+      "difficulty": 2
+    },
+    {
+      "word": "BARBERRY",
+      "category": "spice",
+      "difficulty": 2
+    },
+    {
+      "word": "SASSAFRAS",
+      "category": "herb",
+      "difficulty": 2
+    },
+    {
+      "word": "CHAMOMILE",
+      "category": "herb",
+      "difficulty": 2
+    },
+    {
+      "word": "LIQUORICE",
+      "category": "herb",
+      "difficulty": 2
+    },
+    {
+      "word": "BITTERROOT",
+      "category": "flavoring",
+      "difficulty": 2
+    },
+    {
+      "word": "LICORICE",
+      "category": "flavoring",
+      "difficulty": 2
+    },
+    {
+      "word": "SCENTED",
+      "category": "herb",
+      "difficulty": 2
+    },
+    {
+      "word": "GERANIUM",
+      "category": "herb",
+      "difficulty": 2
+    },
+    {
+      "word": "CATNIP",
+      "category": "herb",
+      "difficulty": 2
+    },
+    {
+      "word": "VALERIAN",
+      "category": "herb",
+      "difficulty": 2
+    },
+    {
+      "word": "LINDEN",
+      "category": "herb",
+      "difficulty": 2
+    },
+    {
+      "word": "PEPPERMINT",
+      "category": "herb",
+      "difficulty": 3
+    },
+    {
+      "word": "SPEARMINT",
+      "category": "herb",
+      "difficulty": 3
+    },
+    {
+      "word": "HOREHOUND",
+      "category": "herb",
+      "difficulty": 3
+    },
+    {
+      "word": "KAFFIR",
+      "category": "herb",
+      "difficulty": 3
+    },
+    {
+      "word": "SZECHUAN",
+      "category": "spice",
+      "difficulty": 3
+    },
+    {
+      "word": "FIVE",
+      "category": "blend",
+      "difficulty": 3
+    },
+    {
+      "word": "GARAM",
+      "category": "blend",
+      "difficulty": 3
+    },
+    {
+      "word": "HARISSA",
+      "category": "blend",
+      "difficulty": 3
+    },
+    {
+      "word": "BERBERE",
+      "category": "blend",
+      "difficulty": 3
+    },
+    {
+      "word": "ZAATAR",
+      "category": "blend",
+      "difficulty": 3
+    },
+    {
+      "word": "DUKKAH",
+      "category": "blend",
+      "difficulty": 3
+    },
+    {
+      "word": "CHERMOULA",
+      "category": "blend",
+      "difficulty": 3
+    },
+    {
+      "word": "ACHIOTE",
+      "category": "spice",
+      "difficulty": 3
+    },
+    {
+      "word": "GRAINS",
+      "category": "spice",
+      "difficulty": 3
+    },
+    {
+      "word": "CUBEBS",
+      "category": "spice",
+      "difficulty": 3
+    },
+    {
+      "word": "LONG",
+      "category": "spice",
+      "difficulty": 3
+    },
+    {
+      "word": "SCHISANDRA",
+      "category": "spice",
+      "difficulty": 3
+    },
+    {
+      "word": "SANSHO",
+      "category": "spice",
+      "difficulty": 3
+    },
+    {
+      "word": "CUBEB",
+      "category": "spice",
+      "difficulty": 3
+    },
+    {
+      "word": "MAHLAB",
+      "category": "spice",
+      "difficulty": 3
+    }
+  ]
+}

@@ -1,0 +1,501 @@
+{
+  "theme": "movies",
+  "language": "en",
+  "words": [
+    {
+      "word": "ACT",
+      "category": "concept",
+      "difficulty": 1
+    },
+    {
+      "word": "CUT",
+      "category": "concept",
+      "difficulty": 1
+    },
+    {
+      "word": "SET",
+      "category": "concept",
+      "difficulty": 1
+    },
+    {
+      "word": "REEL",
+      "category": "concept",
+      "difficulty": 1
+    },
+    {
+      "word": "FILM",
+      "category": "concept",
+      "difficulty": 1
+    },
+    {
+      "word": "ROLE",
+      "category": "concept",
+      "difficulty": 1
+    },
+    {
+      "word": "PLOT",
+      "category": "concept",
+      "difficulty": 1
+    },
+    {
+      "word": "CAST",
+      "category": "concept",
+      "difficulty": 1
+    },
+    {
+      "word": "STAR",
+      "category": "concept",
+      "difficulty": 1
+    },
+    {
+      "word": "CREW",
+      "category": "concept",
+      "difficulty": 1
+    },
+    {
+      "word": "SCENE",
+      "category": "concept",
+      "difficulty": 1
+    },
+    {
+      "word": "STAGE",
+      "category": "concept",
+      "difficulty": 1
+    },
+    {
+      "word": "THEME",
+      "category": "concept",
+      "difficulty": 1
+    },
+    {
+      "word": "GENRE",
+      "category": "concept",
+      "difficulty": 1
+    },
+    {
+      "word": "SCORE",
+      "category": "concept",
+      "difficulty": 1
+    },
+    {
+      "word": "DRAMA",
+      "category": "genre",
+      "difficulty": 1
+    },
+    {
+      "word": "COMEDY",
+      "category": "genre",
+      "difficulty": 1
+    },
+    {
+      "word": "HORROR",
+      "category": "genre",
+      "difficulty": 1
+    },
+    {
+      "word": "ACTION",
+      "category": "genre",
+      "difficulty": 1
+    },
+    {
+      "word": "AWARD",
+      "category": "concept",
+      "difficulty": 1
+    },
+    {
+      "word": "OSCAR",
+      "category": "concept",
+      "difficulty": 1
+    },
+    {
+      "word": "EXTRA",
+      "category": "concept",
+      "difficulty": 1
+    },
+    {
+      "word": "TAKE",
+      "category": "concept",
+      "difficulty": 1
+    },
+    {
+      "word": "SHOT",
+      "category": "concept",
+      "difficulty": 1
+    },
+    {
+      "word": "PROP",
+      "category": "concept",
+      "difficulty": 1
+    },
+    {
+      "word": "DUPE",
+      "category": "concept",
+      "difficulty": 1
+    },
+    {
+      "word": "GRIP",
+      "category": "concept",
+      "difficulty": 1
+    },
+    {
+      "word": "BOOM",
+      "category": "equipment",
+      "difficulty": 1
+    },
+    {
+      "word": "LENS",
+      "category": "equipment",
+      "difficulty": 1
+    },
+    {
+      "word": "CLIP",
+      "category": "concept",
+      "difficulty": 1
+    },
+    {
+      "word": "DUPE",
+      "category": "concept",
+      "difficulty": 1
+    },
+    {
+      "word": "STUDIO",
+      "category": "facility",
+      "difficulty": 1
+    },
+    {
+      "word": "SCREEN",
+      "category": "concept",
+      "difficulty": 1
+    },
+    {
+      "word": "DEBUT",
+      "category": "concept",
+      "difficulty": 1
+    },
+    {
+      "word": "SEQUEL",
+      "category": "concept",
+      "difficulty": 1
+    },
+    {
+      "word": "PREQUEL",
+      "category": "concept",
+      "difficulty": 1
+    },
+    {
+      "word": "REBOOT",
+      "category": "concept",
+      "difficulty": 1
+    },
+    {
+      "word": "REMAKE",
+      "category": "concept",
+      "difficulty": 1
+    },
+    {
+      "word": "CENSOR",
+      "category": "concept",
+      "difficulty": 1
+    },
+    {
+      "word": "CAMEO",
+      "category": "concept",
+      "difficulty": 1
+    },
+    {
+      "word": "TRAILER",
+      "category": "concept",
+      "difficulty": 2
+    },
+    {
+      "word": "DIRECTOR",
+      "category": "crew",
+      "difficulty": 2
+    },
+    {
+      "word": "ACTRESS",
+      "category": "concept",
+      "difficulty": 2
+    },
+    {
+      "word": "WESTERN",
+      "category": "genre",
+      "difficulty": 2
+    },
+    {
+      "word": "ROMANCE",
+      "category": "genre",
+      "difficulty": 2
+    },
+    {
+      "word": "FANTASY",
+      "category": "genre",
+      "difficulty": 2
+    },
+    {
+      "word": "MYSTERY",
+      "category": "genre",
+      "difficulty": 2
+    },
+    {
+      "word": "MUSICAL",
+      "category": "genre",
+      "difficulty": 2
+    },
+    {
+      "word": "THRILLER",
+      "category": "genre",
+      "difficulty": 2
+    },
+    {
+      "word": "SUSPENSE",
+      "category": "genre",
+      "difficulty": 2
+    },
+    {
+      "word": "FESTIVAL",
+      "category": "concept",
+      "difficulty": 2
+    },
+    {
+      "word": "PREMIERE",
+      "category": "concept",
+      "difficulty": 2
+    },
+    {
+      "word": "STORYBOARD",
+      "category": "concept",
+      "difficulty": 2
+    },
+    {
+      "word": "DIALOGUE",
+      "category": "concept",
+      "difficulty": 2
+    },
+    {
+      "word": "MONOLOGUE",
+      "category": "concept",
+      "difficulty": 2
+    },
+    {
+      "word": "FLASHBACK",
+      "category": "concept",
+      "difficulty": 2
+    },
+    {
+      "word": "NARRATION",
+      "category": "concept",
+      "difficulty": 2
+    },
+    {
+      "word": "VOICEOVER",
+      "category": "concept",
+      "difficulty": 2
+    },
+    {
+      "word": "CLOSEUP",
+      "category": "shot",
+      "difficulty": 2
+    },
+    {
+      "word": "WIDESHOT",
+      "category": "shot",
+      "difficulty": 2
+    },
+    {
+      "word": "TRACKING",
+      "category": "shot",
+      "difficulty": 2
+    },
+    {
+      "word": "STEADICAM",
+      "category": "equipment",
+      "difficulty": 2
+    },
+    {
+      "word": "DIRECTING",
+      "category": "concept",
+      "difficulty": 2
+    },
+    {
+      "word": "SCREENPLAY",
+      "category": "concept",
+      "difficulty": 2
+    },
+    {
+      "word": "COPYWRITER",
+      "category": "crew",
+      "difficulty": 2
+    },
+    {
+      "word": "PRODUCER",
+      "category": "crew",
+      "difficulty": 2
+    },
+    {
+      "word": "SOUNDMIX",
+      "category": "post",
+      "difficulty": 2
+    },
+    {
+      "word": "COLORGRADE",
+      "category": "post",
+      "difficulty": 2
+    },
+    {
+      "word": "VISUALFX",
+      "category": "post",
+      "difficulty": 2
+    },
+    {
+      "word": "BLUESCREEN",
+      "category": "equipment",
+      "difficulty": 2
+    },
+    {
+      "word": "ANIMATION",
+      "category": "genre",
+      "difficulty": 2
+    },
+    {
+      "word": "DOCUDRAMA",
+      "category": "genre",
+      "difficulty": 2
+    },
+    {
+      "word": "CLAPBOARD",
+      "category": "equipment",
+      "difficulty": 2
+    },
+    {
+      "word": "CONTINUITY",
+      "category": "concept",
+      "difficulty": 2
+    },
+    {
+      "word": "STUNTWORK",
+      "category": "concept",
+      "difficulty": 2
+    },
+    {
+      "word": "MAKEUP",
+      "category": "concept",
+      "difficulty": 2
+    },
+    {
+      "word": "WARDROBE",
+      "category": "concept",
+      "difficulty": 2
+    },
+    {
+      "word": "CASTING",
+      "category": "concept",
+      "difficulty": 2
+    },
+    {
+      "word": "AUDITION",
+      "category": "concept",
+      "difficulty": 2
+    },
+    {
+      "word": "BIGBUDGET",
+      "category": "concept",
+      "difficulty": 3
+    },
+    {
+      "word": "PRODUCTION",
+      "category": "concept",
+      "difficulty": 3
+    },
+    {
+      "word": "BROADCAST",
+      "category": "concept",
+      "difficulty": 3
+    },
+    {
+      "word": "LOWBUDGET",
+      "category": "concept",
+      "difficulty": 3
+    },
+    {
+      "word": "AVANTGARD",
+      "category": "concept",
+      "difficulty": 3
+    },
+    {
+      "word": "FILMMAKER",
+      "category": "crew",
+      "difficulty": 3
+    },
+    {
+      "word": "RENDERING",
+      "category": "concept",
+      "difficulty": 3
+    },
+    {
+      "word": "SCREENPLAY",
+      "category": "concept",
+      "difficulty": 3
+    },
+    {
+      "word": "STORYBOARD",
+      "category": "concept",
+      "difficulty": 3
+    },
+    {
+      "word": "SUBTITLES",
+      "category": "concept",
+      "difficulty": 3
+    },
+    {
+      "word": "DUBBING",
+      "category": "concept",
+      "difficulty": 3
+    },
+    {
+      "word": "LOCALIZED",
+      "category": "concept",
+      "difficulty": 3
+    },
+    {
+      "word": "ADAPTATION",
+      "category": "concept",
+      "difficulty": 3
+    },
+    {
+      "word": "NOMINATION",
+      "category": "concept",
+      "difficulty": 3
+    },
+    {
+      "word": "SCREENING",
+      "category": "concept",
+      "difficulty": 3
+    },
+    {
+      "word": "FRANCHISE",
+      "category": "concept",
+      "difficulty": 3
+    },
+    {
+      "word": "DIRECTOR",
+      "category": "crew",
+      "difficulty": 3
+    },
+    {
+      "word": "COMPOSER",
+      "category": "crew",
+      "difficulty": 3
+    },
+    {
+      "word": "SPECIAL",
+      "category": "effects",
+      "difficulty": 3
+    },
+    {
+      "word": "PRATFALL",
+      "category": "technique",
+      "difficulty": 3
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+# ===== Godot =====
+# Godot 에디터 캐시 (import 캐시, 셰이더 캐시 등)
+.godot/
+
+# 리소스 import 메타데이터 (에디터가 자동 재생성)
+*.import
+
+# Export 설정 (로컬 경로 포함, 각 개발자마다 다를 수 있음)
+export_presets.cfg
+
+# ===== Android =====
+# Android Gradle 빌드 출력
+android/build/
+
+# Keystore (보안 파일 - 절대 커밋 금지)
+*.keystore
+
+# 빌드 결과물
+*.apk
+*.aab
+
+# ===== iOS =====
+*.ipa
+
+# ===== OS / IDE =====
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# VS Code (선택: 팀 설정 공유 시 제외)
+# .vscode/
+
+# ===== 기타 =====
+# 대용량 에셋 임시 파일
+*.tmp
+*.bak

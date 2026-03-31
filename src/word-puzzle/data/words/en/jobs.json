@@ -1,0 +1,506 @@
+{
+  "theme": "jobs",
+  "language": "en",
+  "words": [
+    {
+      "word": "VET",
+      "category": "medical",
+      "difficulty": 1
+    },
+    {
+      "word": "COP",
+      "category": "law",
+      "difficulty": 1
+    },
+    {
+      "word": "NUN",
+      "category": "religious",
+      "difficulty": 1
+    },
+    {
+      "word": "CHEF",
+      "category": "food",
+      "difficulty": 1
+    },
+    {
+      "word": "MAID",
+      "category": "service",
+      "difficulty": 1
+    },
+    {
+      "word": "MONK",
+      "category": "religious",
+      "difficulty": 1
+    },
+    {
+      "word": "POET",
+      "category": "arts",
+      "difficulty": 1
+    },
+    {
+      "word": "CLERK",
+      "category": "office",
+      "difficulty": 1
+    },
+    {
+      "word": "JUDGE",
+      "category": "law",
+      "difficulty": 1
+    },
+    {
+      "word": "GUARD",
+      "category": "security",
+      "difficulty": 1
+    },
+    {
+      "word": "NURSE",
+      "category": "medical",
+      "difficulty": 1
+    },
+    {
+      "word": "PILOT",
+      "category": "transport",
+      "difficulty": 1
+    },
+    {
+      "word": "MASON",
+      "category": "construction",
+      "difficulty": 1
+    },
+    {
+      "word": "MINER",
+      "category": "industry",
+      "difficulty": 1
+    },
+    {
+      "word": "SMITH",
+      "category": "craft",
+      "difficulty": 1
+    },
+    {
+      "word": "TAILOR",
+      "category": "craft",
+      "difficulty": 1
+    },
+    {
+      "word": "BAKER",
+      "category": "food",
+      "difficulty": 1
+    },
+    {
+      "word": "ACTOR",
+      "category": "arts",
+      "difficulty": 1
+    },
+    {
+      "word": "AGENT",
+      "category": "office",
+      "difficulty": 1
+    },
+    {
+      "word": "COACH",
+      "category": "sports",
+      "difficulty": 1
+    },
+    {
+      "word": "DETECTIVE",
+      "category": "law",
+      "difficulty": 1
+    },
+    {
+      "word": "DRIVER",
+      "category": "transport",
+      "difficulty": 1
+    },
+    {
+      "word": "EDITOR",
+      "category": "media",
+      "difficulty": 1
+    },
+    {
+      "word": "FARMER",
+      "category": "agriculture",
+      "difficulty": 1
+    },
+    {
+      "word": "ARTIST",
+      "category": "arts",
+      "difficulty": 1
+    },
+    {
+      "word": "DOCTOR",
+      "category": "medical",
+      "difficulty": 1
+    },
+    {
+      "word": "LAWYER",
+      "category": "law",
+      "difficulty": 1
+    },
+    {
+      "word": "TUTOR",
+      "category": "education",
+      "difficulty": 1
+    },
+    {
+      "word": "BUTLER",
+      "category": "service",
+      "difficulty": 1
+    },
+    {
+      "word": "WAITER",
+      "category": "service",
+      "difficulty": 1
+    },
+    {
+      "word": "SAILOR",
+      "category": "transport",
+      "difficulty": 1
+    },
+    {
+      "word": "HUNTER",
+      "category": "outdoors",
+      "difficulty": 1
+    },
+    {
+      "word": "BARBER",
+      "category": "service",
+      "difficulty": 1
+    },
+    {
+      "word": "BANKER",
+      "category": "finance",
+      "difficulty": 1
+    },
+    {
+      "word": "BROKER",
+      "category": "finance",
+      "difficulty": 1
+    },
+    {
+      "word": "GROCER",
+      "category": "retail",
+      "difficulty": 1
+    },
+    {
+      "word": "PORTER",
+      "category": "service",
+      "difficulty": 1
+    },
+    {
+      "word": "RANGER",
+      "category": "outdoors",
+      "difficulty": 1
+    },
+    {
+      "word": "CASHIER",
+      "category": "retail",
+      "difficulty": 1
+    },
+    {
+      "word": "PLUMBER",
+      "category": "construction",
+      "difficulty": 1
+    },
+    {
+      "word": "TEACHER",
+      "category": "education",
+      "difficulty": 2
+    },
+    {
+      "word": "MANAGER",
+      "category": "office",
+      "difficulty": 2
+    },
+    {
+      "word": "SURGEON",
+      "category": "medical",
+      "difficulty": 2
+    },
+    {
+      "word": "DENTIST",
+      "category": "medical",
+      "difficulty": 2
+    },
+    {
+      "word": "SOLDIER",
+      "category": "military",
+      "difficulty": 2
+    },
+    {
+      "word": "PAINTER",
+      "category": "arts",
+      "difficulty": 2
+    },
+    {
+      "word": "JANITOR",
+      "category": "service",
+      "difficulty": 2
+    },
+    {
+      "word": "ATHLETE",
+      "category": "sports",
+      "difficulty": 2
+    },
+    {
+      "word": "CHEMIST",
+      "category": "science",
+      "difficulty": 2
+    },
+    {
+      "word": "AUDITOR",
+      "category": "finance",
+      "difficulty": 2
+    },
+    {
+      "word": "CAPTAIN",
+      "category": "military",
+      "difficulty": 2
+    },
+    {
+      "word": "COLONEL",
+      "category": "military",
+      "difficulty": 2
+    },
+    {
+      "word": "CURATOR",
+      "category": "arts",
+      "difficulty": 2
+    },
+    {
+      "word": "FOREMAN",
+      "category": "industry",
+      "difficulty": 2
+    },
+    {
+      "word": "ANALYST",
+      "category": "business",
+      "difficulty": 2
+    },
+    {
+      "word": "TRAINER",
+      "category": "sports",
+      "difficulty": 2
+    },
+    {
+      "word": "BUILDER",
+      "category": "construction",
+      "difficulty": 2
+    },
+    {
+      "word": "CASHIER",
+      "category": "retail",
+      "difficulty": 2
+    },
+    {
+      "word": "MIDWIFE",
+      "category": "medical",
+      "difficulty": 2
+    },
+    {
+      "word": "DIPLOMAT",
+      "category": "government",
+      "difficulty": 2
+    },
+    {
+      "word": "REPORTER",
+      "category": "media",
+      "difficulty": 2
+    },
+    {
+      "word": "MUSICIAN",
+      "category": "arts",
+      "difficulty": 2
+    },
+    {
+      "word": "SCULPTOR",
+      "category": "arts",
+      "difficulty": 2
+    },
+    {
+      "word": "DIRECTOR",
+      "category": "arts",
+      "difficulty": 2
+    },
+    {
+      "word": "PRODUCER",
+      "category": "arts",
+      "difficulty": 2
+    },
+    {
+      "word": "COMEDIAN",
+      "category": "arts",
+      "difficulty": 2
+    },
+    {
+      "word": "POLITICIAN",
+      "category": "government",
+      "difficulty": 2
+    },
+    {
+      "word": "DETECTIVE",
+      "category": "law",
+      "difficulty": 2
+    },
+    {
+      "word": "LIBRARIAN",
+      "category": "education",
+      "difficulty": 2
+    },
+    {
+      "word": "MECHANIC",
+      "category": "technical",
+      "difficulty": 2
+    },
+    {
+      "word": "PHARMACIST",
+      "category": "medical",
+      "difficulty": 2
+    },
+    {
+      "word": "BIOLOGIST",
+      "category": "science",
+      "difficulty": 2
+    },
+    {
+      "word": "HISTORIAN",
+      "category": "education",
+      "difficulty": 2
+    },
+    {
+      "word": "ECONOMIST",
+      "category": "finance",
+      "difficulty": 2
+    },
+    {
+      "word": "GEOLOGIST",
+      "category": "science",
+      "difficulty": 2
+    },
+    {
+      "word": "SURVEYOR",
+      "category": "construction",
+      "difficulty": 2
+    },
+    {
+      "word": "SOLICITOR",
+      "category": "law",
+      "difficulty": 2
+    },
+    {
+      "word": "BARRISTER",
+      "category": "law",
+      "difficulty": 2
+    },
+    {
+      "word": "INSPECTOR",
+      "category": "law",
+      "difficulty": 2
+    },
+    {
+      "word": "SECRETARY",
+      "category": "office",
+      "difficulty": 2
+    },
+    {
+      "word": "ASTRONAUT",
+      "category": "science",
+      "difficulty": 3
+    },
+    {
+      "word": "ARCHITECT",
+      "category": "construction",
+      "difficulty": 3
+    },
+    {
+      "word": "ENGINEER",
+      "category": "technical",
+      "difficulty": 3
+    },
+    {
+      "word": "PROFESSOR",
+      "category": "education",
+      "difficulty": 3
+    },
+    {
+      "word": "ACCOUNTANT",
+      "category": "finance",
+      "difficulty": 3
+    },
+    {
+      "word": "THERAPIST",
+      "category": "medical",
+      "difficulty": 3
+    },
+    {
+      "word": "COUNSELOR",
+      "category": "medical",
+      "difficulty": 3
+    },
+    {
+      "word": "VIROLOGIST",
+      "category": "medical",
+      "difficulty": 3
+    },
+    {
+      "word": "ANATOMIST",
+      "category": "medical",
+      "difficulty": 3
+    },
+    {
+      "word": "UROLOGIST",
+      "category": "medical",
+      "difficulty": 3
+    },
+    {
+      "word": "HEMATOLOGY",
+      "category": "medical",
+      "difficulty": 3
+    },
+    {
+      "word": "FORECASTER",
+      "category": "science",
+      "difficulty": 3
+    },
+    {
+      "word": "ENTOMOLOGY",
+      "category": "science",
+      "difficulty": 3
+    },
+    {
+      "word": "ZOOLOGIST",
+      "category": "science",
+      "difficulty": 3
+    },
+    {
+      "word": "ECOLOGIST",
+      "category": "science",
+      "difficulty": 3
+    },
+    {
+      "word": "NAVIGATOR",
+      "category": "science",
+      "difficulty": 3
+    },
+    {
+      "word": "SCIENTIST",
+      "category": "medical",
+      "difficulty": 3
+    },
+    {
+      "word": "INTERNIST",
+      "category": "medical",
+      "difficulty": 3
+    },
+    {
+      "word": "NEUROLOGIC",
+      "category": "science",
+      "difficulty": 3
+    },
+    {
+      "word": "OPTOMETRY",
+      "category": "medical",
+      "difficulty": 3
+    }
+  ]
+}

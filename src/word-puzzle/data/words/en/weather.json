@@ -1,0 +1,506 @@
+{
+  "theme": "weather",
+  "language": "en",
+  "words": [
+    {
+      "word": "FOG",
+      "category": "condition",
+      "difficulty": 1
+    },
+    {
+      "word": "ICE",
+      "category": "condition",
+      "difficulty": 1
+    },
+    {
+      "word": "DEW",
+      "category": "condition",
+      "difficulty": 1
+    },
+    {
+      "word": "SUN",
+      "category": "condition",
+      "difficulty": 1
+    },
+    {
+      "word": "HOT",
+      "category": "condition",
+      "difficulty": 1
+    },
+    {
+      "word": "WET",
+      "category": "condition",
+      "difficulty": 1
+    },
+    {
+      "word": "DRY",
+      "category": "condition",
+      "difficulty": 1
+    },
+    {
+      "word": "HAIL",
+      "category": "precipitation",
+      "difficulty": 1
+    },
+    {
+      "word": "RAIN",
+      "category": "precipitation",
+      "difficulty": 1
+    },
+    {
+      "word": "SNOW",
+      "category": "precipitation",
+      "difficulty": 1
+    },
+    {
+      "word": "MIST",
+      "category": "condition",
+      "difficulty": 1
+    },
+    {
+      "word": "COLD",
+      "category": "condition",
+      "difficulty": 1
+    },
+    {
+      "word": "GUST",
+      "category": "wind",
+      "difficulty": 1
+    },
+    {
+      "word": "WIND",
+      "category": "wind",
+      "difficulty": 1
+    },
+    {
+      "word": "GALE",
+      "category": "wind",
+      "difficulty": 1
+    },
+    {
+      "word": "CALM",
+      "category": "condition",
+      "difficulty": 1
+    },
+    {
+      "word": "WARM",
+      "category": "condition",
+      "difficulty": 1
+    },
+    {
+      "word": "MILD",
+      "category": "condition",
+      "difficulty": 1
+    },
+    {
+      "word": "HAZE",
+      "category": "condition",
+      "difficulty": 1
+    },
+    {
+      "word": "SLEET",
+      "category": "precipitation",
+      "difficulty": 1
+    },
+    {
+      "word": "FROST",
+      "category": "condition",
+      "difficulty": 1
+    },
+    {
+      "word": "STORM",
+      "category": "severe",
+      "difficulty": 1
+    },
+    {
+      "word": "CLOUD",
+      "category": "condition",
+      "difficulty": 1
+    },
+    {
+      "word": "FLASH",
+      "category": "severe",
+      "difficulty": 1
+    },
+    {
+      "word": "DRIZZLE",
+      "category": "precipitation",
+      "difficulty": 1
+    },
+    {
+      "word": "SQUALL",
+      "category": "wind",
+      "difficulty": 1
+    },
+    {
+      "word": "FLOOD",
+      "category": "severe",
+      "difficulty": 1
+    },
+    {
+      "word": "DRAFT",
+      "category": "wind",
+      "difficulty": 1
+    },
+    {
+      "word": "HUMID",
+      "category": "condition",
+      "difficulty": 1
+    },
+    {
+      "word": "BALMY",
+      "category": "condition",
+      "difficulty": 1
+    },
+    {
+      "word": "CHILLY",
+      "category": "condition",
+      "difficulty": 1
+    },
+    {
+      "word": "BRIGHT",
+      "category": "condition",
+      "difficulty": 1
+    },
+    {
+      "word": "CLEAR",
+      "category": "condition",
+      "difficulty": 1
+    },
+    {
+      "word": "BREEZY",
+      "category": "wind",
+      "difficulty": 1
+    },
+    {
+      "word": "MUGGY",
+      "category": "condition",
+      "difficulty": 1
+    },
+    {
+      "word": "POLAR",
+      "category": "condition",
+      "difficulty": 1
+    },
+    {
+      "word": "ARID",
+      "category": "condition",
+      "difficulty": 1
+    },
+    {
+      "word": "CRISP",
+      "category": "condition",
+      "difficulty": 1
+    },
+    {
+      "word": "BLEAK",
+      "category": "condition",
+      "difficulty": 1
+    },
+    {
+      "word": "OVERCAST",
+      "category": "condition",
+      "difficulty": 1
+    },
+    {
+      "word": "THUNDER",
+      "category": "severe",
+      "difficulty": 2
+    },
+    {
+      "word": "BLIZZARD",
+      "category": "severe",
+      "difficulty": 2
+    },
+    {
+      "word": "CYCLONE",
+      "category": "severe",
+      "difficulty": 2
+    },
+    {
+      "word": "MONSOON",
+      "category": "severe",
+      "difficulty": 2
+    },
+    {
+      "word": "TORNADO",
+      "category": "severe",
+      "difficulty": 2
+    },
+    {
+      "word": "TYPHOON",
+      "category": "severe",
+      "difficulty": 2
+    },
+    {
+      "word": "RAINBOW",
+      "category": "optical",
+      "difficulty": 2
+    },
+    {
+      "word": "CUMULUS",
+      "category": "cloud",
+      "difficulty": 2
+    },
+    {
+      "word": "STRATUS",
+      "category": "cloud",
+      "difficulty": 2
+    },
+    {
+      "word": "NIMBUS",
+      "category": "cloud",
+      "difficulty": 2
+    },
+    {
+      "word": "CLIMATE",
+      "category": "concept",
+      "difficulty": 2
+    },
+    {
+      "word": "SUNSPOT",
+      "category": "concept",
+      "difficulty": 2
+    },
+    {
+      "word": "SUNRISE",
+      "category": "concept",
+      "difficulty": 2
+    },
+    {
+      "word": "SNOWFALL",
+      "category": "precipitation",
+      "difficulty": 2
+    },
+    {
+      "word": "RAINFALL",
+      "category": "precipitation",
+      "difficulty": 2
+    },
+    {
+      "word": "SOLSTICE",
+      "category": "concept",
+      "difficulty": 2
+    },
+    {
+      "word": "EQUINOX",
+      "category": "concept",
+      "difficulty": 2
+    },
+    {
+      "word": "FROSTBITE",
+      "category": "condition",
+      "difficulty": 2
+    },
+    {
+      "word": "SNOWSTORM",
+      "category": "severe",
+      "difficulty": 2
+    },
+    {
+      "word": "HEATWAVE",
+      "category": "severe",
+      "difficulty": 2
+    },
+    {
+      "word": "SANDSTORM",
+      "category": "severe",
+      "difficulty": 2
+    },
+    {
+      "word": "LIGHTNING",
+      "category": "severe",
+      "difficulty": 2
+    },
+    {
+      "word": "HUMIDITY",
+      "category": "concept",
+      "difficulty": 2
+    },
+    {
+      "word": "PRESSURE",
+      "category": "concept",
+      "difficulty": 2
+    },
+    {
+      "word": "FORECAST",
+      "category": "concept",
+      "difficulty": 2
+    },
+    {
+      "word": "SNOWDRIFT",
+      "category": "condition",
+      "difficulty": 2
+    },
+    {
+      "word": "WINDCHILL",
+      "category": "concept",
+      "difficulty": 2
+    },
+    {
+      "word": "DEWPOINT",
+      "category": "concept",
+      "difficulty": 2
+    },
+    {
+      "word": "ICESHEET",
+      "category": "condition",
+      "difficulty": 2
+    },
+    {
+      "word": "SUNSHOWER",
+      "category": "condition",
+      "difficulty": 2
+    },
+    {
+      "word": "WINDGUST",
+      "category": "wind",
+      "difficulty": 2
+    },
+    {
+      "word": "FOGBANK",
+      "category": "condition",
+      "difficulty": 2
+    },
+    {
+      "word": "ICESTORM",
+      "category": "severe",
+      "difficulty": 2
+    },
+    {
+      "word": "CLOUDBURST",
+      "category": "precipitation",
+      "difficulty": 2
+    },
+    {
+      "word": "HAILSTORM",
+      "category": "severe",
+      "difficulty": 2
+    },
+    {
+      "word": "COLDSNAP",
+      "category": "condition",
+      "difficulty": 2
+    },
+    {
+      "word": "WATERSPOUT",
+      "category": "severe",
+      "difficulty": 2
+    },
+    {
+      "word": "HOARFROST",
+      "category": "condition",
+      "difficulty": 2
+    },
+    {
+      "word": "BAROMETRIC",
+      "category": "concept",
+      "difficulty": 2
+    },
+    {
+      "word": "SHOWERY",
+      "category": "condition",
+      "difficulty": 2
+    },
+    {
+      "word": "HURRICANE",
+      "category": "severe",
+      "difficulty": 3
+    },
+    {
+      "word": "DOWNPOURS",
+      "category": "severe",
+      "difficulty": 3
+    },
+    {
+      "word": "ATMOSPHERE",
+      "category": "concept",
+      "difficulty": 3
+    },
+    {
+      "word": "HYDROLOGY",
+      "category": "concept",
+      "difficulty": 3
+    },
+    {
+      "word": "THERMOSTAT",
+      "category": "concept",
+      "difficulty": 3
+    },
+    {
+      "word": "ANEMOMETER",
+      "category": "concept",
+      "difficulty": 3
+    },
+    {
+      "word": "BAROMETER",
+      "category": "concept",
+      "difficulty": 3
+    },
+    {
+      "word": "RAINDROPS",
+      "category": "concept",
+      "difficulty": 3
+    },
+    {
+      "word": "PRESSURED",
+      "category": "concept",
+      "difficulty": 3
+    },
+    {
+      "word": "EXOSPHERE",
+      "category": "concept",
+      "difficulty": 3
+    },
+    {
+      "word": "BIOSPHERE",
+      "category": "concept",
+      "difficulty": 3
+    },
+    {
+      "word": "GEOTHERMAL",
+      "category": "concept",
+      "difficulty": 3
+    },
+    {
+      "word": "SUBLIMATE",
+      "category": "concept",
+      "difficulty": 3
+    },
+    {
+      "word": "DEWPOINTS",
+      "category": "concept",
+      "difficulty": 3
+    },
+    {
+      "word": "SUPERCELL",
+      "category": "severe",
+      "difficulty": 3
+    },
+    {
+      "word": "DERECHO",
+      "category": "severe",
+      "difficulty": 3
+    },
+    {
+      "word": "MAELSTROM",
+      "category": "severe",
+      "difficulty": 3
+    },
+    {
+      "word": "PERMAFROST",
+      "category": "condition",
+      "difficulty": 3
+    },
+    {
+      "word": "WHIRLWIND",
+      "category": "wind",
+      "difficulty": 3
+    },
+    {
+      "word": "HABOOB",
+      "category": "severe",
+      "difficulty": 3
+    }
+  ]
+}

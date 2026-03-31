@@ -1,0 +1,506 @@
+{
+  "theme": "medicine",
+  "language": "en",
+  "words": [
+    {
+      "word": "FLU",
+      "category": "illness",
+      "difficulty": 1
+    },
+    {
+      "word": "GUM",
+      "category": "anatomy",
+      "difficulty": 1
+    },
+    {
+      "word": "RIB",
+      "category": "anatomy",
+      "difficulty": 1
+    },
+    {
+      "word": "MRI",
+      "category": "imaging",
+      "difficulty": 1
+    },
+    {
+      "word": "LAB",
+      "category": "facility",
+      "difficulty": 1
+    },
+    {
+      "word": "ACE",
+      "category": "treatment",
+      "difficulty": 1
+    },
+    {
+      "word": "PUS",
+      "category": "symptom",
+      "difficulty": 1
+    },
+    {
+      "word": "OTC",
+      "category": "medication",
+      "difficulty": 1
+    },
+    {
+      "word": "ICU",
+      "category": "facility",
+      "difficulty": 1
+    },
+    {
+      "word": "CPR",
+      "category": "procedure",
+      "difficulty": 1
+    },
+    {
+      "word": "PILL",
+      "category": "medication",
+      "difficulty": 1
+    },
+    {
+      "word": "DOSE",
+      "category": "medication",
+      "difficulty": 1
+    },
+    {
+      "word": "VEIN",
+      "category": "anatomy",
+      "difficulty": 1
+    },
+    {
+      "word": "XRAY",
+      "category": "imaging",
+      "difficulty": 1
+    },
+    {
+      "word": "CYST",
+      "category": "condition",
+      "difficulty": 1
+    },
+    {
+      "word": "DIET",
+      "category": "wellness",
+      "difficulty": 1
+    },
+    {
+      "word": "DRUG",
+      "category": "medication",
+      "difficulty": 1
+    },
+    {
+      "word": "GERM",
+      "category": "pathogen",
+      "difficulty": 1
+    },
+    {
+      "word": "RASH",
+      "category": "symptom",
+      "difficulty": 1
+    },
+    {
+      "word": "SCAN",
+      "category": "imaging",
+      "difficulty": 1
+    },
+    {
+      "word": "SCAR",
+      "category": "tissue",
+      "difficulty": 1
+    },
+    {
+      "word": "WARD",
+      "category": "facility",
+      "difficulty": 1
+    },
+    {
+      "word": "BONE",
+      "category": "anatomy",
+      "difficulty": 1
+    },
+    {
+      "word": "BURN",
+      "category": "injury",
+      "difficulty": 1
+    },
+    {
+      "word": "CAST",
+      "category": "treatment",
+      "difficulty": 1
+    },
+    {
+      "word": "CLOT",
+      "category": "condition",
+      "difficulty": 1
+    },
+    {
+      "word": "COMA",
+      "category": "condition",
+      "difficulty": 1
+    },
+    {
+      "word": "PAIN",
+      "category": "symptom",
+      "difficulty": 1
+    },
+    {
+      "word": "VOMIT",
+      "category": "symptom",
+      "difficulty": 1
+    },
+    {
+      "word": "SORE",
+      "category": "symptom",
+      "difficulty": 1
+    },
+    {
+      "word": "ACHE",
+      "category": "symptom",
+      "difficulty": 1
+    },
+    {
+      "word": "CYST",
+      "category": "condition",
+      "difficulty": 1
+    },
+    {
+      "word": "WART",
+      "category": "condition",
+      "difficulty": 1
+    },
+    {
+      "word": "POLIO",
+      "category": "illness",
+      "difficulty": 1
+    },
+    {
+      "word": "LYME",
+      "category": "illness",
+      "difficulty": 1
+    },
+    {
+      "word": "GOUT",
+      "category": "condition",
+      "difficulty": 1
+    },
+    {
+      "word": "ACNE",
+      "category": "condition",
+      "difficulty": 1
+    },
+    {
+      "word": "WEAL",
+      "category": "symptom",
+      "difficulty": 1
+    },
+    {
+      "word": "SMEAR",
+      "category": "test",
+      "difficulty": 1
+    },
+    {
+      "word": "TRIAGE",
+      "category": "procedure",
+      "difficulty": 1
+    },
+    {
+      "word": "ALLERGY",
+      "category": "condition",
+      "difficulty": 2
+    },
+    {
+      "word": "ARTERY",
+      "category": "anatomy",
+      "difficulty": 2
+    },
+    {
+      "word": "CANCER",
+      "category": "illness",
+      "difficulty": 2
+    },
+    {
+      "word": "DOCTOR",
+      "category": "profession",
+      "difficulty": 2
+    },
+    {
+      "word": "FEVER",
+      "category": "symptom",
+      "difficulty": 2
+    },
+    {
+      "word": "NURSE",
+      "category": "profession",
+      "difficulty": 2
+    },
+    {
+      "word": "ORGAN",
+      "category": "anatomy",
+      "difficulty": 2
+    },
+    {
+      "word": "TABLET",
+      "category": "medication",
+      "difficulty": 2
+    },
+    {
+      "word": "TRAUMA",
+      "category": "condition",
+      "difficulty": 2
+    },
+    {
+      "word": "ULCER",
+      "category": "condition",
+      "difficulty": 2
+    },
+    {
+      "word": "BIOPSY",
+      "category": "procedure",
+      "difficulty": 2
+    },
+    {
+      "word": "ANATOMY",
+      "category": "science",
+      "difficulty": 2
+    },
+    {
+      "word": "CAPSULE",
+      "category": "medication",
+      "difficulty": 2
+    },
+    {
+      "word": "DISEASE",
+      "category": "illness",
+      "difficulty": 2
+    },
+    {
+      "word": "HYGIENE",
+      "category": "wellness",
+      "difficulty": 2
+    },
+    {
+      "word": "IMPLANT",
+      "category": "treatment",
+      "difficulty": 2
+    },
+    {
+      "word": "VACCINE",
+      "category": "medication",
+      "difficulty": 2
+    },
+    {
+      "word": "SURGERY",
+      "category": "procedure",
+      "difficulty": 2
+    },
+    {
+      "word": "SYMPTOM",
+      "category": "condition",
+      "difficulty": 2
+    },
+    {
+      "word": "THERAPY",
+      "category": "treatment",
+      "difficulty": 2
+    },
+    {
+      "word": "PLACEBO",
+      "category": "medication",
+      "difficulty": 2
+    },
+    {
+      "word": "INSULIN",
+      "category": "medication",
+      "difficulty": 2
+    },
+    {
+      "word": "ASPIRIN",
+      "category": "medication",
+      "difficulty": 2
+    },
+    {
+      "word": "SUTURE",
+      "category": "treatment",
+      "difficulty": 2
+    },
+    {
+      "word": "PROSTHETIC",
+      "category": "treatment",
+      "difficulty": 2
+    },
+    {
+      "word": "FRACTURE",
+      "category": "injury",
+      "difficulty": 2
+    },
+    {
+      "word": "ANTIBODY",
+      "category": "immune",
+      "difficulty": 2
+    },
+    {
+      "word": "CLINICAL",
+      "category": "science",
+      "difficulty": 2
+    },
+    {
+      "word": "DIAGNOSE",
+      "category": "procedure",
+      "difficulty": 2
+    },
+    {
+      "word": "HOSPITAL",
+      "category": "facility",
+      "difficulty": 2
+    },
+    {
+      "word": "OVERDOSE",
+      "category": "condition",
+      "difficulty": 2
+    },
+    {
+      "word": "PATHOLOGY",
+      "category": "science",
+      "difficulty": 2
+    },
+    {
+      "word": "DISORDER",
+      "category": "condition",
+      "difficulty": 2
+    },
+    {
+      "word": "EPIDEMIC",
+      "category": "illness",
+      "difficulty": 2
+    },
+    {
+      "word": "GENETICS",
+      "category": "science",
+      "difficulty": 2
+    },
+    {
+      "word": "BANDAGE",
+      "category": "treatment",
+      "difficulty": 2
+    },
+    {
+      "word": "SCALPEL",
+      "category": "equipment",
+      "difficulty": 2
+    },
+    {
+      "word": "INFUSION",
+      "category": "treatment",
+      "difficulty": 2
+    },
+    {
+      "word": "PROGNOSIS",
+      "category": "procedure",
+      "difficulty": 2
+    },
+    {
+      "word": "ANTIBIOTIC",
+      "category": "medication",
+      "difficulty": 2
+    },
+    {
+      "word": "DIAGNOSIS",
+      "category": "procedure",
+      "difficulty": 3
+    },
+    {
+      "word": "ENDOSCOPE",
+      "category": "equipment",
+      "difficulty": 3
+    },
+    {
+      "word": "ANESTHESIA",
+      "category": "procedure",
+      "difficulty": 3
+    },
+    {
+      "word": "CARDIOLOGY",
+      "category": "specialty",
+      "difficulty": 3
+    },
+    {
+      "word": "TOXICOLOGY",
+      "category": "science",
+      "difficulty": 3
+    },
+    {
+      "word": "IMMUNOLOGY",
+      "category": "science",
+      "difficulty": 3
+    },
+    {
+      "word": "ONCOLOGY",
+      "category": "specialty",
+      "difficulty": 3
+    },
+    {
+      "word": "PSYCHIATRY",
+      "category": "specialty",
+      "difficulty": 3
+    },
+    {
+      "word": "NEUROLOGY",
+      "category": "specialty",
+      "difficulty": 3
+    },
+    {
+      "word": "GERIATRIC",
+      "category": "specialty",
+      "difficulty": 3
+    },
+    {
+      "word": "NEPHROLOGY",
+      "category": "specialty",
+      "difficulty": 3
+    },
+    {
+      "word": "VIROLOGY",
+      "category": "science",
+      "difficulty": 3
+    },
+    {
+      "word": "RADIOLOGY",
+      "category": "specialty",
+      "difficulty": 3
+    },
+    {
+      "word": "THERAPIES",
+      "category": "treatment",
+      "difficulty": 3
+    },
+    {
+      "word": "HEMATOLOGY",
+      "category": "specialty",
+      "difficulty": 3
+    },
+    {
+      "word": "PODIATRY",
+      "category": "specialty",
+      "difficulty": 3
+    },
+    {
+      "word": "UROLOGY",
+      "category": "specialty",
+      "difficulty": 3
+    },
+    {
+      "word": "SUPPRESSOR",
+      "category": "medication",
+      "difficulty": 3
+    },
+    {
+      "word": "AUDIOLOGY",
+      "category": "specialty",
+      "difficulty": 3
+    },
+    {
+      "word": "RESECTION",
+      "category": "procedure",
+      "difficulty": 3
+    }
+  ]
+}

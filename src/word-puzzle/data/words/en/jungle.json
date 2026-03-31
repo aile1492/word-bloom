@@ -1,0 +1,506 @@
+{
+  "theme": "jungle",
+  "language": "en",
+  "words": [
+    {
+      "word": "APE",
+      "category": "animal",
+      "difficulty": 1
+    },
+    {
+      "word": "BOA",
+      "category": "animal",
+      "difficulty": 1
+    },
+    {
+      "word": "BEE",
+      "category": "insect",
+      "difficulty": 1
+    },
+    {
+      "word": "BAT",
+      "category": "animal",
+      "difficulty": 1
+    },
+    {
+      "word": "ANT",
+      "category": "insect",
+      "difficulty": 1
+    },
+    {
+      "word": "FLY",
+      "category": "insect",
+      "difficulty": 1
+    },
+    {
+      "word": "VINE",
+      "category": "plant",
+      "difficulty": 1
+    },
+    {
+      "word": "LEAF",
+      "category": "plant",
+      "difficulty": 1
+    },
+    {
+      "word": "FERN",
+      "category": "plant",
+      "difficulty": 1
+    },
+    {
+      "word": "MOSS",
+      "category": "plant",
+      "difficulty": 1
+    },
+    {
+      "word": "FROG",
+      "category": "animal",
+      "difficulty": 1
+    },
+    {
+      "word": "MOTH",
+      "category": "insect",
+      "difficulty": 1
+    },
+    {
+      "word": "TOAD",
+      "category": "animal",
+      "difficulty": 1
+    },
+    {
+      "word": "WASP",
+      "category": "insect",
+      "difficulty": 1
+    },
+    {
+      "word": "DEER",
+      "category": "animal",
+      "difficulty": 1
+    },
+    {
+      "word": "WILD",
+      "category": "concept",
+      "difficulty": 1
+    },
+    {
+      "word": "TREE",
+      "category": "plant",
+      "difficulty": 1
+    },
+    {
+      "word": "RAIN",
+      "category": "weather",
+      "difficulty": 1
+    },
+    {
+      "word": "HUMID",
+      "category": "concept",
+      "difficulty": 1
+    },
+    {
+      "word": "DENSE",
+      "category": "concept",
+      "difficulty": 1
+    },
+    {
+      "word": "TIGER",
+      "category": "animal",
+      "difficulty": 1
+    },
+    {
+      "word": "TAPIR",
+      "category": "animal",
+      "difficulty": 1
+    },
+    {
+      "word": "COBRA",
+      "category": "animal",
+      "difficulty": 1
+    },
+    {
+      "word": "VIPER",
+      "category": "animal",
+      "difficulty": 1
+    },
+    {
+      "word": "SLOTH",
+      "category": "animal",
+      "difficulty": 1
+    },
+    {
+      "word": "GECKO",
+      "category": "animal",
+      "difficulty": 1
+    },
+    {
+      "word": "FOREST",
+      "category": "concept",
+      "difficulty": 1
+    },
+    {
+      "word": "CANOPY",
+      "category": "concept",
+      "difficulty": 1
+    },
+    {
+      "word": "PYTHON",
+      "category": "animal",
+      "difficulty": 1
+    },
+    {
+      "word": "JAGUAR",
+      "category": "animal",
+      "difficulty": 1
+    },
+    {
+      "word": "MACAW",
+      "category": "animal",
+      "difficulty": 1
+    },
+    {
+      "word": "LEMUR",
+      "category": "animal",
+      "difficulty": 1
+    },
+    {
+      "word": "TOUCAN",
+      "category": "animal",
+      "difficulty": 1
+    },
+    {
+      "word": "GECKO",
+      "category": "animal",
+      "difficulty": 1
+    },
+    {
+      "word": "RIVER",
+      "category": "geography",
+      "difficulty": 1
+    },
+    {
+      "word": "SWAMP",
+      "category": "geography",
+      "difficulty": 1
+    },
+    {
+      "word": "MARSH",
+      "category": "geography",
+      "difficulty": 1
+    },
+    {
+      "word": "TRIBE",
+      "category": "concept",
+      "difficulty": 1
+    },
+    {
+      "word": "FLORA",
+      "category": "concept",
+      "difficulty": 1
+    },
+    {
+      "word": "FAUNA",
+      "category": "concept",
+      "difficulty": 1
+    },
+    {
+      "word": "PARROT",
+      "category": "animal",
+      "difficulty": 2
+    },
+    {
+      "word": "IGUANA",
+      "category": "animal",
+      "difficulty": 2
+    },
+    {
+      "word": "MONKEY",
+      "category": "animal",
+      "difficulty": 2
+    },
+    {
+      "word": "BAMBOO",
+      "category": "plant",
+      "difficulty": 2
+    },
+    {
+      "word": "ORCHID",
+      "category": "plant",
+      "difficulty": 2
+    },
+    {
+      "word": "MAMBA",
+      "category": "animal",
+      "difficulty": 2
+    },
+    {
+      "word": "PIRANHA",
+      "category": "animal",
+      "difficulty": 2
+    },
+    {
+      "word": "GORILLA",
+      "category": "animal",
+      "difficulty": 2
+    },
+    {
+      "word": "PANTHER",
+      "category": "animal",
+      "difficulty": 2
+    },
+    {
+      "word": "COUGAR",
+      "category": "animal",
+      "difficulty": 2
+    },
+    {
+      "word": "OCELOT",
+      "category": "animal",
+      "difficulty": 2
+    },
+    {
+      "word": "LEOPARD",
+      "category": "animal",
+      "difficulty": 2
+    },
+    {
+      "word": "MEERKAT",
+      "category": "animal",
+      "difficulty": 2
+    },
+    {
+      "word": "TARANTULA",
+      "category": "arachnid",
+      "difficulty": 2
+    },
+    {
+      "word": "MANGROVE",
+      "category": "plant",
+      "difficulty": 2
+    },
+    {
+      "word": "RAINFALL",
+      "category": "weather",
+      "difficulty": 2
+    },
+    {
+      "word": "TROPICAL",
+      "category": "concept",
+      "difficulty": 2
+    },
+    {
+      "word": "TOUCANS",
+      "category": "animal",
+      "difficulty": 2
+    },
+    {
+      "word": "ANACONDA",
+      "category": "animal",
+      "difficulty": 2
+    },
+    {
+      "word": "CAIMAN",
+      "category": "animal",
+      "difficulty": 2
+    },
+    {
+      "word": "CAPYBARA",
+      "category": "animal",
+      "difficulty": 2
+    },
+    {
+      "word": "ARMADILLO",
+      "category": "animal",
+      "difficulty": 2
+    },
+    {
+      "word": "PECCARY",
+      "category": "animal",
+      "difficulty": 2
+    },
+    {
+      "word": "MARMOSET",
+      "category": "animal",
+      "difficulty": 2
+    },
+    {
+      "word": "COATIMUNDI",
+      "category": "animal",
+      "difficulty": 2
+    },
+    {
+      "word": "CLEARNING",
+      "category": "concept",
+      "difficulty": 2
+    },
+    {
+      "word": "UNDERSTORY",
+      "category": "concept",
+      "difficulty": 2
+    },
+    {
+      "word": "ECOSYSTEM",
+      "category": "concept",
+      "difficulty": 2
+    },
+    {
+      "word": "WATERSHED",
+      "category": "geography",
+      "difficulty": 2
+    },
+    {
+      "word": "RAINFOREST",
+      "category": "concept",
+      "difficulty": 2
+    },
+    {
+      "word": "UNDERBRUSH",
+      "category": "plant",
+      "difficulty": 2
+    },
+    {
+      "word": "FLOODPLAIN",
+      "category": "geography",
+      "difficulty": 2
+    },
+    {
+      "word": "QUICKSAND",
+      "category": "geography",
+      "difficulty": 2
+    },
+    {
+      "word": "TRIBUTARY",
+      "category": "geography",
+      "difficulty": 2
+    },
+    {
+      "word": "AMBUSH",
+      "category": "concept",
+      "difficulty": 2
+    },
+    {
+      "word": "PREDATOR",
+      "category": "concept",
+      "difficulty": 2
+    },
+    {
+      "word": "CAMOUFLAGE",
+      "category": "concept",
+      "difficulty": 2
+    },
+    {
+      "word": "DEFOREST",
+      "category": "concept",
+      "difficulty": 2
+    },
+    {
+      "word": "ECOSYSTEM",
+      "category": "concept",
+      "difficulty": 2
+    },
+    {
+      "word": "SYMBIOSIS",
+      "category": "concept",
+      "difficulty": 2
+    },
+    {
+      "word": "CHIMPANZEE",
+      "category": "animal",
+      "difficulty": 3
+    },
+    {
+      "word": "ORANGUTAN",
+      "category": "animal",
+      "difficulty": 3
+    },
+    {
+      "word": "CHAMELEON",
+      "category": "animal",
+      "difficulty": 3
+    },
+    {
+      "word": "CROCODILE",
+      "category": "animal",
+      "difficulty": 3
+    },
+    {
+      "word": "CASSOWARY",
+      "category": "animal",
+      "difficulty": 3
+    },
+    {
+      "word": "DEFOLIATE",
+      "category": "concept",
+      "difficulty": 3
+    },
+    {
+      "word": "ECOSYSTEM",
+      "category": "concept",
+      "difficulty": 3
+    },
+    {
+      "word": "PROTECTED",
+      "category": "concept",
+      "difficulty": 3
+    },
+    {
+      "word": "CAMOUFLAGE",
+      "category": "concept",
+      "difficulty": 3
+    },
+    {
+      "word": "PHEROMONE",
+      "category": "concept",
+      "difficulty": 3
+    },
+    {
+      "word": "MILLIPEDE",
+      "category": "insect",
+      "difficulty": 3
+    },
+    {
+      "word": "VEGETATION",
+      "category": "plant",
+      "difficulty": 3
+    },
+    {
+      "word": "EXPEDITION",
+      "category": "concept",
+      "difficulty": 3
+    },
+    {
+      "word": "EPIPHYTE",
+      "category": "plant",
+      "difficulty": 3
+    },
+    {
+      "word": "STRANGLER",
+      "category": "plant",
+      "difficulty": 3
+    },
+    {
+      "word": "PARASITISM",
+      "category": "concept",
+      "difficulty": 3
+    },
+    {
+      "word": "PREDATION",
+      "category": "concept",
+      "difficulty": 3
+    },
+    {
+      "word": "GLOWWORMS",
+      "category": "concept",
+      "difficulty": 3
+    },
+    {
+      "word": "CAMOUFLAGE",
+      "category": "concept",
+      "difficulty": 3
+    },
+    {
+      "word": "MUTUALISM",
+      "category": "concept",
+      "difficulty": 3
+    }
+  ]
+}

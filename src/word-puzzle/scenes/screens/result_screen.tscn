@@ -1,0 +1,81 @@
+[gd_scene load_steps=2 format=3 uid="uid://result_screen"]
+
+[ext_resource type="Script" path="res://scripts/ui/screens/result_screen.gd" id="1_rs"]
+
+[node name="ResultScreen" type="Control"]
+script = ExtResource("1_rs")
+layout_mode = 3
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+
+[node name="VBoxContainer" type="VBoxContainer" parent="."]
+layout_mode = 1
+anchors_preset = 8
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+grow_horizontal = 2
+grow_vertical = 2
+offset_left = -160.0
+offset_top = -150.0
+offset_right = 160.0
+offset_bottom = 150.0
+theme_override_constants/separation = 20
+alignment = 1
+
+[node name="NewRecordLabel" type="Label" parent="VBoxContainer"]
+layout_mode = 2
+text = "🏆 New Record!"
+theme_override_font_sizes/font_size = 22
+horizontal_alignment = 1
+modulate = Color(1, 0.85, 0, 1)
+visible = false
+
+[node name="GradeLabel" type="Label" parent="VBoxContainer"]
+layout_mode = 2
+text = "Grade: S"
+theme_override_font_sizes/font_size = 48
+horizontal_alignment = 1
+
+[node name="ScoreLabel" type="Label" parent="VBoxContainer"]
+layout_mode = 2
+text = "Score: 0"
+theme_override_font_sizes/font_size = 28
+horizontal_alignment = 1
+
+[node name="CoinsLabel" type="Label" parent="VBoxContainer"]
+layout_mode = 2
+text = "Coins Earned: +0"
+theme_override_font_sizes/font_size = 22
+horizontal_alignment = 1
+
+[node name="WordsLabel" type="Label" parent="VBoxContainer"]
+layout_mode = 2
+text = "Words: 0 / 0"
+theme_override_font_sizes/font_size = 18
+horizontal_alignment = 1
+modulate = Color(0.8, 0.8, 0.8, 1)
+
+[node name="ButtonRow" type="HBoxContainer" parent="VBoxContainer"]
+layout_mode = 2
+alignment = 1
+theme_override_constants/separation = 12
+
+[node name="HomeButton" type="Button" parent="VBoxContainer/ButtonRow"]
+layout_mode = 2
+text = "Home"
+custom_minimum_size = Vector2(110, 50)
+
+[node name="RetryButton" type="Button" parent="VBoxContainer/ButtonRow"]
+layout_mode = 2
+text = "Retry"
+custom_minimum_size = Vector2(120, 50)
+
+[node name="NextButton" type="Button" parent="VBoxContainer/ButtonRow"]
+layout_mode = 2
+text = "Next Stage"
+custom_minimum_size = Vector2(150, 50)

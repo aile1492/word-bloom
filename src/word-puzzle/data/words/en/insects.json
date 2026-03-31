@@ -1,0 +1,501 @@
+{
+  "theme": "insects",
+  "language": "en",
+  "words": [
+    {
+      "word": "ANT",
+      "category": "hymenoptera",
+      "difficulty": 1
+    },
+    {
+      "word": "BEE",
+      "category": "hymenoptera",
+      "difficulty": 1
+    },
+    {
+      "word": "FLY",
+      "category": "diptera",
+      "difficulty": 1
+    },
+    {
+      "word": "BUG",
+      "category": "hemiptera",
+      "difficulty": 1
+    },
+    {
+      "word": "FLEA",
+      "category": "siphonaptera",
+      "difficulty": 1
+    },
+    {
+      "word": "GNAT",
+      "category": "diptera",
+      "difficulty": 1
+    },
+    {
+      "word": "MOTH",
+      "category": "lepidoptera",
+      "difficulty": 1
+    },
+    {
+      "word": "WASP",
+      "category": "hymenoptera",
+      "difficulty": 1
+    },
+    {
+      "word": "WORM",
+      "category": "invertebrate",
+      "difficulty": 1
+    },
+    {
+      "word": "LOUSE",
+      "category": "phthiraptera",
+      "difficulty": 1
+    },
+    {
+      "word": "APHID",
+      "category": "hemiptera",
+      "difficulty": 1
+    },
+    {
+      "word": "ROACH",
+      "category": "blattodea",
+      "difficulty": 1
+    },
+    {
+      "word": "MIDGE",
+      "category": "diptera",
+      "difficulty": 1
+    },
+    {
+      "word": "LARVA",
+      "category": "concept",
+      "difficulty": 1
+    },
+    {
+      "word": "GRUB",
+      "category": "concept",
+      "difficulty": 1
+    },
+    {
+      "word": "MITE",
+      "category": "arachnid",
+      "difficulty": 1
+    },
+    {
+      "word": "TICK",
+      "category": "arachnid",
+      "difficulty": 1
+    },
+    {
+      "word": "SLUG",
+      "category": "gastropod",
+      "difficulty": 1
+    },
+    {
+      "word": "SNAIL",
+      "category": "gastropod",
+      "difficulty": 1
+    },
+    {
+      "word": "DRONE",
+      "category": "hymenoptera",
+      "difficulty": 1
+    },
+    {
+      "word": "BORER",
+      "category": "coleoptera",
+      "difficulty": 1
+    },
+    {
+      "word": "MIDGE",
+      "category": "diptera",
+      "difficulty": 1
+    },
+    {
+      "word": "HORNET",
+      "category": "hymenoptera",
+      "difficulty": 1
+    },
+    {
+      "word": "MANTIS",
+      "category": "mantodea",
+      "difficulty": 1
+    },
+    {
+      "word": "LOCUST",
+      "category": "orthoptera",
+      "difficulty": 1
+    },
+    {
+      "word": "WEEVIL",
+      "category": "coleoptera",
+      "difficulty": 1
+    },
+    {
+      "word": "THRIPS",
+      "category": "thysanoptera",
+      "difficulty": 1
+    },
+    {
+      "word": "EARWIG",
+      "category": "dermaptera",
+      "difficulty": 1
+    },
+    {
+      "word": "CRICKET",
+      "category": "orthoptera",
+      "difficulty": 1
+    },
+    {
+      "word": "FIREFLY",
+      "category": "coleoptera",
+      "difficulty": 1
+    },
+    {
+      "word": "MAYFLY",
+      "category": "ephemeroptera",
+      "difficulty": 1
+    },
+    {
+      "word": "GADFLY",
+      "category": "diptera",
+      "difficulty": 1
+    },
+    {
+      "word": "HORSEFLY",
+      "category": "diptera",
+      "difficulty": 1
+    },
+    {
+      "word": "SAWFLY",
+      "category": "hymenoptera",
+      "difficulty": 1
+    },
+    {
+      "word": "STINKBUG",
+      "category": "hemiptera",
+      "difficulty": 1
+    },
+    {
+      "word": "LADYBUG",
+      "category": "coleoptera",
+      "difficulty": 1
+    },
+    {
+      "word": "BEDBUG",
+      "category": "hemiptera",
+      "difficulty": 1
+    },
+    {
+      "word": "KATYDID",
+      "category": "orthoptera",
+      "difficulty": 1
+    },
+    {
+      "word": "CHIGGER",
+      "category": "arachnid",
+      "difficulty": 1
+    },
+    {
+      "word": "CICADA",
+      "category": "hemiptera",
+      "difficulty": 1
+    },
+    {
+      "word": "BEETLE",
+      "category": "coleoptera",
+      "difficulty": 2
+    },
+    {
+      "word": "SPIDER",
+      "category": "arachnid",
+      "difficulty": 2
+    },
+    {
+      "word": "TERMITE",
+      "category": "blattodea",
+      "difficulty": 2
+    },
+    {
+      "word": "DRAGONFLY",
+      "category": "odonata",
+      "difficulty": 2
+    },
+    {
+      "word": "DAMSELFLY",
+      "category": "odonata",
+      "difficulty": 2
+    },
+    {
+      "word": "FIREANT",
+      "category": "hymenoptera",
+      "difficulty": 2
+    },
+    {
+      "word": "LACEWING",
+      "category": "neuroptera",
+      "difficulty": 2
+    },
+    {
+      "word": "BUMBLEBEE",
+      "category": "hymenoptera",
+      "difficulty": 2
+    },
+    {
+      "word": "LEAFCUTTER",
+      "category": "hymenoptera",
+      "difficulty": 2
+    },
+    {
+      "word": "STONEFLY",
+      "category": "plecoptera",
+      "difficulty": 2
+    },
+    {
+      "word": "SCORPION",
+      "category": "arachnid",
+      "difficulty": 2
+    },
+    {
+      "word": "CENTIPEDE",
+      "category": "myriapoda",
+      "difficulty": 2
+    },
+    {
+      "word": "MILLIPEDE",
+      "category": "myriapoda",
+      "difficulty": 2
+    },
+    {
+      "word": "MOSQUITO",
+      "category": "diptera",
+      "difficulty": 2
+    },
+    {
+      "word": "TARANTULA",
+      "category": "arachnid",
+      "difficulty": 2
+    },
+    {
+      "word": "COCKROACH",
+      "category": "blattodea",
+      "difficulty": 2
+    },
+    {
+      "word": "LACEWINGS",
+      "category": "orthoptera",
+      "difficulty": 2
+    },
+    {
+      "word": "HORSEFLY",
+      "category": "diptera",
+      "difficulty": 2
+    },
+    {
+      "word": "WOODLOUSE",
+      "category": "isopoda",
+      "difficulty": 2
+    },
+    {
+      "word": "LEAFHOPPER",
+      "category": "hemiptera",
+      "difficulty": 2
+    },
+    {
+      "word": "BOOKWORM",
+      "category": "concept",
+      "difficulty": 2
+    },
+    {
+      "word": "GLOWWORM",
+      "category": "coleoptera",
+      "difficulty": 2
+    },
+    {
+      "word": "SILKWORM",
+      "category": "lepidoptera",
+      "difficulty": 2
+    },
+    {
+      "word": "HORNWORM",
+      "category": "lepidoptera",
+      "difficulty": 2
+    },
+    {
+      "word": "BLACKFLY",
+      "category": "hemiptera",
+      "difficulty": 2
+    },
+    {
+      "word": "WHITEFLY",
+      "category": "hemiptera",
+      "difficulty": 2
+    },
+    {
+      "word": "ROBBERFLY",
+      "category": "diptera",
+      "difficulty": 2
+    },
+    {
+      "word": "STAG",
+      "category": "coleoptera",
+      "difficulty": 2
+    },
+    {
+      "word": "WALKING",
+      "category": "phasmatodea",
+      "difficulty": 2
+    },
+    {
+      "word": "CADDISFLY",
+      "category": "trichoptera",
+      "difficulty": 2
+    },
+    {
+      "word": "BLOWFLY",
+      "category": "diptera",
+      "difficulty": 2
+    },
+    {
+      "word": "DADDYLONG",
+      "category": "diptera",
+      "difficulty": 2
+    },
+    {
+      "word": "BLOWFLIES",
+      "category": "diptera",
+      "difficulty": 2
+    },
+    {
+      "word": "BARKLOUSE",
+      "category": "psocoptera",
+      "difficulty": 2
+    },
+    {
+      "word": "WATERBUG",
+      "category": "hemiptera",
+      "difficulty": 2
+    },
+    {
+      "word": "LOVEBUG",
+      "category": "diptera",
+      "difficulty": 2
+    },
+    {
+      "word": "TREEBUG",
+      "category": "hemiptera",
+      "difficulty": 2
+    },
+    {
+      "word": "MEALWORM",
+      "category": "coleoptera",
+      "difficulty": 2
+    },
+    {
+      "word": "MUDWORM",
+      "category": "invertebrate",
+      "difficulty": 2
+    },
+    {
+      "word": "BUTTERFLY",
+      "category": "lepidoptera",
+      "difficulty": 3
+    },
+    {
+      "word": "PRAYING",
+      "category": "mantodea",
+      "difficulty": 3
+    },
+    {
+      "word": "CHRYSALIS",
+      "category": "concept",
+      "difficulty": 3
+    },
+    {
+      "word": "PUPATION",
+      "category": "concept",
+      "difficulty": 3
+    },
+    {
+      "word": "DIPTERANS",
+      "category": "order",
+      "difficulty": 3
+    },
+    {
+      "word": "MOTHS",
+      "category": "order",
+      "difficulty": 3
+    },
+    {
+      "word": "COLEOPTERA",
+      "category": "order",
+      "difficulty": 3
+    },
+    {
+      "word": "SILKWORMS",
+      "category": "lepidoptera",
+      "difficulty": 3
+    },
+    {
+      "word": "BOMBARDIER",
+      "category": "coleoptera",
+      "difficulty": 3
+    },
+    {
+      "word": "RHINOCEROS",
+      "category": "coleoptera",
+      "difficulty": 3
+    },
+    {
+      "word": "SILVERFISH",
+      "category": "zygentoma",
+      "difficulty": 3
+    },
+    {
+      "word": "PAPERWASP",
+      "category": "hymenoptera",
+      "difficulty": 3
+    },
+    {
+      "word": "HARVESTMAN",
+      "category": "arachnid",
+      "difficulty": 3
+    },
+    {
+      "word": "MOSQUITOS",
+      "category": "concept",
+      "difficulty": 3
+    },
+    {
+      "word": "HOVERFLY",
+      "category": "diptera",
+      "difficulty": 3
+    },
+    {
+      "word": "PARASITOID",
+      "category": "order",
+      "difficulty": 3
+    },
+    {
+      "word": "ASSASSIN",
+      "category": "hemiptera",
+      "difficulty": 3
+    },
+    {
+      "word": "LONGHORN",
+      "category": "coleoptera",
+      "difficulty": 3
+    },
+    {
+      "word": "AQUATIC",
+      "category": "concept",
+      "difficulty": 3
+    },
+    {
+      "word": "FIREFLIES",
+      "category": "coleoptera",
+      "difficulty": 3
+    }
+  ]
+}

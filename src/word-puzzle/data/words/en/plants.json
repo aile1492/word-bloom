@@ -1,0 +1,501 @@
+{
+  "theme": "plants",
+  "language": "en",
+  "words": [
+    {
+      "word": "OAK",
+      "category": "tree",
+      "difficulty": 1
+    },
+    {
+      "word": "ELM",
+      "category": "tree",
+      "difficulty": 1
+    },
+    {
+      "word": "FIG",
+      "category": "fruit",
+      "difficulty": 1
+    },
+    {
+      "word": "IVY",
+      "category": "vine",
+      "difficulty": 1
+    },
+    {
+      "word": "YEW",
+      "category": "tree",
+      "difficulty": 1
+    },
+    {
+      "word": "ASH",
+      "category": "tree",
+      "difficulty": 1
+    },
+    {
+      "word": "YAM",
+      "category": "root",
+      "difficulty": 1
+    },
+    {
+      "word": "FERN",
+      "category": "fern",
+      "difficulty": 1
+    },
+    {
+      "word": "PALM",
+      "category": "tree",
+      "difficulty": 1
+    },
+    {
+      "word": "PINE",
+      "category": "tree",
+      "difficulty": 1
+    },
+    {
+      "word": "ROSE",
+      "category": "flower",
+      "difficulty": 1
+    },
+    {
+      "word": "LILY",
+      "category": "flower",
+      "difficulty": 1
+    },
+    {
+      "word": "MINT",
+      "category": "herb",
+      "difficulty": 1
+    },
+    {
+      "word": "SAGE",
+      "category": "herb",
+      "difficulty": 1
+    },
+    {
+      "word": "WEED",
+      "category": "concept",
+      "difficulty": 1
+    },
+    {
+      "word": "REED",
+      "category": "grass",
+      "difficulty": 1
+    },
+    {
+      "word": "KELP",
+      "category": "algae",
+      "difficulty": 1
+    },
+    {
+      "word": "MOSS",
+      "category": "bryophyte",
+      "difficulty": 1
+    },
+    {
+      "word": "BUSH",
+      "category": "shrub",
+      "difficulty": 1
+    },
+    {
+      "word": "BARK",
+      "category": "anatomy",
+      "difficulty": 1
+    },
+    {
+      "word": "LEAF",
+      "category": "anatomy",
+      "difficulty": 1
+    },
+    {
+      "word": "ROOT",
+      "category": "anatomy",
+      "difficulty": 1
+    },
+    {
+      "word": "SEED",
+      "category": "anatomy",
+      "difficulty": 1
+    },
+    {
+      "word": "BULB",
+      "category": "anatomy",
+      "difficulty": 1
+    },
+    {
+      "word": "STEM",
+      "category": "anatomy",
+      "difficulty": 1
+    },
+    {
+      "word": "TULIP",
+      "category": "flower",
+      "difficulty": 1
+    },
+    {
+      "word": "CACAO",
+      "category": "tree",
+      "difficulty": 1
+    },
+    {
+      "word": "LILAC",
+      "category": "flower",
+      "difficulty": 1
+    },
+    {
+      "word": "THYME",
+      "category": "herb",
+      "difficulty": 1
+    },
+    {
+      "word": "CEDAR",
+      "category": "tree",
+      "difficulty": 1
+    },
+    {
+      "word": "MAPLE",
+      "category": "tree",
+      "difficulty": 1
+    },
+    {
+      "word": "BIRCH",
+      "category": "tree",
+      "difficulty": 1
+    },
+    {
+      "word": "LOTUS",
+      "category": "flower",
+      "difficulty": 1
+    },
+    {
+      "word": "POPPY",
+      "category": "flower",
+      "difficulty": 1
+    },
+    {
+      "word": "DAISY",
+      "category": "flower",
+      "difficulty": 1
+    },
+    {
+      "word": "CACTUS",
+      "category": "succulent",
+      "difficulty": 1
+    },
+    {
+      "word": "VINE",
+      "category": "vine",
+      "difficulty": 1
+    },
+    {
+      "word": "FICUS",
+      "category": "tree",
+      "difficulty": 1
+    },
+    {
+      "word": "GRASS",
+      "category": "grass",
+      "difficulty": 1
+    },
+    {
+      "word": "SHRUB",
+      "category": "shrub",
+      "difficulty": 1
+    },
+    {
+      "word": "ORCHID",
+      "category": "flower",
+      "difficulty": 2
+    },
+    {
+      "word": "CLOVER",
+      "category": "legume",
+      "difficulty": 2
+    },
+    {
+      "word": "NETTLE",
+      "category": "herb",
+      "difficulty": 2
+    },
+    {
+      "word": "BONSAI",
+      "category": "tree",
+      "difficulty": 2
+    },
+    {
+      "word": "FENNEL",
+      "category": "herb",
+      "difficulty": 2
+    },
+    {
+      "word": "WALNUT",
+      "category": "tree",
+      "difficulty": 2
+    },
+    {
+      "word": "WILLOW",
+      "category": "tree",
+      "difficulty": 2
+    },
+    {
+      "word": "BAMBOO",
+      "category": "grass",
+      "difficulty": 2
+    },
+    {
+      "word": "MYRTLE",
+      "category": "shrub",
+      "difficulty": 2
+    },
+    {
+      "word": "JASMINE",
+      "category": "flower",
+      "difficulty": 2
+    },
+    {
+      "word": "PETUNIA",
+      "category": "flower",
+      "difficulty": 2
+    },
+    {
+      "word": "THISTLE",
+      "category": "flower",
+      "difficulty": 2
+    },
+    {
+      "word": "BEGONIA",
+      "category": "flower",
+      "difficulty": 2
+    },
+    {
+      "word": "ALOE",
+      "category": "succulent",
+      "difficulty": 2
+    },
+    {
+      "word": "SORREL",
+      "category": "herb",
+      "difficulty": 2
+    },
+    {
+      "word": "YARROW",
+      "category": "herb",
+      "difficulty": 2
+    },
+    {
+      "word": "CONIFERS",
+      "category": "tree",
+      "difficulty": 2
+    },
+    {
+      "word": "PRIMROSE",
+      "category": "flower",
+      "difficulty": 2
+    },
+    {
+      "word": "CAMELLIA",
+      "category": "flower",
+      "difficulty": 2
+    },
+    {
+      "word": "MAGNOLIA",
+      "category": "flower",
+      "difficulty": 2
+    },
+    {
+      "word": "WISTERIA",
+      "category": "vine",
+      "difficulty": 2
+    },
+    {
+      "word": "LAVENDER",
+      "category": "herb",
+      "difficulty": 2
+    },
+    {
+      "word": "MARIGOLD",
+      "category": "flower",
+      "difficulty": 2
+    },
+    {
+      "word": "ROSEMARY",
+      "category": "herb",
+      "difficulty": 2
+    },
+    {
+      "word": "BLUEBELL",
+      "category": "flower",
+      "difficulty": 2
+    },
+    {
+      "word": "FOXGLOVE",
+      "category": "flower",
+      "difficulty": 2
+    },
+    {
+      "word": "HYACINTH",
+      "category": "flower",
+      "difficulty": 2
+    },
+    {
+      "word": "HAWTHORN",
+      "category": "tree",
+      "difficulty": 2
+    },
+    {
+      "word": "CHESTNUT",
+      "category": "tree",
+      "difficulty": 2
+    },
+    {
+      "word": "PLANTAIN",
+      "category": "herb",
+      "difficulty": 2
+    },
+    {
+      "word": "SNOWDROP",
+      "category": "flower",
+      "difficulty": 2
+    },
+    {
+      "word": "BURDOCK",
+      "category": "herb",
+      "difficulty": 2
+    },
+    {
+      "word": "VALERIAN",
+      "category": "herb",
+      "difficulty": 2
+    },
+    {
+      "word": "TARRAGON",
+      "category": "herb",
+      "difficulty": 2
+    },
+    {
+      "word": "SPEARMINT",
+      "category": "herb",
+      "difficulty": 2
+    },
+    {
+      "word": "DUCKWEED",
+      "category": "aquatic",
+      "difficulty": 2
+    },
+    {
+      "word": "HOLLYHOCK",
+      "category": "flower",
+      "difficulty": 2
+    },
+    {
+      "word": "COLTSFOOT",
+      "category": "herb",
+      "difficulty": 2
+    },
+    {
+      "word": "JUNIPER",
+      "category": "tree",
+      "difficulty": 2
+    },
+    {
+      "word": "SUNFLOWER",
+      "category": "flower",
+      "difficulty": 3
+    },
+    {
+      "word": "DANDELION",
+      "category": "flower",
+      "difficulty": 3
+    },
+    {
+      "word": "CARNATION",
+      "category": "flower",
+      "difficulty": 3
+    },
+    {
+      "word": "GLADIOLUS",
+      "category": "flower",
+      "difficulty": 3
+    },
+    {
+      "word": "CALENDULA",
+      "category": "flower",
+      "difficulty": 3
+    },
+    {
+      "word": "EUCALYPTUS",
+      "category": "tree",
+      "difficulty": 3
+    },
+    {
+      "word": "COLUMBINE",
+      "category": "vine",
+      "difficulty": 3
+    },
+    {
+      "word": "CORIANDER",
+      "category": "herb",
+      "difficulty": 3
+    },
+    {
+      "word": "MARJORAM",
+      "category": "herb",
+      "difficulty": 3
+    },
+    {
+      "word": "POINSETTIA",
+      "category": "flower",
+      "difficulty": 3
+    },
+    {
+      "word": "CHAMOMILE",
+      "category": "herb",
+      "difficulty": 3
+    },
+    {
+      "word": "LEMONGRASS",
+      "category": "grass",
+      "difficulty": 3
+    },
+    {
+      "word": "MISTLETOE",
+      "category": "parasite",
+      "difficulty": 3
+    },
+    {
+      "word": "SNAPDRAGON",
+      "category": "flower",
+      "difficulty": 3
+    },
+    {
+      "word": "PERIWINKLE",
+      "category": "flower",
+      "difficulty": 3
+    },
+    {
+      "word": "AMARANTH",
+      "category": "plant",
+      "difficulty": 3
+    },
+    {
+      "word": "NASTURTIUM",
+      "category": "vine",
+      "difficulty": 3
+    },
+    {
+      "word": "BELLFLOWER",
+      "category": "flower",
+      "difficulty": 3
+    },
+    {
+      "word": "FRANGIPANI",
+      "category": "flower",
+      "difficulty": 3
+    },
+    {
+      "word": "HELIOTROPE",
+      "category": "flower",
+      "difficulty": 3
+    }
+  ]
+}

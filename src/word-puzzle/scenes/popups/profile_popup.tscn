@@ -1,0 +1,130 @@
+[gd_scene load_steps=2 format=3 uid="uid://profile_popup"]
+
+[ext_resource type="Script" path="res://scripts/ui/popups/profile_popup.gd" id="1_pp"]
+
+[node name="ProfilePopup" type="Control"]
+script = ExtResource("1_pp")
+layout_mode = 3
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+
+[node name="DimBackground" type="ColorRect" parent="."]
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+color = Color(0, 0, 0, 0.55)
+
+[node name="Panel" type="PanelContainer" parent="."]
+layout_mode = 1
+anchors_preset = 8
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+grow_horizontal = 2
+grow_vertical = 2
+offset_left = -210.0
+offset_top = -320.0
+offset_right = 210.0
+offset_bottom = 320.0
+
+[node name="VBox" type="VBoxContainer" parent="Panel"]
+layout_mode = 2
+theme_override_constants/separation = 12
+
+[node name="TopRow" type="HBoxContainer" parent="Panel/VBox"]
+layout_mode = 2
+
+[node name="TitleLabel" type="Label" parent="Panel/VBox/TopRow"]
+layout_mode = 2
+size_flags_horizontal = 3
+text = "Profile"
+theme_override_font_sizes/font_size = 22
+
+[node name="CloseButton" type="Button" parent="Panel/VBox/TopRow"]
+layout_mode = 2
+text = "✕"
+custom_minimum_size = Vector2(40, 40)
+
+[node name="AvatarRow" type="HBoxContainer" parent="Panel/VBox"]
+layout_mode = 2
+theme_override_constants/separation = 12
+
+[node name="AvatarButton" type="Button" parent="Panel/VBox/AvatarRow"]
+layout_mode = 2
+custom_minimum_size = Vector2(80, 80)
+text = "Avatar"
+
+[node name="AvatarInfoVBox" type="VBoxContainer" parent="Panel/VBox/AvatarRow"]
+layout_mode = 2
+size_flags_horizontal = 3
+
+[node name="NicknameLabel" type="Label" parent="Panel/VBox/AvatarRow/AvatarInfoVBox"]
+layout_mode = 2
+text = "Guest_00000"
+theme_override_font_sizes/font_size = 20
+
+[node name="EditNicknameButton" type="Button" parent="Panel/VBox/AvatarRow/AvatarInfoVBox"]
+layout_mode = 2
+text = "Change Name"
+custom_minimum_size = Vector2(110, 36)
+
+[node name="NicknameEditRow" type="HBoxContainer" parent="Panel/VBox"]
+layout_mode = 2
+theme_override_constants/separation = 8
+visible = false
+
+[node name="NicknameEdit" type="LineEdit" parent="Panel/VBox/NicknameEditRow"]
+layout_mode = 2
+size_flags_horizontal = 3
+placeholder_text = "Enter name (max 16 chars)"
+max_length = 16
+
+[node name="ConfirmButton" type="Button" parent="Panel/VBox/NicknameEditRow"]
+layout_mode = 2
+text = "OK"
+custom_minimum_size = Vector2(60, 0)
+
+[node name="Separator" type="HSeparator" parent="Panel/VBox"]
+layout_mode = 2
+
+[node name="StatsGrid" type="GridContainer" parent="Panel/VBox"]
+layout_mode = 2
+columns = 2
+theme_override_constants/h_separation = 16
+theme_override_constants/v_separation = 8
+
+[node name="StageLabel" type="Label" parent="Panel/VBox/StatsGrid"]
+layout_mode = 2
+text = "Stage: 1"
+size_flags_horizontal = 3
+
+[node name="ClearsLabel" type="Label" parent="Panel/VBox/StatsGrid"]
+layout_mode = 2
+text = "Clears: 0"
+size_flags_horizontal = 3
+
+[node name="WordsLabel" type="Label" parent="Panel/VBox/StatsGrid"]
+layout_mode = 2
+text = "Words Found: 0"
+size_flags_horizontal = 3
+
+[node name="PlaytimeLabel" type="Label" parent="Panel/VBox/StatsGrid"]
+layout_mode = 2
+text = "Play Time: 0 min"
+size_flags_horizontal = 3
+
+[node name="CoinsLabel" type="Label" parent="Panel/VBox/StatsGrid"]
+layout_mode = 2
+text = "Coins Earned: 0"
+size_flags_horizontal = 3
+visible = false
+
+[node name="BestClassicLabel" type="Label" parent="Panel/VBox/StatsGrid"]
+layout_mode = 2
+text = "Classic Best: -"
+size_flags_horizontal = 3

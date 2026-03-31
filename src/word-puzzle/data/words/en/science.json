@@ -1,0 +1,511 @@
+{
+  "theme": "science",
+  "language": "en",
+  "words": [
+    {
+      "word": "ION",
+      "category": "chemistry",
+      "difficulty": 1
+    },
+    {
+      "word": "LAB",
+      "category": "concept",
+      "difficulty": 1
+    },
+    {
+      "word": "GEL",
+      "category": "chemistry",
+      "difficulty": 1
+    },
+    {
+      "word": "ORE",
+      "category": "geology",
+      "difficulty": 1
+    },
+    {
+      "word": "GAS",
+      "category": "chemistry",
+      "difficulty": 1
+    },
+    {
+      "word": "DNA",
+      "category": "biology",
+      "difficulty": 1
+    },
+    {
+      "word": "RNA",
+      "category": "biology",
+      "difficulty": 1
+    },
+    {
+      "word": "ACID",
+      "category": "chemistry",
+      "difficulty": 1
+    },
+    {
+      "word": "ATOM",
+      "category": "physics",
+      "difficulty": 1
+    },
+    {
+      "word": "CELL",
+      "category": "biology",
+      "difficulty": 1
+    },
+    {
+      "word": "GENE",
+      "category": "biology",
+      "difficulty": 1
+    },
+    {
+      "word": "ALLOY",
+      "category": "chemistry",
+      "difficulty": 1
+    },
+    {
+      "word": "LASER",
+      "category": "physics",
+      "difficulty": 1
+    },
+    {
+      "word": "PRISM",
+      "category": "optics",
+      "difficulty": 1
+    },
+    {
+      "word": "RADAR",
+      "category": "technology",
+      "difficulty": 1
+    },
+    {
+      "word": "ROBOT",
+      "category": "technology",
+      "difficulty": 1
+    },
+    {
+      "word": "QUARK",
+      "category": "physics",
+      "difficulty": 1
+    },
+    {
+      "word": "FORCE",
+      "category": "physics",
+      "difficulty": 1
+    },
+    {
+      "word": "ORBIT",
+      "category": "physics",
+      "difficulty": 1
+    },
+    {
+      "word": "LUNAR",
+      "category": "astronomy",
+      "difficulty": 1
+    },
+    {
+      "word": "SOLAR",
+      "category": "astronomy",
+      "difficulty": 1
+    },
+    {
+      "word": "LAVA",
+      "category": "geology",
+      "difficulty": 1
+    },
+    {
+      "word": "MASS",
+      "category": "physics",
+      "difficulty": 1
+    },
+    {
+      "word": "WAVE",
+      "category": "physics",
+      "difficulty": 1
+    },
+    {
+      "word": "LENS",
+      "category": "optics",
+      "difficulty": 1
+    },
+    {
+      "word": "COAL",
+      "category": "geology",
+      "difficulty": 1
+    },
+    {
+      "word": "BOLT",
+      "category": "physics",
+      "difficulty": 1
+    },
+    {
+      "word": "HEAT",
+      "category": "physics",
+      "difficulty": 1
+    },
+    {
+      "word": "FLUX",
+      "category": "physics",
+      "difficulty": 1
+    },
+    {
+      "word": "VOLT",
+      "category": "physics",
+      "difficulty": 1
+    },
+    {
+      "word": "SPORE",
+      "category": "biology",
+      "difficulty": 1
+    },
+    {
+      "word": "TOXIN",
+      "category": "biology",
+      "difficulty": 1
+    },
+    {
+      "word": "NERVE",
+      "category": "biology",
+      "difficulty": 1
+    },
+    {
+      "word": "OZONE",
+      "category": "chemistry",
+      "difficulty": 1
+    },
+    {
+      "word": "AMBER",
+      "category": "geology",
+      "difficulty": 1
+    },
+    {
+      "word": "CLONE",
+      "category": "biology",
+      "difficulty": 1
+    },
+    {
+      "word": "VAPOR",
+      "category": "chemistry",
+      "difficulty": 1
+    },
+    {
+      "word": "INERT",
+      "category": "chemistry",
+      "difficulty": 1
+    },
+    {
+      "word": "OPTIC",
+      "category": "optics",
+      "difficulty": 1
+    },
+    {
+      "word": "COMET",
+      "category": "astronomy",
+      "difficulty": 1
+    },
+    {
+      "word": "PLASMA",
+      "category": "physics",
+      "difficulty": 2
+    },
+    {
+      "word": "PROTON",
+      "category": "physics",
+      "difficulty": 2
+    },
+    {
+      "word": "ENZYME",
+      "category": "biology",
+      "difficulty": 2
+    },
+    {
+      "word": "FOSSIL",
+      "category": "geology",
+      "difficulty": 2
+    },
+    {
+      "word": "MAGNET",
+      "category": "physics",
+      "difficulty": 2
+    },
+    {
+      "word": "CARBON",
+      "category": "chemistry",
+      "difficulty": 2
+    },
+    {
+      "word": "OXYGEN",
+      "category": "chemistry",
+      "difficulty": 2
+    },
+    {
+      "word": "HELIUM",
+      "category": "chemistry",
+      "difficulty": 2
+    },
+    {
+      "word": "PHOTON",
+      "category": "physics",
+      "difficulty": 2
+    },
+    {
+      "word": "THEORY",
+      "category": "concept",
+      "difficulty": 2
+    },
+    {
+      "word": "NEURON",
+      "category": "biology",
+      "difficulty": 2
+    },
+    {
+      "word": "POLLEN",
+      "category": "biology",
+      "difficulty": 2
+    },
+    {
+      "word": "FUNGUS",
+      "category": "biology",
+      "difficulty": 2
+    },
+    {
+      "word": "LIGAND",
+      "category": "chemistry",
+      "difficulty": 2
+    },
+    {
+      "word": "QUASAR",
+      "category": "astronomy",
+      "difficulty": 2
+    },
+    {
+      "word": "TUNDRA",
+      "category": "geology",
+      "difficulty": 2
+    },
+    {
+      "word": "TISSUE",
+      "category": "biology",
+      "difficulty": 2
+    },
+    {
+      "word": "STATIC",
+      "category": "physics",
+      "difficulty": 2
+    },
+    {
+      "word": "SILICON",
+      "category": "chemistry",
+      "difficulty": 2
+    },
+    {
+      "word": "GRAVITY",
+      "category": "physics",
+      "difficulty": 2
+    },
+    {
+      "word": "NEUTRON",
+      "category": "physics",
+      "difficulty": 2
+    },
+    {
+      "word": "VOLTAGE",
+      "category": "physics",
+      "difficulty": 2
+    },
+    {
+      "word": "NUCLEUS",
+      "category": "biology",
+      "difficulty": 2
+    },
+    {
+      "word": "PROTEIN",
+      "category": "biology",
+      "difficulty": 2
+    },
+    {
+      "word": "DENSITY",
+      "category": "physics",
+      "difficulty": 2
+    },
+    {
+      "word": "ISOTOPE",
+      "category": "chemistry",
+      "difficulty": 2
+    },
+    {
+      "word": "CIRCUIT",
+      "category": "technology",
+      "difficulty": 2
+    },
+    {
+      "word": "OSMOSIS",
+      "category": "biology",
+      "difficulty": 2
+    },
+    {
+      "word": "MINERAL",
+      "category": "geology",
+      "difficulty": 2
+    },
+    {
+      "word": "EROSION",
+      "category": "geology",
+      "difficulty": 2
+    },
+    {
+      "word": "THERMITE",
+      "category": "chemistry",
+      "difficulty": 2
+    },
+    {
+      "word": "BACTERIA",
+      "category": "biology",
+      "difficulty": 2
+    },
+    {
+      "word": "FRICTION",
+      "category": "physics",
+      "difficulty": 2
+    },
+    {
+      "word": "MOLECULE",
+      "category": "chemistry",
+      "difficulty": 2
+    },
+    {
+      "word": "ELECTRON",
+      "category": "physics",
+      "difficulty": 2
+    },
+    {
+      "word": "SPECTRUM",
+      "category": "optics",
+      "difficulty": 2
+    },
+    {
+      "word": "CATALYST",
+      "category": "chemistry",
+      "difficulty": 2
+    },
+    {
+      "word": "SEDIMENT",
+      "category": "geology",
+      "difficulty": 2
+    },
+    {
+      "word": "VELOCITY",
+      "category": "physics",
+      "difficulty": 2
+    },
+    {
+      "word": "NITROGEN",
+      "category": "chemistry",
+      "difficulty": 2
+    },
+    {
+      "word": "MICROBE",
+      "category": "biology",
+      "difficulty": 2
+    },
+    {
+      "word": "CENTRIFUGE",
+      "category": "concept",
+      "difficulty": 3
+    },
+    {
+      "word": "CHROMOSOME",
+      "category": "biology",
+      "difficulty": 3
+    },
+    {
+      "word": "HYPOTHESIS",
+      "category": "concept",
+      "difficulty": 3
+    },
+    {
+      "word": "EVOLUTION",
+      "category": "biology",
+      "difficulty": 3
+    },
+    {
+      "word": "ATMOSPHERE",
+      "category": "geology",
+      "difficulty": 3
+    },
+    {
+      "word": "RADIATION",
+      "category": "physics",
+      "difficulty": 3
+    },
+    {
+      "word": "CATALYSIS",
+      "category": "biology",
+      "difficulty": 3
+    },
+    {
+      "word": "COMBUSTION",
+      "category": "chemistry",
+      "difficulty": 3
+    },
+    {
+      "word": "QUANTUM",
+      "category": "physics",
+      "difficulty": 3
+    },
+    {
+      "word": "TELESCOPE",
+      "category": "astronomy",
+      "difficulty": 3
+    },
+    {
+      "word": "MICROSCOPE",
+      "category": "concept",
+      "difficulty": 3
+    },
+    {
+      "word": "EARTHQUAKE",
+      "category": "geology",
+      "difficulty": 3
+    },
+    {
+      "word": "REFRACTION",
+      "category": "optics",
+      "difficulty": 3
+    },
+    {
+      "word": "METABOLISM",
+      "category": "biology",
+      "difficulty": 3
+    },
+    {
+      "word": "ELECTRODE",
+      "category": "chemistry",
+      "difficulty": 3
+    },
+    {
+      "word": "SUPERNOVA",
+      "category": "astronomy",
+      "difficulty": 3
+    },
+    {
+      "word": "OSMOTIC",
+      "category": "biology",
+      "difficulty": 3
+    },
+    {
+      "word": "PATHOGEN",
+      "category": "biology",
+      "difficulty": 3
+    },
+    {
+      "word": "WAVELENGTH",
+      "category": "optics",
+      "difficulty": 3
+    },
+    {
+      "word": "MECHANICS",
+      "category": "physics",
+      "difficulty": 3
+    }
+  ]
+}

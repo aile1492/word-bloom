@@ -1,0 +1,501 @@
+{
+  "theme": "languages",
+  "language": "en",
+  "words": [
+    {
+      "word": "LATIN",
+      "category": "classical",
+      "difficulty": 1
+    },
+    {
+      "word": "HINDI",
+      "category": "indic",
+      "difficulty": 1
+    },
+    {
+      "word": "GREEK",
+      "category": "european",
+      "difficulty": 1
+    },
+    {
+      "word": "WELSH",
+      "category": "celtic",
+      "difficulty": 1
+    },
+    {
+      "word": "IRISH",
+      "category": "celtic",
+      "difficulty": 1
+    },
+    {
+      "word": "THAI",
+      "category": "asian",
+      "difficulty": 1
+    },
+    {
+      "word": "ZULU",
+      "category": "african",
+      "difficulty": 1
+    },
+    {
+      "word": "XHOSA",
+      "category": "african",
+      "difficulty": 1
+    },
+    {
+      "word": "NAHUA",
+      "category": "amerindian",
+      "difficulty": 1
+    },
+    {
+      "word": "MALAY",
+      "category": "asian",
+      "difficulty": 1
+    },
+    {
+      "word": "FARSI",
+      "category": "iranian",
+      "difficulty": 1
+    },
+    {
+      "word": "DUTCH",
+      "category": "european",
+      "difficulty": 1
+    },
+    {
+      "word": "CZECH",
+      "category": "slavic",
+      "difficulty": 1
+    },
+    {
+      "word": "MAORI",
+      "category": "polynesian",
+      "difficulty": 1
+    },
+    {
+      "word": "TAMIL",
+      "category": "dravidian",
+      "difficulty": 1
+    },
+    {
+      "word": "URDU",
+      "category": "indic",
+      "difficulty": 1
+    },
+    {
+      "word": "HAUSA",
+      "category": "african",
+      "difficulty": 1
+    },
+    {
+      "word": "IGBO",
+      "category": "african",
+      "difficulty": 1
+    },
+    {
+      "word": "YORUBA",
+      "category": "african",
+      "difficulty": 1
+    },
+    {
+      "word": "SWAHILI",
+      "category": "african",
+      "difficulty": 1
+    },
+    {
+      "word": "KIKUYU",
+      "category": "african",
+      "difficulty": 1
+    },
+    {
+      "word": "AMHARIC",
+      "category": "semitic",
+      "difficulty": 1
+    },
+    {
+      "word": "TIBETAN",
+      "category": "asian",
+      "difficulty": 1
+    },
+    {
+      "word": "SINDHI",
+      "category": "indic",
+      "difficulty": 1
+    },
+    {
+      "word": "PASHTO",
+      "category": "iranian",
+      "difficulty": 1
+    },
+    {
+      "word": "PUNJABI",
+      "category": "indic",
+      "difficulty": 1
+    },
+    {
+      "word": "TELUGU",
+      "category": "dravidian",
+      "difficulty": 1
+    },
+    {
+      "word": "KANNADA",
+      "category": "dravidian",
+      "difficulty": 1
+    },
+    {
+      "word": "MARATHI",
+      "category": "indic",
+      "difficulty": 1
+    },
+    {
+      "word": "BENGALI",
+      "category": "indic",
+      "difficulty": 1
+    },
+    {
+      "word": "TURKISH",
+      "category": "turkic",
+      "difficulty": 1
+    },
+    {
+      "word": "KOREAN",
+      "category": "asian",
+      "difficulty": 1
+    },
+    {
+      "word": "CHINESE",
+      "category": "asian",
+      "difficulty": 1
+    },
+    {
+      "word": "ARABIC",
+      "category": "semitic",
+      "difficulty": 1
+    },
+    {
+      "word": "FRENCH",
+      "category": "romance",
+      "difficulty": 1
+    },
+    {
+      "word": "GERMAN",
+      "category": "germanic",
+      "difficulty": 1
+    },
+    {
+      "word": "ITALIAN",
+      "category": "romance",
+      "difficulty": 1
+    },
+    {
+      "word": "SPANISH",
+      "category": "romance",
+      "difficulty": 1
+    },
+    {
+      "word": "RUSSIAN",
+      "category": "slavic",
+      "difficulty": 1
+    },
+    {
+      "word": "ENGLISH",
+      "category": "germanic",
+      "difficulty": 1
+    },
+    {
+      "word": "SWEDISH",
+      "category": "germanic",
+      "difficulty": 2
+    },
+    {
+      "word": "DANISH",
+      "category": "germanic",
+      "difficulty": 2
+    },
+    {
+      "word": "NORWEGIAN",
+      "category": "germanic",
+      "difficulty": 2
+    },
+    {
+      "word": "ICELANDIC",
+      "category": "germanic",
+      "difficulty": 2
+    },
+    {
+      "word": "FINNISH",
+      "category": "uralic",
+      "difficulty": 2
+    },
+    {
+      "word": "ESTONIAN",
+      "category": "uralic",
+      "difficulty": 2
+    },
+    {
+      "word": "HUNGARIAN",
+      "category": "uralic",
+      "difficulty": 2
+    },
+    {
+      "word": "POLISH",
+      "category": "slavic",
+      "difficulty": 2
+    },
+    {
+      "word": "SLOVAK",
+      "category": "slavic",
+      "difficulty": 2
+    },
+    {
+      "word": "SLOVENIAN",
+      "category": "slavic",
+      "difficulty": 2
+    },
+    {
+      "word": "CROATIAN",
+      "category": "slavic",
+      "difficulty": 2
+    },
+    {
+      "word": "SERBIAN",
+      "category": "slavic",
+      "difficulty": 2
+    },
+    {
+      "word": "ROMANIAN",
+      "category": "romance",
+      "difficulty": 2
+    },
+    {
+      "word": "BULGARIAN",
+      "category": "slavic",
+      "difficulty": 2
+    },
+    {
+      "word": "ALBANIAN",
+      "category": "european",
+      "difficulty": 2
+    },
+    {
+      "word": "MACEDONIAN",
+      "category": "slavic",
+      "difficulty": 2
+    },
+    {
+      "word": "BELARUSIAN",
+      "category": "slavic",
+      "difficulty": 2
+    },
+    {
+      "word": "UKRAINIAN",
+      "category": "slavic",
+      "difficulty": 2
+    },
+    {
+      "word": "ARMENIAN",
+      "category": "armenian",
+      "difficulty": 2
+    },
+    {
+      "word": "GEORGIAN",
+      "category": "kartvelian",
+      "difficulty": 2
+    },
+    {
+      "word": "SINHALESE",
+      "category": "turkic",
+      "difficulty": 2
+    },
+    {
+      "word": "KAZAKH",
+      "category": "turkic",
+      "difficulty": 2
+    },
+    {
+      "word": "UZBEK",
+      "category": "turkic",
+      "difficulty": 2
+    },
+    {
+      "word": "KYRGYZ",
+      "category": "turkic",
+      "difficulty": 2
+    },
+    {
+      "word": "MONGOLIAN",
+      "category": "mongolic",
+      "difficulty": 2
+    },
+    {
+      "word": "JAPANESE",
+      "category": "asian",
+      "difficulty": 2
+    },
+    {
+      "word": "BURMESE",
+      "category": "asian",
+      "difficulty": 2
+    },
+    {
+      "word": "KHMER",
+      "category": "austroasiatic",
+      "difficulty": 2
+    },
+    {
+      "word": "VIETNAMESE",
+      "category": "austroasiatic",
+      "difficulty": 2
+    },
+    {
+      "word": "INDONESIAN",
+      "category": "austronesian",
+      "difficulty": 2
+    },
+    {
+      "word": "TAGALOG",
+      "category": "austronesian",
+      "difficulty": 2
+    },
+    {
+      "word": "JAVANESE",
+      "category": "austronesian",
+      "difficulty": 2
+    },
+    {
+      "word": "SUNDANESE",
+      "category": "austronesian",
+      "difficulty": 2
+    },
+    {
+      "word": "PORTUGUESE",
+      "category": "romance",
+      "difficulty": 2
+    },
+    {
+      "word": "CATALAN",
+      "category": "romance",
+      "difficulty": 2
+    },
+    {
+      "word": "BASQUE",
+      "category": "isolate",
+      "difficulty": 2
+    },
+    {
+      "word": "GALICIAN",
+      "category": "romance",
+      "difficulty": 2
+    },
+    {
+      "word": "ARAGONESE",
+      "category": "germanic",
+      "difficulty": 2
+    },
+    {
+      "word": "AFRIKAANS",
+      "category": "germanic",
+      "difficulty": 2
+    },
+    {
+      "word": "MANDARIN",
+      "category": "asian",
+      "difficulty": 3
+    },
+    {
+      "word": "CANTONESE",
+      "category": "asian",
+      "difficulty": 3
+    },
+    {
+      "word": "PROVENCAL",
+      "category": "asian",
+      "difficulty": 3
+    },
+    {
+      "word": "JAVANESE",
+      "category": "austronesian",
+      "difficulty": 3
+    },
+    {
+      "word": "PORTUGUESE",
+      "category": "romance",
+      "difficulty": 3
+    },
+    {
+      "word": "MALTESE",
+      "category": "semitic",
+      "difficulty": 3
+    },
+    {
+      "word": "ESPERANTO",
+      "category": "constructed",
+      "difficulty": 3
+    },
+    {
+      "word": "VOLAPUK",
+      "category": "constructed",
+      "difficulty": 3
+    },
+    {
+      "word": "ROMANSH",
+      "category": "romance",
+      "difficulty": 3
+    },
+    {
+      "word": "FAROESE",
+      "category": "germanic",
+      "difficulty": 3
+    },
+    {
+      "word": "FRISIAN",
+      "category": "germanic",
+      "difficulty": 3
+    },
+    {
+      "word": "CORNISH",
+      "category": "celtic",
+      "difficulty": 3
+    },
+    {
+      "word": "BRETON",
+      "category": "celtic",
+      "difficulty": 3
+    },
+    {
+      "word": "MANX",
+      "category": "celtic",
+      "difficulty": 3
+    },
+    {
+      "word": "SORBIAN",
+      "category": "slavic",
+      "difficulty": 3
+    },
+    {
+      "word": "KASHUBIAN",
+      "category": "slavic",
+      "difficulty": 3
+    },
+    {
+      "word": "LADINO",
+      "category": "romance",
+      "difficulty": 3
+    },
+    {
+      "word": "YIDDISH",
+      "category": "germanic",
+      "difficulty": 3
+    },
+    {
+      "word": "TIGRINYA",
+      "category": "semitic",
+      "difficulty": 3
+    },
+    {
+      "word": "DZONGKHA",
+      "category": "asian",
+      "difficulty": 3
+    }
+  ]
+}

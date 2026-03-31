@@ -1,0 +1,501 @@
+{
+  "theme": "humanbody",
+  "language": "en",
+  "words": [
+    {
+      "word": "ARM",
+      "category": "limb",
+      "difficulty": 1
+    },
+    {
+      "word": "RIB",
+      "category": "bone",
+      "difficulty": 1
+    },
+    {
+      "word": "EAR",
+      "category": "organ",
+      "difficulty": 1
+    },
+    {
+      "word": "EYE",
+      "category": "organ",
+      "difficulty": 1
+    },
+    {
+      "word": "HIP",
+      "category": "joint",
+      "difficulty": 1
+    },
+    {
+      "word": "JAW",
+      "category": "bone",
+      "difficulty": 1
+    },
+    {
+      "word": "LEG",
+      "category": "limb",
+      "difficulty": 1
+    },
+    {
+      "word": "LIP",
+      "category": "facial",
+      "difficulty": 1
+    },
+    {
+      "word": "TOE",
+      "category": "digit",
+      "difficulty": 1
+    },
+    {
+      "word": "GUM",
+      "category": "oral",
+      "difficulty": 1
+    },
+    {
+      "word": "BACK",
+      "category": "torso",
+      "difficulty": 1
+    },
+    {
+      "word": "BONE",
+      "category": "skeleton",
+      "difficulty": 1
+    },
+    {
+      "word": "CHIN",
+      "category": "facial",
+      "difficulty": 1
+    },
+    {
+      "word": "FOOT",
+      "category": "limb",
+      "difficulty": 1
+    },
+    {
+      "word": "HAIR",
+      "category": "skin",
+      "difficulty": 1
+    },
+    {
+      "word": "HAND",
+      "category": "limb",
+      "difficulty": 1
+    },
+    {
+      "word": "HEAD",
+      "category": "body",
+      "difficulty": 1
+    },
+    {
+      "word": "HEEL",
+      "category": "foot",
+      "difficulty": 1
+    },
+    {
+      "word": "KNEE",
+      "category": "joint",
+      "difficulty": 1
+    },
+    {
+      "word": "NAIL",
+      "category": "digit",
+      "difficulty": 1
+    },
+    {
+      "word": "NECK",
+      "category": "body",
+      "difficulty": 1
+    },
+    {
+      "word": "NOSE",
+      "category": "facial",
+      "difficulty": 1
+    },
+    {
+      "word": "SHIN",
+      "category": "limb",
+      "difficulty": 1
+    },
+    {
+      "word": "SKIN",
+      "category": "organ",
+      "difficulty": 1
+    },
+    {
+      "word": "VEIN",
+      "category": "circulatory",
+      "difficulty": 1
+    },
+    {
+      "word": "LUNG",
+      "category": "organ",
+      "difficulty": 1
+    },
+    {
+      "word": "PALM",
+      "category": "hand",
+      "difficulty": 1
+    },
+    {
+      "word": "BROW",
+      "category": "facial",
+      "difficulty": 1
+    },
+    {
+      "word": "CALF",
+      "category": "limb",
+      "difficulty": 1
+    },
+    {
+      "word": "PORE",
+      "category": "skin",
+      "difficulty": 1
+    },
+    {
+      "word": "LOIN",
+      "category": "torso",
+      "difficulty": 1
+    },
+    {
+      "word": "TORSO",
+      "category": "body",
+      "difficulty": 1
+    },
+    {
+      "word": "GROIN",
+      "category": "body",
+      "difficulty": 1
+    },
+    {
+      "word": "SCALP",
+      "category": "head",
+      "difficulty": 1
+    },
+    {
+      "word": "NAPE",
+      "category": "body",
+      "difficulty": 1
+    },
+    {
+      "word": "IRIS",
+      "category": "eye",
+      "difficulty": 1
+    },
+    {
+      "word": "LOBE",
+      "category": "ear",
+      "difficulty": 1
+    },
+    {
+      "word": "DUCT",
+      "category": "anatomy",
+      "difficulty": 1
+    },
+    {
+      "word": "AORTA",
+      "category": "circulatory",
+      "difficulty": 1
+    },
+    {
+      "word": "VEIN",
+      "category": "circulatory",
+      "difficulty": 1
+    },
+    {
+      "word": "ANKLE",
+      "category": "joint",
+      "difficulty": 2
+    },
+    {
+      "word": "BRAIN",
+      "category": "organ",
+      "difficulty": 2
+    },
+    {
+      "word": "CHEST",
+      "category": "torso",
+      "difficulty": 2
+    },
+    {
+      "word": "ELBOW",
+      "category": "joint",
+      "difficulty": 2
+    },
+    {
+      "word": "HEART",
+      "category": "organ",
+      "difficulty": 2
+    },
+    {
+      "word": "LIVER",
+      "category": "organ",
+      "difficulty": 2
+    },
+    {
+      "word": "SPINE",
+      "category": "skeleton",
+      "difficulty": 2
+    },
+    {
+      "word": "THUMB",
+      "category": "digit",
+      "difficulty": 2
+    },
+    {
+      "word": "WAIST",
+      "category": "torso",
+      "difficulty": 2
+    },
+    {
+      "word": "WRIST",
+      "category": "joint",
+      "difficulty": 2
+    },
+    {
+      "word": "FINGER",
+      "category": "digit",
+      "difficulty": 2
+    },
+    {
+      "word": "KIDNEY",
+      "category": "organ",
+      "difficulty": 2
+    },
+    {
+      "word": "MUSCLE",
+      "category": "tissue",
+      "difficulty": 2
+    },
+    {
+      "word": "PELVIS",
+      "category": "skeleton",
+      "difficulty": 2
+    },
+    {
+      "word": "TONSIL",
+      "category": "organ",
+      "difficulty": 2
+    },
+    {
+      "word": "TEMPLE",
+      "category": "facial",
+      "difficulty": 2
+    },
+    {
+      "word": "TONGUE",
+      "category": "oral",
+      "difficulty": 2
+    },
+    {
+      "word": "RETINA",
+      "category": "eye",
+      "difficulty": 2
+    },
+    {
+      "word": "TENDON",
+      "category": "tissue",
+      "difficulty": 2
+    },
+    {
+      "word": "ARTERY",
+      "category": "circulatory",
+      "difficulty": 2
+    },
+    {
+      "word": "CORNEA",
+      "category": "eye",
+      "difficulty": 2
+    },
+    {
+      "word": "LARYNX",
+      "category": "organ",
+      "difficulty": 2
+    },
+    {
+      "word": "BICEPS",
+      "category": "muscle",
+      "difficulty": 2
+    },
+    {
+      "word": "PLASMA",
+      "category": "blood",
+      "difficulty": 2
+    },
+    {
+      "word": "THYMUS",
+      "category": "organ",
+      "difficulty": 2
+    },
+    {
+      "word": "OVARY",
+      "category": "organ",
+      "difficulty": 2
+    },
+    {
+      "word": "BLADDER",
+      "category": "organ",
+      "difficulty": 2
+    },
+    {
+      "word": "FOREARM",
+      "category": "limb",
+      "difficulty": 2
+    },
+    {
+      "word": "NOSTRIL",
+      "category": "facial",
+      "difficulty": 2
+    },
+    {
+      "word": "STOMACH",
+      "category": "organ",
+      "difficulty": 2
+    },
+    {
+      "word": "EARDRUM",
+      "category": "ear",
+      "difficulty": 2
+    },
+    {
+      "word": "THYROID",
+      "category": "gland",
+      "difficulty": 2
+    },
+    {
+      "word": "TRACHEA",
+      "category": "organ",
+      "difficulty": 2
+    },
+    {
+      "word": "ABDOMEN",
+      "category": "torso",
+      "difficulty": 2
+    },
+    {
+      "word": "CAPILLARY",
+      "category": "circulatory",
+      "difficulty": 2
+    },
+    {
+      "word": "ESOPHAGUS",
+      "category": "organ",
+      "difficulty": 2
+    },
+    {
+      "word": "KNEECAP",
+      "category": "bone",
+      "difficulty": 2
+    },
+    {
+      "word": "FOREHEAD",
+      "category": "facial",
+      "difficulty": 2
+    },
+    {
+      "word": "COLLARBONE",
+      "category": "bone",
+      "difficulty": 2
+    },
+    {
+      "word": "SKELETON",
+      "category": "system",
+      "difficulty": 3
+    },
+    {
+      "word": "LIGAMENT",
+      "category": "tissue",
+      "difficulty": 3
+    },
+    {
+      "word": "PANCREAS",
+      "category": "organ",
+      "difficulty": 3
+    },
+    {
+      "word": "SHOULDER",
+      "category": "joint",
+      "difficulty": 3
+    },
+    {
+      "word": "CEREBELLUM",
+      "category": "brain",
+      "difficulty": 3
+    },
+    {
+      "word": "INTESTINE",
+      "category": "organ",
+      "difficulty": 3
+    },
+    {
+      "word": "VERTEBRAE",
+      "category": "skeleton",
+      "difficulty": 3
+    },
+    {
+      "word": "CARTILAGE",
+      "category": "tissue",
+      "difficulty": 3
+    },
+    {
+      "word": "APPENDIX",
+      "category": "organ",
+      "difficulty": 3
+    },
+    {
+      "word": "VEINS",
+      "category": "system",
+      "difficulty": 3
+    },
+    {
+      "word": "PULMONARY",
+      "category": "system",
+      "difficulty": 3
+    },
+    {
+      "word": "LYMPHATIC",
+      "category": "system",
+      "difficulty": 3
+    },
+    {
+      "word": "DIAPHRAGM",
+      "category": "muscle",
+      "difficulty": 3
+    },
+    {
+      "word": "CEREBRUM",
+      "category": "brain",
+      "difficulty": 3
+    },
+    {
+      "word": "MANDIBLE",
+      "category": "bone",
+      "difficulty": 3
+    },
+    {
+      "word": "PITUITARY",
+      "category": "gland",
+      "difficulty": 3
+    },
+    {
+      "word": "HEMISPHERE",
+      "category": "brain",
+      "difficulty": 3
+    },
+    {
+      "word": "BRAINSTEM",
+      "category": "brain",
+      "difficulty": 3
+    },
+    {
+      "word": "CHROMATIN",
+      "category": "genetics",
+      "difficulty": 3
+    },
+    {
+      "word": "APPENDAGE",
+      "category": "organ",
+      "difficulty": 3
+    }
+  ]
+}

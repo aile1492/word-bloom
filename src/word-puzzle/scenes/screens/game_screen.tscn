@@ -1,0 +1,221 @@
+[gd_scene load_steps=4 format=3 uid="uid://game_screen"]
+
+[ext_resource type="Script" path="res://scripts/ui/screens/game_screen.gd" id="1_script"]
+[ext_resource type="Script" path="res://scripts/game/grid_board.gd" id="2_grid_board"]
+[ext_resource type="Script" path="res://scripts/game/word_bank.gd" id="3_word_bank"]
+
+[node name="GameScreen" type="Control"]
+layout_mode = 3
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+script = ExtResource("1_script")
+
+[node name="Background" type="TextureRect" parent="."]
+unique_name_in_owner = true
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+expand_mode = 1
+stretch_mode = 6
+
+[node name="VBoxContainer" type="VBoxContainer" parent="."]
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+
+[node name="TopBar" type="PanelContainer" parent="VBoxContainer"]
+unique_name_in_owner = true
+layout_mode = 2
+custom_minimum_size = Vector2(0, 119)
+
+[node name="HBoxContainer" type="HBoxContainer" parent="VBoxContainer/TopBar"]
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+theme_override_constants/separation = 8
+
+[node name="LeftBtns" type="HBoxContainer" parent="VBoxContainer/TopBar/HBoxContainer"]
+layout_mode = 2
+size_flags_vertical = 4
+theme_override_constants/separation = 4
+
+[node name="BackButton" type="Button" parent="VBoxContainer/TopBar/HBoxContainer/LeftBtns"]
+unique_name_in_owner = true
+layout_mode = 2
+custom_minimum_size = Vector2(74, 74)
+text = "←"
+
+[node name="SettingsButton" type="Button" parent="VBoxContainer/TopBar/HBoxContainer/LeftBtns"]
+unique_name_in_owner = true
+layout_mode = 2
+custom_minimum_size = Vector2(74, 74)
+text = "⚙"
+
+[node name="LevelInfo" type="Control" parent="VBoxContainer/TopBar/HBoxContainer"]
+layout_mode = 2
+size_flags_horizontal = 3
+size_flags_vertical = 3
+
+[node name="StageLabel" type="Label" parent="VBoxContainer/TopBar/HBoxContainer/LevelInfo"]
+unique_name_in_owner = true
+layout_mode = 1
+anchor_left = 0.0
+anchor_right = 1.0
+anchor_top = 0.0
+anchor_bottom = 0.0
+offset_top = 120.0
+offset_bottom = 180.0
+text = "Stage 1"
+horizontal_alignment = 1
+theme_override_font_sizes/font_size = 24
+
+[node name="SolveRateLabel" type="Label" parent="VBoxContainer/TopBar/HBoxContainer/LevelInfo"]
+unique_name_in_owner = true
+layout_mode = 1
+anchor_left = 0.0
+anchor_right = 1.0
+anchor_top = 0.0
+anchor_bottom = 0.0
+offset_top = 120.0
+offset_bottom = 220.0
+text = "---"
+horizontal_alignment = 1
+theme_override_font_sizes/font_size = 13
+
+
+[node name="GridArea" type="Control" parent="VBoxContainer"]
+layout_mode = 2
+size_flags_vertical = 3
+clip_contents = false
+
+[node name="GridBoard" type="CenterContainer" parent="VBoxContainer/GridArea"]
+unique_name_in_owner = true
+layout_mode = 1
+anchor_right = 1.0
+anchor_bottom = 1.0
+script = ExtResource("2_grid_board")
+
+[node name="GridContainer" type="GridContainer" parent="VBoxContainer/GridArea/GridBoard"]
+unique_name_in_owner = true
+layout_mode = 2
+
+[node name="ThemeBanner" type="PanelContainer" parent="VBoxContainer/GridArea"]
+unique_name_in_owner = true
+layout_mode = 1
+anchor_right = 1.0
+custom_minimum_size = Vector2(0, 52)
+
+[node name="ThemeLabel" type="Label" parent="VBoxContainer/GridArea/ThemeBanner"]
+unique_name_in_owner = true
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+text = "Theme"
+horizontal_alignment = 1
+vertical_alignment = 1
+theme_override_font_sizes/font_size = 20
+
+[node name="WordBankPanel" type="PanelContainer" parent="VBoxContainer/GridArea"]
+unique_name_in_owner = true
+layout_mode = 1
+anchor_right = 1.0
+custom_minimum_size = Vector2(0, 88)
+clip_contents = true
+
+[node name="CenterContainer" type="CenterContainer" parent="VBoxContainer/GridArea/WordBankPanel"]
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+
+[node name="WordBank" type="GridContainer" parent="VBoxContainer/GridArea/WordBankPanel/CenterContainer"]
+unique_name_in_owner = true
+layout_mode = 2
+columns = 3
+theme_override_constants/h_separation = 16
+theme_override_constants/v_separation = 8
+script = ExtResource("3_word_bank")
+
+[node name="BottomActionBar" type="PanelContainer" parent="VBoxContainer/GridArea"]
+unique_name_in_owner = true
+layout_mode = 1
+anchor_right = 1.0
+
+[node name="BtnContainer" type="Control" parent="VBoxContainer/GridArea/BottomActionBar"]
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+
+[node name="DailyButton" type="Button" parent="VBoxContainer/GridArea/BottomActionBar/BtnContainer"]
+unique_name_in_owner = true
+layout_mode = 1
+custom_minimum_size = Vector2(84, 84)
+disabled = true
+visible = false
+
+[node name="TaskButton" type="Button" parent="VBoxContainer/GridArea/BottomActionBar/BtnContainer"]
+unique_name_in_owner = true
+layout_mode = 1
+custom_minimum_size = Vector2(84, 84)
+disabled = true
+visible = false
+
+[node name="GiftButton" type="Button" parent="VBoxContainer/GridArea/BottomActionBar/BtnContainer"]
+unique_name_in_owner = true
+layout_mode = 1
+custom_minimum_size = Vector2(84, 84)
+disabled = true
+visible = false
+
+[node name="ShuffleButton" type="Button" parent="VBoxContainer/GridArea/BottomActionBar/BtnContainer"]
+unique_name_in_owner = true
+layout_mode = 1
+custom_minimum_size = Vector2(84, 84)
+disabled = true
+visible = false
+
+[node name="PowerHintButton" type="Button" parent="VBoxContainer/GridArea/BottomActionBar/BtnContainer"]
+unique_name_in_owner = true
+layout_mode = 1
+custom_minimum_size = Vector2(84, 84)
+text = "Reveal
+×1"
+
+[node name="HintButton" type="Button" parent="VBoxContainer/GridArea/BottomActionBar/BtnContainer"]
+unique_name_in_owner = true
+layout_mode = 1
+custom_minimum_size = Vector2(84, 84)
+text = "Hint
+×3"
+
+[node name="AdBanner" type="PanelContainer" parent="."]
+unique_name_in_owner = true
+layout_mode = 1
+anchor_left = 0.0
+anchor_right = 1.0
+anchor_top = 1.0
+anchor_bottom = 1.0
+offset_top = -119.0
+offset_bottom = 0.0
+
+[node name="AdLabel" type="Label" parent="AdBanner"]
+unique_name_in_owner = true
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+text = "[ Ad Area ]"
+horizontal_alignment = 1
+vertical_alignment = 1

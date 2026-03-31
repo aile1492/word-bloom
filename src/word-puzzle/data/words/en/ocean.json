@@ -1,0 +1,501 @@
+{
+  "theme": "ocean",
+  "language": "en",
+  "words": [
+    {
+      "word": "SEA",
+      "category": "water",
+      "difficulty": 1
+    },
+    {
+      "word": "BAY",
+      "category": "geography",
+      "difficulty": 1
+    },
+    {
+      "word": "COD",
+      "category": "fish",
+      "difficulty": 1
+    },
+    {
+      "word": "EEL",
+      "category": "fish",
+      "difficulty": 1
+    },
+    {
+      "word": "RAY",
+      "category": "fish",
+      "difficulty": 1
+    },
+    {
+      "word": "NET",
+      "category": "vessel",
+      "difficulty": 1
+    },
+    {
+      "word": "OAR",
+      "category": "vessel",
+      "difficulty": 1
+    },
+    {
+      "word": "WAVE",
+      "category": "water",
+      "difficulty": 1
+    },
+    {
+      "word": "TIDE",
+      "category": "water",
+      "difficulty": 1
+    },
+    {
+      "word": "REEF",
+      "category": "structure",
+      "difficulty": 1
+    },
+    {
+      "word": "KELP",
+      "category": "plant",
+      "difficulty": 1
+    },
+    {
+      "word": "CRAB",
+      "category": "crustacean",
+      "difficulty": 1
+    },
+    {
+      "word": "CLAM",
+      "category": "mollusk",
+      "difficulty": 1
+    },
+    {
+      "word": "SQUID",
+      "category": "mollusk",
+      "difficulty": 1
+    },
+    {
+      "word": "TUNA",
+      "category": "fish",
+      "difficulty": 1
+    },
+    {
+      "word": "BUOY",
+      "category": "vessel",
+      "difficulty": 1
+    },
+    {
+      "word": "ABYSS",
+      "category": "geography",
+      "difficulty": 1
+    },
+    {
+      "word": "COAST",
+      "category": "geography",
+      "difficulty": 1
+    },
+    {
+      "word": "SHORE",
+      "category": "geography",
+      "difficulty": 1
+    },
+    {
+      "word": "CORAL",
+      "category": "organism",
+      "difficulty": 1
+    },
+    {
+      "word": "SHARK",
+      "category": "fish",
+      "difficulty": 1
+    },
+    {
+      "word": "WHALE",
+      "category": "mammal",
+      "difficulty": 1
+    },
+    {
+      "word": "BRINE",
+      "category": "water",
+      "difficulty": 1
+    },
+    {
+      "word": "DRIFT",
+      "category": "water",
+      "difficulty": 1
+    },
+    {
+      "word": "ALGAE",
+      "category": "plant",
+      "difficulty": 1
+    },
+    {
+      "word": "SPAWN",
+      "category": "concept",
+      "difficulty": 1
+    },
+    {
+      "word": "SWIRL",
+      "category": "water",
+      "difficulty": 1
+    },
+    {
+      "word": "BASIN",
+      "category": "geography",
+      "difficulty": 1
+    },
+    {
+      "word": "BREAM",
+      "category": "fish",
+      "difficulty": 1
+    },
+    {
+      "word": "SPRAT",
+      "category": "fish",
+      "difficulty": 1
+    },
+    {
+      "word": "PRAWN",
+      "category": "crustacean",
+      "difficulty": 1
+    },
+    {
+      "word": "PERCH",
+      "category": "fish",
+      "difficulty": 1
+    },
+    {
+      "word": "CONCH",
+      "category": "mollusk",
+      "difficulty": 1
+    },
+    {
+      "word": "TROUT",
+      "category": "fish",
+      "difficulty": 1
+    },
+    {
+      "word": "ATOLL",
+      "category": "geography",
+      "difficulty": 1
+    },
+    {
+      "word": "INLET",
+      "category": "geography",
+      "difficulty": 1
+    },
+    {
+      "word": "SURGE",
+      "category": "water",
+      "difficulty": 1
+    },
+    {
+      "word": "EDDY",
+      "category": "water",
+      "difficulty": 1
+    },
+    {
+      "word": "CREST",
+      "category": "water",
+      "difficulty": 1
+    },
+    {
+      "word": "SHRIMP",
+      "category": "crustacean",
+      "difficulty": 1
+    },
+    {
+      "word": "OYSTER",
+      "category": "mollusk",
+      "difficulty": 2
+    },
+    {
+      "word": "TRENCH",
+      "category": "geography",
+      "difficulty": 2
+    },
+    {
+      "word": "ISLAND",
+      "category": "geography",
+      "difficulty": 2
+    },
+    {
+      "word": "ANCHOR",
+      "category": "vessel",
+      "difficulty": 2
+    },
+    {
+      "word": "VESSEL",
+      "category": "vessel",
+      "difficulty": 2
+    },
+    {
+      "word": "SALMON",
+      "category": "fish",
+      "difficulty": 2
+    },
+    {
+      "word": "LAGOON",
+      "category": "geography",
+      "difficulty": 2
+    },
+    {
+      "word": "DOLPHIN",
+      "category": "mammal",
+      "difficulty": 2
+    },
+    {
+      "word": "LOBSTER",
+      "category": "crustacean",
+      "difficulty": 2
+    },
+    {
+      "word": "OCTOPUS",
+      "category": "mollusk",
+      "difficulty": 2
+    },
+    {
+      "word": "SEAWEED",
+      "category": "plant",
+      "difficulty": 2
+    },
+    {
+      "word": "CURRENT",
+      "category": "water",
+      "difficulty": 2
+    },
+    {
+      "word": "SEAGULL",
+      "category": "bird",
+      "difficulty": 2
+    },
+    {
+      "word": "PELICAN",
+      "category": "bird",
+      "difficulty": 2
+    },
+    {
+      "word": "TSUNAMI",
+      "category": "event",
+      "difficulty": 2
+    },
+    {
+      "word": "HERRING",
+      "category": "fish",
+      "difficulty": 2
+    },
+    {
+      "word": "SARDINE",
+      "category": "fish",
+      "difficulty": 2
+    },
+    {
+      "word": "ABALONE",
+      "category": "mollusk",
+      "difficulty": 2
+    },
+    {
+      "word": "NARWHAL",
+      "category": "mammal",
+      "difficulty": 2
+    },
+    {
+      "word": "FLOTSAM",
+      "category": "concept",
+      "difficulty": 2
+    },
+    {
+      "word": "NAUTILE",
+      "category": "mollusk",
+      "difficulty": 2
+    },
+    {
+      "word": "MANATEE",
+      "category": "mammal",
+      "difficulty": 2
+    },
+    {
+      "word": "ESTUARY",
+      "category": "geography",
+      "difficulty": 2
+    },
+    {
+      "word": "RIPTIDE",
+      "category": "water",
+      "difficulty": 2
+    },
+    {
+      "word": "CAPTAIN",
+      "category": "vessel",
+      "difficulty": 2
+    },
+    {
+      "word": "COMPASS",
+      "category": "vessel",
+      "difficulty": 2
+    },
+    {
+      "word": "SEASTAR",
+      "category": "organism",
+      "difficulty": 2
+    },
+    {
+      "word": "HALIBUT",
+      "category": "fish",
+      "difficulty": 2
+    },
+    {
+      "word": "SEAHORSE",
+      "category": "fish",
+      "difficulty": 2
+    },
+    {
+      "word": "STARFISH",
+      "category": "organism",
+      "difficulty": 2
+    },
+    {
+      "word": "PLANKTON",
+      "category": "organism",
+      "difficulty": 2
+    },
+    {
+      "word": "STINGRAY",
+      "category": "fish",
+      "difficulty": 2
+    },
+    {
+      "word": "NAUTILUS",
+      "category": "mollusk",
+      "difficulty": 2
+    },
+    {
+      "word": "BARNACLE",
+      "category": "crustacean",
+      "difficulty": 2
+    },
+    {
+      "word": "SEAGRASS",
+      "category": "plant",
+      "difficulty": 2
+    },
+    {
+      "word": "TENTACLE",
+      "category": "concept",
+      "difficulty": 2
+    },
+    {
+      "word": "WHIRLPOOL",
+      "category": "water",
+      "difficulty": 2
+    },
+    {
+      "word": "SHIPWRECK",
+      "category": "vessel",
+      "difficulty": 2
+    },
+    {
+      "word": "SUBMARINE",
+      "category": "vessel",
+      "difficulty": 2
+    },
+    {
+      "word": "JELLYFISH",
+      "category": "organism",
+      "difficulty": 3
+    },
+    {
+      "word": "HAMMERHEAD",
+      "category": "fish",
+      "difficulty": 3
+    },
+    {
+      "word": "BARRACUDA",
+      "category": "fish",
+      "difficulty": 3
+    },
+    {
+      "word": "CUTTLEFISH",
+      "category": "mollusk",
+      "difficulty": 3
+    },
+    {
+      "word": "ANGLERFISH",
+      "category": "fish",
+      "difficulty": 3
+    },
+    {
+      "word": "SWORDFISH",
+      "category": "fish",
+      "difficulty": 3
+    },
+    {
+      "word": "PORTUGUESE",
+      "category": "organism",
+      "difficulty": 3
+    },
+    {
+      "word": "PENINSULA",
+      "category": "geography",
+      "difficulty": 3
+    },
+    {
+      "word": "PHOSPHORUS",
+      "category": "concept",
+      "difficulty": 3
+    },
+    {
+      "word": "HALOCLINE",
+      "category": "concept",
+      "difficulty": 3
+    },
+    {
+      "word": "TIDEWATER",
+      "category": "geography",
+      "difficulty": 3
+    },
+    {
+      "word": "SEAHORSES",
+      "category": "fish",
+      "difficulty": 3
+    },
+    {
+      "word": "BOTTLENOSE",
+      "category": "mammal",
+      "difficulty": 3
+    },
+    {
+      "word": "CLOWNFISH",
+      "category": "fish",
+      "difficulty": 3
+    },
+    {
+      "word": "SPERMWHALE",
+      "category": "mammal",
+      "difficulty": 3
+    },
+    {
+      "word": "ALBATROSS",
+      "category": "bird",
+      "difficulty": 3
+    },
+    {
+      "word": "MAELSTROM",
+      "category": "water",
+      "difficulty": 3
+    },
+    {
+      "word": "HYDROGRAPH",
+      "category": "concept",
+      "difficulty": 3
+    },
+    {
+      "word": "PHOSPHENES",
+      "category": "concept",
+      "difficulty": 3
+    },
+    {
+      "word": "PLESIOSAUR",
+      "category": "organism",
+      "difficulty": 3
+    }
+  ]
+}

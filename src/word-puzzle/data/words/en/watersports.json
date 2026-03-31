@@ -1,0 +1,506 @@
+{
+  "theme": "watersports",
+  "language": "en",
+  "words": [
+    {
+      "word": "ROW",
+      "category": "rowing",
+      "difficulty": 1
+    },
+    {
+      "word": "OAR",
+      "category": "equipment",
+      "difficulty": 1
+    },
+    {
+      "word": "FIN",
+      "category": "equipment",
+      "difficulty": 1
+    },
+    {
+      "word": "NET",
+      "category": "equipment",
+      "difficulty": 1
+    },
+    {
+      "word": "DIVE",
+      "category": "diving",
+      "difficulty": 1
+    },
+    {
+      "word": "SURF",
+      "category": "surfing",
+      "difficulty": 1
+    },
+    {
+      "word": "SWIM",
+      "category": "swimming",
+      "difficulty": 1
+    },
+    {
+      "word": "WAVE",
+      "category": "concept",
+      "difficulty": 1
+    },
+    {
+      "word": "WAKE",
+      "category": "concept",
+      "difficulty": 1
+    },
+    {
+      "word": "REEF",
+      "category": "geography",
+      "difficulty": 1
+    },
+    {
+      "word": "BUOY",
+      "category": "equipment",
+      "difficulty": 1
+    },
+    {
+      "word": "TIDE",
+      "category": "concept",
+      "difficulty": 1
+    },
+    {
+      "word": "MAST",
+      "category": "sailing",
+      "difficulty": 1
+    },
+    {
+      "word": "SAIL",
+      "category": "sailing",
+      "difficulty": 1
+    },
+    {
+      "word": "HULL",
+      "category": "vessel",
+      "difficulty": 1
+    },
+    {
+      "word": "KEEL",
+      "category": "vessel",
+      "difficulty": 1
+    },
+    {
+      "word": "HELM",
+      "category": "vessel",
+      "difficulty": 1
+    },
+    {
+      "word": "DECK",
+      "category": "vessel",
+      "difficulty": 1
+    },
+    {
+      "word": "CREW",
+      "category": "concept",
+      "difficulty": 1
+    },
+    {
+      "word": "POOL",
+      "category": "facility",
+      "difficulty": 1
+    },
+    {
+      "word": "LANE",
+      "category": "swimming",
+      "difficulty": 1
+    },
+    {
+      "word": "FLIP",
+      "category": "swimming",
+      "difficulty": 1
+    },
+    {
+      "word": "TUCK",
+      "category": "diving",
+      "difficulty": 1
+    },
+    {
+      "word": "PIKE",
+      "category": "diving",
+      "difficulty": 1
+    },
+    {
+      "word": "SPLASH",
+      "category": "concept",
+      "difficulty": 1
+    },
+    {
+      "word": "GLIDE",
+      "category": "concept",
+      "difficulty": 1
+    },
+    {
+      "word": "STROKE",
+      "category": "swimming",
+      "difficulty": 1
+    },
+    {
+      "word": "PADDLE",
+      "category": "equipment",
+      "difficulty": 1
+    },
+    {
+      "word": "KAYAK",
+      "category": "kayaking",
+      "difficulty": 1
+    },
+    {
+      "word": "CANOE",
+      "category": "canoeing",
+      "difficulty": 1
+    },
+    {
+      "word": "RAFT",
+      "category": "rafting",
+      "difficulty": 1
+    },
+    {
+      "word": "FLOAT",
+      "category": "concept",
+      "difficulty": 1
+    },
+    {
+      "word": "SPRINT",
+      "category": "swimming",
+      "difficulty": 1
+    },
+    {
+      "word": "SIDESTROKE",
+      "category": "swimming",
+      "difficulty": 1
+    },
+    {
+      "word": "BACKSTROKE",
+      "category": "swimming",
+      "difficulty": 1
+    },
+    {
+      "word": "BUTTERFLY",
+      "category": "swimming",
+      "difficulty": 1
+    },
+    {
+      "word": "FREESTYLE",
+      "category": "swimming",
+      "difficulty": 1
+    },
+    {
+      "word": "MEDLEY",
+      "category": "swimming",
+      "difficulty": 1
+    },
+    {
+      "word": "TRIATHLON",
+      "category": "endurance",
+      "difficulty": 1
+    },
+    {
+      "word": "ROWING",
+      "category": "rowing",
+      "difficulty": 1
+    },
+    {
+      "word": "SAILING",
+      "category": "sailing",
+      "difficulty": 2
+    },
+    {
+      "word": "SURFING",
+      "category": "surfing",
+      "difficulty": 2
+    },
+    {
+      "word": "DIVING",
+      "category": "diving",
+      "difficulty": 2
+    },
+    {
+      "word": "SNORKEL",
+      "category": "diving",
+      "difficulty": 2
+    },
+    {
+      "word": "SCUBA",
+      "category": "diving",
+      "difficulty": 2
+    },
+    {
+      "word": "REGATTA",
+      "category": "sailing",
+      "difficulty": 2
+    },
+    {
+      "word": "LONGBOARD",
+      "category": "surfing",
+      "difficulty": 2
+    },
+    {
+      "word": "SHORTBOARD",
+      "category": "surfing",
+      "difficulty": 2
+    },
+    {
+      "word": "BODYBOARD",
+      "category": "surfing",
+      "difficulty": 2
+    },
+    {
+      "word": "WAKEBOARD",
+      "category": "surfing",
+      "difficulty": 2
+    },
+    {
+      "word": "WATERSKI",
+      "category": "skiing",
+      "difficulty": 2
+    },
+    {
+      "word": "SLALOM",
+      "category": "skiing",
+      "difficulty": 2
+    },
+    {
+      "word": "MOGULS",
+      "category": "skiing",
+      "difficulty": 2
+    },
+    {
+      "word": "DRYSUITE",
+      "category": "diving",
+      "difficulty": 2
+    },
+    {
+      "word": "WETSUIT",
+      "category": "diving",
+      "difficulty": 2
+    },
+    {
+      "word": "FLIPPERS",
+      "category": "equipment",
+      "difficulty": 2
+    },
+    {
+      "word": "GOGGLES",
+      "category": "equipment",
+      "difficulty": 2
+    },
+    {
+      "word": "SWIMCAP",
+      "category": "equipment",
+      "difficulty": 2
+    },
+    {
+      "word": "LIFEGUARD",
+      "category": "concept",
+      "difficulty": 2
+    },
+    {
+      "word": "LIFEJACKET",
+      "category": "equipment",
+      "difficulty": 2
+    },
+    {
+      "word": "JETSKI",
+      "category": "motorized",
+      "difficulty": 2
+    },
+    {
+      "word": "MOTORBOAT",
+      "category": "motorized",
+      "difficulty": 2
+    },
+    {
+      "word": "POWERBOAT",
+      "category": "motorized",
+      "difficulty": 2
+    },
+    {
+      "word": "SPEEDBOAT",
+      "category": "motorized",
+      "difficulty": 2
+    },
+    {
+      "word": "CATAMARAN",
+      "category": "sailing",
+      "difficulty": 2
+    },
+    {
+      "word": "TRIMARAN",
+      "category": "sailing",
+      "difficulty": 2
+    },
+    {
+      "word": "DINGHY",
+      "category": "sailing",
+      "difficulty": 2
+    },
+    {
+      "word": "SLOOP",
+      "category": "sailing",
+      "difficulty": 2
+    },
+    {
+      "word": "YAWL",
+      "category": "sailing",
+      "difficulty": 2
+    },
+    {
+      "word": "KETCH",
+      "category": "sailing",
+      "difficulty": 2
+    },
+    {
+      "word": "SCULL",
+      "category": "rowing",
+      "difficulty": 2
+    },
+    {
+      "word": "SINGLE",
+      "category": "rowing",
+      "difficulty": 2
+    },
+    {
+      "word": "COXSWAIN",
+      "category": "rowing",
+      "difficulty": 2
+    },
+    {
+      "word": "EIGHTS",
+      "category": "rowing",
+      "difficulty": 2
+    },
+    {
+      "word": "FOURS",
+      "category": "rowing",
+      "difficulty": 2
+    },
+    {
+      "word": "PAIRS",
+      "category": "rowing",
+      "difficulty": 2
+    },
+    {
+      "word": "SWEEP",
+      "category": "rowing",
+      "difficulty": 2
+    },
+    {
+      "word": "SCULLING",
+      "category": "rowing",
+      "difficulty": 2
+    },
+    {
+      "word": "CATCH",
+      "category": "rowing",
+      "difficulty": 2
+    },
+    {
+      "word": "FINISH",
+      "category": "rowing",
+      "difficulty": 2
+    },
+    {
+      "word": "WATERPOLO",
+      "category": "team",
+      "difficulty": 3
+    },
+    {
+      "word": "SWIMMING",
+      "category": "swimming",
+      "difficulty": 3
+    },
+    {
+      "word": "WINDSURFER",
+      "category": "surfing",
+      "difficulty": 3
+    },
+    {
+      "word": "KITEBOARD",
+      "category": "surfing",
+      "difficulty": 3
+    },
+    {
+      "word": "SKYDIVING",
+      "category": "surfing",
+      "difficulty": 3
+    },
+    {
+      "word": "KNEEBOARD",
+      "category": "surfing",
+      "difficulty": 3
+    },
+    {
+      "word": "BOARDSAIL",
+      "category": "surfing",
+      "difficulty": 3
+    },
+    {
+      "word": "WHITEWATER",
+      "category": "rafting",
+      "difficulty": 3
+    },
+    {
+      "word": "FORMATION",
+      "category": "swimming",
+      "difficulty": 3
+    },
+    {
+      "word": "FREEDIVING",
+      "category": "diving",
+      "difficulty": 3
+    },
+    {
+      "word": "OPENWATER",
+      "category": "swimming",
+      "difficulty": 3
+    },
+    {
+      "word": "ENDURANCE",
+      "category": "swimming",
+      "difficulty": 3
+    },
+    {
+      "word": "QUALIFIER",
+      "category": "concept",
+      "difficulty": 3
+    },
+    {
+      "word": "SEMIFINAL",
+      "category": "concept",
+      "difficulty": 3
+    },
+    {
+      "word": "LIFESAVING",
+      "category": "concept",
+      "difficulty": 3
+    },
+    {
+      "word": "OCEANSWIM",
+      "category": "swimming",
+      "difficulty": 3
+    },
+    {
+      "word": "UNDERWATER",
+      "category": "diving",
+      "difficulty": 3
+    },
+    {
+      "word": "SCUBADIVE",
+      "category": "diving",
+      "difficulty": 3
+    },
+    {
+      "word": "SNORKELING",
+      "category": "diving",
+      "difficulty": 3
+    },
+    {
+      "word": "BODYWAVES",
+      "category": "surfing",
+      "difficulty": 3
+    }
+  ]
+}

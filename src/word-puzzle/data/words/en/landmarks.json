@@ -1,0 +1,506 @@
+{
+  "theme": "landmarks",
+  "language": "en",
+  "words": [
+    {
+      "word": "ARCH",
+      "category": "structure",
+      "difficulty": 1
+    },
+    {
+      "word": "RUIN",
+      "category": "structure",
+      "difficulty": 1
+    },
+    {
+      "word": "FORT",
+      "category": "structure",
+      "difficulty": 1
+    },
+    {
+      "word": "GATE",
+      "category": "structure",
+      "difficulty": 1
+    },
+    {
+      "word": "WALL",
+      "category": "structure",
+      "difficulty": 1
+    },
+    {
+      "word": "DOME",
+      "category": "structure",
+      "difficulty": 1
+    },
+    {
+      "word": "TOMB",
+      "category": "structure",
+      "difficulty": 1
+    },
+    {
+      "word": "SPHINX",
+      "category": "egypt",
+      "difficulty": 1
+    },
+    {
+      "word": "ACROPOLIS",
+      "category": "greece",
+      "difficulty": 1
+    },
+    {
+      "word": "COLOSSEUM",
+      "category": "italy",
+      "difficulty": 1
+    },
+    {
+      "word": "TOWER",
+      "category": "structure",
+      "difficulty": 1
+    },
+    {
+      "word": "BRIDGE",
+      "category": "structure",
+      "difficulty": 1
+    },
+    {
+      "word": "CASTLE",
+      "category": "structure",
+      "difficulty": 1
+    },
+    {
+      "word": "PALACE",
+      "category": "structure",
+      "difficulty": 1
+    },
+    {
+      "word": "TEMPLE",
+      "category": "structure",
+      "difficulty": 1
+    },
+    {
+      "word": "STATUE",
+      "category": "monument",
+      "difficulty": 1
+    },
+    {
+      "word": "OBELISK",
+      "category": "monument",
+      "difficulty": 1
+    },
+    {
+      "word": "PYRAMID",
+      "category": "egypt",
+      "difficulty": 1
+    },
+    {
+      "word": "STUPA",
+      "category": "religious",
+      "difficulty": 1
+    },
+    {
+      "word": "MOSQUE",
+      "category": "religious",
+      "difficulty": 1
+    },
+    {
+      "word": "CHURCH",
+      "category": "religious",
+      "difficulty": 1
+    },
+    {
+      "word": "CHAPEL",
+      "category": "religious",
+      "difficulty": 1
+    },
+    {
+      "word": "SHRINE",
+      "category": "religious",
+      "difficulty": 1
+    },
+    {
+      "word": "PAGODA",
+      "category": "religious",
+      "difficulty": 1
+    },
+    {
+      "word": "MINARET",
+      "category": "religious",
+      "difficulty": 1
+    },
+    {
+      "word": "CANYON",
+      "category": "natural",
+      "difficulty": 1
+    },
+    {
+      "word": "FJORD",
+      "category": "natural",
+      "difficulty": 1
+    },
+    {
+      "word": "LAKE",
+      "category": "natural",
+      "difficulty": 1
+    },
+    {
+      "word": "FALLS",
+      "category": "natural",
+      "difficulty": 1
+    },
+    {
+      "word": "DESERT",
+      "category": "natural",
+      "difficulty": 1
+    },
+    {
+      "word": "REEF",
+      "category": "natural",
+      "difficulty": 1
+    },
+    {
+      "word": "ISLAND",
+      "category": "natural",
+      "difficulty": 1
+    },
+    {
+      "word": "VOLCANO",
+      "category": "natural",
+      "difficulty": 1
+    },
+    {
+      "word": "CRATER",
+      "category": "natural",
+      "difficulty": 1
+    },
+    {
+      "word": "GLACIER",
+      "category": "natural",
+      "difficulty": 1
+    },
+    {
+      "word": "GEYSER",
+      "category": "natural",
+      "difficulty": 1
+    },
+    {
+      "word": "GORGE",
+      "category": "natural",
+      "difficulty": 1
+    },
+    {
+      "word": "DELTA",
+      "category": "natural",
+      "difficulty": 1
+    },
+    {
+      "word": "ATOLL",
+      "category": "natural",
+      "difficulty": 1
+    },
+    {
+      "word": "PLAZA",
+      "category": "structure",
+      "difficulty": 1
+    },
+    {
+      "word": "FORUM",
+      "category": "historical",
+      "difficulty": 2
+    },
+    {
+      "word": "PARTHENON",
+      "category": "greece",
+      "difficulty": 2
+    },
+    {
+      "word": "PANTHEON",
+      "category": "italy",
+      "difficulty": 2
+    },
+    {
+      "word": "ALHAMBRA",
+      "category": "spain",
+      "difficulty": 2
+    },
+    {
+      "word": "KREMLIN",
+      "category": "russia",
+      "difficulty": 2
+    },
+    {
+      "word": "VERSAILLES",
+      "category": "france",
+      "difficulty": 2
+    },
+    {
+      "word": "LOUVRE",
+      "category": "france",
+      "difficulty": 2
+    },
+    {
+      "word": "SAGRADA",
+      "category": "spain",
+      "difficulty": 2
+    },
+    {
+      "word": "FORBIDDEN",
+      "category": "china",
+      "difficulty": 2
+    },
+    {
+      "word": "COLISEUM",
+      "category": "italy",
+      "difficulty": 2
+    },
+    {
+      "word": "AQUEDUCT",
+      "category": "historical",
+      "difficulty": 2
+    },
+    {
+      "word": "ODEUM",
+      "category": "historical",
+      "difficulty": 2
+    },
+    {
+      "word": "BASILICA",
+      "category": "religious",
+      "difficulty": 2
+    },
+    {
+      "word": "CATHEDRAL",
+      "category": "religious",
+      "difficulty": 2
+    },
+    {
+      "word": "MONASTERY",
+      "category": "religious",
+      "difficulty": 2
+    },
+    {
+      "word": "MAUSOLEUM",
+      "category": "monument",
+      "difficulty": 2
+    },
+    {
+      "word": "COLONNADES",
+      "category": "structure",
+      "difficulty": 2
+    },
+    {
+      "word": "RAMPARTS",
+      "category": "structure",
+      "difficulty": 2
+    },
+    {
+      "word": "CITADEL",
+      "category": "structure",
+      "difficulty": 2
+    },
+    {
+      "word": "FORTRESS",
+      "category": "structure",
+      "difficulty": 2
+    },
+    {
+      "word": "RAMPART",
+      "category": "structure",
+      "difficulty": 2
+    },
+    {
+      "word": "LIGHTHOUSE",
+      "category": "structure",
+      "difficulty": 2
+    },
+    {
+      "word": "AQUEDUCTS",
+      "category": "historical",
+      "difficulty": 2
+    },
+    {
+      "word": "MEGALITHS",
+      "category": "historical",
+      "difficulty": 2
+    },
+    {
+      "word": "DOLMEN",
+      "category": "historical",
+      "difficulty": 2
+    },
+    {
+      "word": "STANDING",
+      "category": "historical",
+      "difficulty": 2
+    },
+    {
+      "word": "MENHIR",
+      "category": "historical",
+      "difficulty": 2
+    },
+    {
+      "word": "GEOGLYPHS",
+      "category": "historical",
+      "difficulty": 2
+    },
+    {
+      "word": "PETROGLYPH",
+      "category": "historical",
+      "difficulty": 2
+    },
+    {
+      "word": "HIEROGLYPH",
+      "category": "historical",
+      "difficulty": 2
+    },
+    {
+      "word": "CUNEIFORM",
+      "category": "historical",
+      "difficulty": 2
+    },
+    {
+      "word": "ENGRAVING",
+      "category": "historical",
+      "difficulty": 2
+    },
+    {
+      "word": "EXCAVATION",
+      "category": "historical",
+      "difficulty": 2
+    },
+    {
+      "word": "ARTIFACT",
+      "category": "historical",
+      "difficulty": 2
+    },
+    {
+      "word": "CATACOMB",
+      "category": "egypt",
+      "difficulty": 2
+    },
+    {
+      "word": "CATACOMBS",
+      "category": "historical",
+      "difficulty": 2
+    },
+    {
+      "word": "NECROPOLIS",
+      "category": "historical",
+      "difficulty": 2
+    },
+    {
+      "word": "MENHIRS",
+      "category": "historical",
+      "difficulty": 2
+    },
+    {
+      "word": "LABYRINTHS",
+      "category": "historical",
+      "difficulty": 2
+    },
+    {
+      "word": "CLOISTER",
+      "category": "religious",
+      "difficulty": 2
+    },
+    {
+      "word": "STONEHENGE",
+      "category": "england",
+      "difficulty": 3
+    },
+    {
+      "word": "COLOSSEUM",
+      "category": "italy",
+      "difficulty": 3
+    },
+    {
+      "word": "MACHU",
+      "category": "peru",
+      "difficulty": 3
+    },
+    {
+      "word": "ANGKORWAT",
+      "category": "cambodia",
+      "difficulty": 3
+    },
+    {
+      "word": "TAJMAHAL",
+      "category": "india",
+      "difficulty": 3
+    },
+    {
+      "word": "CHICHEN",
+      "category": "mexico",
+      "difficulty": 3
+    },
+    {
+      "word": "PETRA",
+      "category": "jordan",
+      "difficulty": 3
+    },
+    {
+      "word": "OLYMPIA",
+      "category": "greece",
+      "difficulty": 3
+    },
+    {
+      "word": "HIPPODROME",
+      "category": "italy",
+      "difficulty": 3
+    },
+    {
+      "word": "EIFELTOWER",
+      "category": "france",
+      "difficulty": 3
+    },
+    {
+      "word": "GATEWAY",
+      "category": "germany",
+      "difficulty": 3
+    },
+    {
+      "word": "BENEZET",
+      "category": "france",
+      "difficulty": 3
+    },
+    {
+      "word": "SCHLOSS",
+      "category": "germany",
+      "difficulty": 3
+    },
+    {
+      "word": "POTALA",
+      "category": "tibet",
+      "difficulty": 3
+    },
+    {
+      "word": "BOROBUDUR",
+      "category": "indonesia",
+      "difficulty": 3
+    },
+    {
+      "word": "PRAMBANAN",
+      "category": "indonesia",
+      "difficulty": 3
+    },
+    {
+      "word": "AYERS",
+      "category": "australia",
+      "difficulty": 3
+    },
+    {
+      "word": "ULURU",
+      "category": "australia",
+      "difficulty": 3
+    },
+    {
+      "word": "MATTERHORN",
+      "category": "africa",
+      "difficulty": 3
+    },
+    {
+      "word": "HIMALAYA",
+      "category": "asia",
+      "difficulty": 3
+    }
+  ]
+}
