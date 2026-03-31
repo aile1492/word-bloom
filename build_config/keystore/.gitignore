@@ -1,0 +1,4 @@
+# Keystore files - NEVER commit
+*.keystore
+*.jks
+*.properties

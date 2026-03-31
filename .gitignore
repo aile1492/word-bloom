@@ -1,0 +1,36 @@
+# Godot-specific ignores
+.godot/
+*.import
+export_presets.cfg
+
+# Build artifacts
+build/
+android/build/
+ios/build/
+*.apk
+*.aab
+*.ipa
+*.exe
+*.zip
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+
+# AI Tools / Temp files
+.claude/
+notion_portfolio_uploader.py
+notion_portfolio_uploader_v2.py
+notion_portfolio_deep_dive.py
+notion_portfolio_deep_dive_v2.py
+notion_portfolio_korean.py
+notion_portfolio_unicode.py
+notion_portfolio_final.py
+notion_portfolio_final_v2.py
+clean_notion_mangled.py
+check_notion_type.py
