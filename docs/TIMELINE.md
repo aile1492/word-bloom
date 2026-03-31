@@ -23,100 +23,60 @@
 
 ## Phase 3: Monetization - AdMob Integration
 - Poing Studios AdMob 플러그인 설치
-- 광고 단위 3개 등록 (배너/전면/보상형)
-  - Banner: ca-app-pub-4172930503672560/5128863971
-  - Interstitial: ca-app-pub-4172930503672560/1273646341
-  - Rewarded: ca-app-pub-4172930503672560/9503490153
+- 광고 단위 3개 등록 (배너/전면/보상형) 및 정책 설계
+  - Banner / Interstitial / Rewarded Ad Units 구성 완료
 - ad_config.gd: 광고 정책 설정 (AD_FREE_LEVELS=4, INTERSTITIAL_INTERVAL=3)
 - ad_manager.gd: GDPR/UMP 동의 + iOS ATT + SDK 초기화
 - 광고 등급 제한: G (전체이용가)
-- 테스트/프로덕션 ID 전환 시스템
+- 테스트/프로덕션 ID 전환 시스템 구축
 
 ## Phase 4: In-App Purchase (IAP)
 - GodotGooglePlayBilling 플러그인 설치
 - iap_manager.gd: 구매 흐름 구현
-  - 제품: remove_ads (비소모성, $2.99)
+  - 제품: remove_ads (비소모성)
   - 구매 → 광고 제거 → SaveManager에 저장
 - Play Console에 인앱 상품 등록 완료
 
 ## Phase 5: Android Build System
 - Android Gradle 빌드 환경 구축 (JDK 17)
-- **UID 충돌 문제 발견 및 해결** (가장 큰 기술적 도전)
+- **UID 충돌 문제 발견 및 해결** (주요 기술적 도전 과제)
   - 원인: android/build/ 내 Gradle 산출물을 Godot가 프로젝트 리소스로 인식
-  - 해결: .gdignore 파일 5곳에 배치
-  - assetPacks 비활성화 시 PCK 누락 문제 발견 → 재활성화
-  - exclude_filter="android/*" 사용 시 PCK 누락 → 제거
-- 릴리즈 키스토어 생성 및 서명 설정
-- 빌드 스크립트 개발 (godot_clean_build.py)
-  - 자동 클린 → .gdignore 생성 → Gradle 설정 검증 → 빌드
-  - 실시간 진행률 표시 (스피너 + 경과 시간)
-  - 빌드 완료 자동 감지 + Gradle 데몬 자동 종료
-  - 출력 파일명에 버전 자동 포함
-- BAT 파일 시스템 (CMD 창에서 시각적 확인)
-  - build_apk.bat, build_aab.bat, build_both.bat
+  - 해결: .gdignore 파일 전략적 배치로 충돌 회피
+- 빌드 스크립트 고도화 (godot_clean_build.py)
+  - 자동 클린 → .gdignore 생성 → Gradle 설정 검증 → 빌드 자동화
+  - 실시간 진행률 및 빌드 상태 시각화
 
 ## Phase 6: Firebase Analytics
-- Firebase 프로젝트 생성 (word-bloom-393a3)
-- google-services.json 연동 (com.wordbloom.game)
-- Gradle에 Firebase BOM + Analytics 의존성 추가
-- analytics_manager.gd: 이벤트 추적 시스템
-  - session_start/end, app_open
-  - level_complete (레벨, 단어수, 시간, 힌트)
-  - hint_used, ad_watched, purchase
-- Measurement Protocol API 폴백 (비Android용)
+- Firebase 프로젝트 연동 및 분석 시스템 구축
+- analytics_manager.gd: 커스텀 이벤트 추적 시스템
+  - 스테이지 클리어율, 아이템 사용 빈도, 광고 시청 전환율 측정
+- Measurement Protocol API 폴백 구현
 
 ## Phase 7: Legal & Compliance
-- Privacy Policy + Terms of Service 작성
-  - GitHub Pages 호스팅: https://aile1492.github.io/word-bloom-policy/
-- CREDITS.md 작성 (Godot, 플러그인, 폰트 라이선스)
-- 폰트 OFL 라이선스 파일 추가
-- COPPA 설정 (아동 대상 아님, G등급 광고 제한)
-- 앱 콘텐츠 선언 (광고 ID, 데이터 보안, 금융 기능 없음)
+- Privacy Policy + Terms of Service 배포
+- CREDITS.md 및 오픈소스 라이선스 고지 준수
+- COPPA 및 GDPR 규정 준수 설정
 
 ## Phase 8: Google Play Console
-- 개발자 계정 생성 (개인, KIM MIN GWAN)
-- 앱 등록 (Word Bloom, 퍼즐 카테고리, 무료)
-- 스토어 등록정보 작성
-  - 앱 아이콘 (512x512), 그래픽 이미지 (1024x500)
-  - 스크린샷 (홈, 게임플레이, 레벨 선택, 상점)
-  - 간단한 설명 + 자세한 설명 (영어)
-- 콘텐츠 등급: IARC 3+ (전체이용가)
-- 타겟층: 18세 이상 (마케팅 대상)
-- 데이터 보안: 진단 + 기기 ID 수집 선언
-- 한국 개발자 추가 정보 제공
-- 판매자 계정 설정 (결제 프로필)
-- 15% 서비스 수수료 프로그램 등록
+- 개발자 계정 관리 및 앱 등록 프로세스 수행
+- 스토어 등록정보 최적화 (ASO 고려)
+  - 앱 아이콘, 그래픽 이미지, 다국어 스토어 설명 작성
+- 데이터 보안 선언 및 콘텐츠 등급 심사 완료
 
 ## Phase 9: Testing & Distribution
-- 내부 테스트: v1.0.0 ~ v1.0.7 (6회 업로드)
-  - PCK 누락 문제 발견 및 해결 (v1.0.2~1.0.5)
-  - 패키지명 변경 com.wordpuzzle.game → com.wordbloom.game
-- 비공개 테스트 (Beta Test) 트랙 생성 → 검토 제출
-- 웹 데모 배포: https://aile1492.github.io/word-bloom-web/
-  - class_name 충돌 해결 (웹 빌드 전용)
-  - 커스텀 HTML 셸 (세로 비율 고정)
-  - Service Worker 캐시 정리
+- 내부 테스트 및 QA 진행 (v1.0.0 ~ v1.0.7)
+- 비공개 테스트 (Beta Test) 운영 및 피드백 반영
+- 웹 데모 배포를 통한 접근성 확장
 
 ## Phase 10: DevOps & Tooling
-- 공통 빌드 도구 (_build_tools/godot_clean_build.py)
-  - 모든 프로젝트에서 공유 가능
-  - UID 충돌 자동 방지
-  - 실시간 빌드 진행률 표시
-- BAT 파일 시스템 (한글 경로 인코딩 해결)
-- 글로벌 CLAUDE.md: 빌드 규칙, 경로, 도구 정보 기록
-- 프로젝트별 CLAUDE.md: 코딩 표준, 폴더 구조, 금지 사항
-- PROJECT_INFO.md: 계정 정보, URL, 진행 상태 마스터 문서
-- Custom Skills (17개): 빌드, 배포, 디버깅, 코딩 패턴 등
+- 프로젝트 공통 빌드 도구 개발 및 자산화
+- 기술 문서화 (CLAUDE.md, PROJECT_INFO.md)를 통한 유지보수성 확보
+- Custom Skills 설계를 통한 개발 생산성 자동화
 
-## Current Status (2026-03-25)
-- **APK**: v1.0.7 정상 작동 (기기 테스트 완료)
-- **AAB**: v1.0.7 Play Console 업로드 완료
-- **비공개 테스트**: 검토 중 (승인 대기)
-- **프로덕션 출시**: 비공개 테스트 14일 운영 후 신청 예정
+## Current Status
+- **Android**: 프로덕션 빌드 완료 및 스토어 검토 대기
+- **Web**: 데모 배포 완료
+- **iOS**: 배포 환경 준비 중
 
-## Pending
-- [ ] 비공개 테스트 테스터 12명 모집
-- [ ] 14일 비공개 테스트 운영
-- [ ] 프로덕션 액세스 신청
-- [ ] AdMob ↔ 앱 스토어 연결 (프로덕션 출시 후)
-- [ ] Firebase ↔ AdMob 수익 연동 확인
+---
+*본 타임라인은 AI와 협업하여 달성한 고속 개발 프로세스의 기록입니다.*
