@@ -14,7 +14,7 @@ ComfyUI 생성 후 배경 제거(rembg) + 리사이즈를 자동으로 수행.
   python post_process_ui.py --only etc
 
 출력 폴더:
-  C:/Users/0/ai프로젝트/wordPuzzle_Godot/Puzzle/word-puzzle/assets/ui/
+  <repo>/src/word-puzzle/assets/ui/
 """
 
 import sys
@@ -27,7 +27,8 @@ from datetime import datetime
 # 설정
 # ──────────────────────────────────────────────
 COMFYUI_OUTPUT = Path("C:/ComfyUI/output")
-GODOT_UI_DIR   = Path("C:/Users/0/ai프로젝트/wordPuzzle_Godot/Puzzle/word-puzzle/assets/ui")
+REPO_ROOT = Path(__file__).resolve().parents[1]
+GODOT_UI_DIR = REPO_ROOT / "src" / "word-puzzle" / "assets" / "ui"
 
 # 처리 대상 정의
 # prefix        : ComfyUI output 파일명 앞부분

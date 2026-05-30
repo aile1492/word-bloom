@@ -18,13 +18,15 @@ import sys
 import shutil
 import subprocess
 import time
+from pathlib import Path
 
 # === Configuration ===
-PROJECT_DIR = r"C:\Users\0\ai프로젝트\wordPuzzle_Godot\Puzzle\word-puzzle"
+ROOT_DIR = Path(__file__).resolve().parents[1]
+PROJECT_DIR = str(Path(os.environ.get("WORD_BLOOM_PROJECT_DIR", ROOT_DIR / "src" / "word-puzzle")).resolve())
 ANDROID_BUILD = os.path.join(PROJECT_DIR, "android", "build")
-GODOT_EXE = r"C:\Users\0\Downloads\Godot_v4.6.1-stable_win64.exe\Godot_v4.6.1-stable_win64_console.exe"
-OUTPUT_DIR = r"C:\Users\0\ai프로젝트\wordPuzzle_Godot\build"
-ADB_PATH = r"C:\Users\0\AppData\Local\Android\Sdk\platform-tools\adb.exe"
+GODOT_EXE = os.environ.get("GODOT_EXE", "godot")
+OUTPUT_DIR = str(Path(os.environ.get("WORD_BLOOM_OUTPUT_DIR", ROOT_DIR / "build")).resolve())
+ADB_PATH = os.environ.get("ADB_PATH", "adb")
 PACKAGE_NAME = "com.wordbloom.game"
 
 # Directories that cause UID conflicts
@@ -89,7 +91,10 @@ def ensure_gdignore():
 def ensure_local_properties():
     """Ensure local.properties exists with SDK path."""
     lp = os.path.join(ANDROID_BUILD, "local.properties")
-    sdk_dir = r"C:\Users\0\AppData\Local\Android\Sdk"
+    sdk_dir = os.environ.get("ANDROID_SDK_ROOT") or os.environ.get("ANDROID_HOME")
+    if not sdk_dir:
+        log("  WARNING: ANDROID_SDK_ROOT or ANDROID_HOME is not set; local.properties was not written")
+        return
     if not os.path.exists(lp) or "sdk.dir" not in open(lp).read():
         with open(lp, "w") as f:
             f.write(f"sdk.dir={sdk_dir.replace(os.sep, '/')}\n")

@@ -16,7 +16,8 @@ from pathlib import Path
 from datetime import datetime
 
 COMFYUI_OUTPUT = Path("C:/ComfyUI/output")
-GODOT_ICONS    = Path("C:/Users/0/ai프로젝트/wordPuzzle_Godot/Puzzle/word-puzzle/assets/icons")
+REPO_ROOT = Path(__file__).resolve().parents[1]
+GODOT_ICONS = REPO_ROOT / "src" / "word-puzzle" / "assets" / "icons"
 
 # prefix → (출력경로, 크기, rembg여부)
 TARGETS = [
@@ -40,7 +41,7 @@ def find_latest(prefix):
     files = list(COMFYUI_OUTPUT.glob(f"{prefix}*.png"))
     # Also check assets/ui for coin/hint (already processed)
     if not files:
-        alt = Path("C:/Users/0/ai프로젝트/wordPuzzle_Godot/Puzzle/word-puzzle/assets/ui") / f"{prefix}.png"
+        alt = REPO_ROOT / "src" / "word-puzzle" / "assets" / "ui" / f"{prefix}.png"
         if alt.exists():
             return alt
     return max(files, key=lambda p: p.stat().st_mtime) if files else None

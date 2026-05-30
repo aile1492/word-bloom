@@ -6,8 +6,8 @@
 - **렌더러**: GL Compatibility (GLES3)
 - **언어**: GDScript
 - **플랫폼**: Android, iOS, Android TV, Fire TV
-- **프로젝트 경로**: `C:/Users/0/ai프로젝트/wordPuzzle_Godot/Puzzle/word-puzzle`
-- **기획서 경로**: `C:/Users/0/ai프로젝트/wordPuzzle_Godot/기획서 최종본/` — **읽기 전용, 수정 금지**
+- **프로젝트 경로**: `<repo>/src/word-puzzle`
+- **기획서 경로**: `<repo>/docs/planning/` — **읽기 전용, 수정 금지**
 
 ## 실행 방법
 
@@ -104,9 +104,9 @@ var upper_ch := ch.to_upper()             # ❌ (ch가 Variant인 경우)
 
 **UID 충돌 방지를 위해 반드시 클린 빌드 도구 사용:**
 ```bash
-python "C:\Users\0\ai프로젝트\_build_tools\godot_clean_build.py" wordPuzzle_Godot --apk
-python "C:\Users\0\ai프로젝트\_build_tools\godot_clean_build.py" wordPuzzle_Godot --aab
-python "C:\Users\0\ai프로젝트\_build_tools\godot_clean_build.py" wordPuzzle_Godot --install
+python "../../build_config/clean_build.py" --apk
+python "../../build_config/clean_build.py" --aab
+python "../../build_config/clean_build.py" --install
 ```
 
 **절대 하지 말 것:**
@@ -116,8 +116,8 @@ python "C:\Users\0\ai프로젝트\_build_tools\godot_clean_build.py" wordPuzzle_
 - `android/build/settings.gradle`의 `assetPackInstallTime` 주석 해제 금지
 
 **빌드 결과물 위치:**
-- APK: `C:\Users\0\ai프로젝트\wordPuzzle_Godot\build\apk\`
-- AAB: `C:\Users\0\ai프로젝트\wordPuzzle_Godot\build\aab\`
+- APK: `<repo>/build/apk/`
+- AAB: `<repo>/build/aab/`
 - 패키지명: `com.wordbloom.game`
 
 ## 금지 사항

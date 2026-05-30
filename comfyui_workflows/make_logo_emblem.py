@@ -10,7 +10,8 @@ import rembg
 
 COMFYUI_URL = "http://127.0.0.1:8000"
 OUTPUT_DIR  = Path("C:/ComfyUI/output")
-GODOT_OUT   = Path("C:/Users/0/ai프로젝트/wordPuzzle_Godot/Puzzle/word-puzzle/assets/ui/logo_emblem.png")
+REPO_ROOT   = Path(__file__).resolve().parents[1]
+GODOT_OUT   = REPO_ROOT / "src" / "word-puzzle" / "assets" / "ui" / "logo_emblem.png"
 WF_FILE     = Path(__file__).parent / "ui_logo_emblem.json"
 
 # 1. 큐 제출

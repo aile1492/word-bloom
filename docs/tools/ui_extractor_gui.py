@@ -21,7 +21,8 @@ from datetime import datetime
 GAME_W = 1080
 GAME_H = 1920
 
-GD_FILE = Path("C:/Users/0/ai프로젝트/wordPuzzle_Godot/Puzzle/word-puzzle/scripts/ui/screens/game_screen.gd")
+REPO_ROOT = Path(__file__).resolve().parents[2]
+GD_FILE = REPO_ROOT / "src" / "word-puzzle" / "scripts" / "ui" / "screens" / "game_screen.gd"
 ENV_FILE = Path(__file__).parent / ".env"
 
 COLORS = {
@@ -396,10 +397,10 @@ class App(tk.Tk):
 
     def _update_key_status(self):
         key = self._api_key.get().strip()
-        if key and key.startswith("sk-ant-"):
+        if key and key.startswith("sk-") and "ant-" in key:
             self._key_status.config(text="✓ API 키 설정됨", fg=COLORS["success"])
         elif key:
-            self._key_status.config(text="⚠ 형식 확인 필요 (sk-ant-api03-...)", fg=COLORS["warning"])
+            self._key_status.config(text="⚠ 형식 확인 필요 (<ANTHROPIC_API_KEY>)", fg=COLORS["warning"])
         else:
             self._key_status.config(text="API 키를 입력하세요", fg=COLORS["error"])
 

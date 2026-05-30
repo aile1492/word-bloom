@@ -7,6 +7,10 @@ export_presets.cfg
 build/
 android/build/
 ios/build/
+build_config/signing.properties
+build_config/keystore/
+*.keystore
+*.jks
 *.apk
 *.aab
 *.ipa

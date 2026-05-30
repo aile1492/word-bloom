@@ -931,14 +931,14 @@ func _request_tracking_authorization() -> void:
 ```gdscript
 # save_manager.gd
 
-const CHECKSUM_SECRET: String = "WordSearchPuzzle2026"  # 앱 내 고정 키
+const CHECKSUM_SALT: String = "<APP_CHECKSUM_SALT>"  # 앱 내 고정 문자열
 
 ## 세이브 데이터의 체크섬 생성
 func _generate_checksum(data: Dictionary) -> String:
     var data_copy: Dictionary = data.duplicate(true)
     data_copy.erase("checksum")  # 체크섬 필드 자체는 제외
     var json_str: String = JSON.stringify(data_copy, "", false)
-    return (json_str + CHECKSUM_SECRET).sha256_text()
+    return (json_str + CHECKSUM_SALT).sha256_text()
 
 ## 세이브 시 체크섬 포함
 func save() -> void:

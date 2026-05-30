@@ -10,7 +10,8 @@ import rembg
 
 COMFYUI_URL   = "http://127.0.0.1:8000"
 OUTPUT_DIR    = Path("C:/ComfyUI/output")
-GODOT_OUT     = Path("C:/Users/0/ai프로젝트/wordPuzzle_Godot/Puzzle/word-puzzle/assets/icons/tabs/home.png")
+REPO_ROOT     = Path(__file__).resolve().parents[1]
+GODOT_OUT     = REPO_ROOT / "src" / "word-puzzle" / "assets" / "icons" / "tabs" / "home.png"
 
 # 1. 가장 최근 icon_tab_home 파일 찾기 (이미 생성됐으면 바로 처리)
 existing = sorted(OUTPUT_DIR.glob("icon_tab_home*.png"), key=lambda p: p.stat().st_mtime)

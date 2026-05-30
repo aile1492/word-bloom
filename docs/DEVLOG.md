@@ -1,7 +1,7 @@
 # WordPuzzle Godot — 개발 로그
 
 기획서에 없는 추가 요청 사항 및 버그 수정 기록.
-기획서 경로: `C:/Users/0/ai프로젝트/wordPuzzle_Godot/기획서 최종본/`
+기획서 경로: `<repo>/docs/planning/`
 
 ---
 

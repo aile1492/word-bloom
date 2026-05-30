@@ -38,7 +38,8 @@ except ImportError:
 GAME_W = 1080
 GAME_H = 1920
 
-GD_FILE = Path("C:/Users/0/ai프로젝트/wordPuzzle_Godot/Puzzle/word-puzzle/scripts/ui/screens/game_screen.gd")
+REPO_ROOT = Path(__file__).resolve().parents[2]
+GD_FILE = REPO_ROOT / "src" / "word-puzzle" / "scripts" / "ui" / "screens" / "game_screen.gd"
 
 # 레이아웃 변수 목록 (game_screen.gd 에서 교체할 변수명)
 LAYOUT_VARS = [
@@ -146,7 +147,7 @@ def _get_api_key() -> str:
                 if key:
                     return key
 
-    print("\n[API 키 필요] Anthropic API 키를 입력하세요 (sk-ant-api03-...)")
+    print("\n[API 키 필요] Anthropic API 키를 입력하세요 (<ANTHROPIC_API_KEY>)")
     print("  한 번 입력하면 .env 파일에 저장되어 다음부터 자동 사용됩니다.")
     key = input("  API Key: ").strip()
     if key:

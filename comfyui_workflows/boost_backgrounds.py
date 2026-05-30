@@ -10,7 +10,8 @@ import os
 from pathlib import Path
 from PIL import Image, ImageEnhance
 
-BG_DIR = Path("C:/Users/0/ai프로젝트/wordPuzzle_Godot/Puzzle/word-puzzle/assets/backgrounds")
+REPO_ROOT = Path(__file__).resolve().parents[1]
+BG_DIR = REPO_ROOT / "src" / "word-puzzle" / "assets" / "backgrounds"
 
 SATURATION_FACTOR = 1.4
 BRIGHTNESS_FACTOR = 1.1
